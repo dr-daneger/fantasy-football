@@ -1,0 +1,170 @@
+team_key,team_name,owner,player_id,player,pos,nfl_team,is_starter
+461.l.1264351.t.8,Birds of War,Birds of War,100012,Kansas City,DEF,,True
+461.l.1264351.t.8,Birds of War,Birds of War,32417,Chase McLaughlin,K,,True
+461.l.1264351.t.8,Birds of War,Birds of War,32696,Jordan Love,QB,,False
+461.l.1264351.t.8,Birds of War,Birds of War,31833,Kyler Murray,QB,,True
+461.l.1264351.t.8,Birds of War,Birds of War,40055,Bijan Robinson,RB,,True
+461.l.1264351.t.8,Birds of War,Birds of War,34054,Brian Robinson Jr.,RB,,False
+461.l.1264351.t.8,Birds of War,Birds of War,34047,Rachaad White,RB,,False
+461.l.1264351.t.8,Birds of War,Birds of War,31960,Tony Pollard,RB,,True
+461.l.1264351.t.8,Birds of War,Birds of War,34085,Jake Ferguson,TE,,False
+461.l.1264351.t.8,Birds of War,Birds of War,34010,Trey McBride,TE,,True
+461.l.1264351.t.8,Birds of War,Birds of War,40041,Jaxon Smith-Njigba,WR,,True
+461.l.1264351.t.8,Birds of War,Birds of War,40901,Rome Odunze,WR,,True
+461.l.1264351.t.8,Birds of War,Birds of War,28534,Stefon Diggs,WR,,False
+461.l.1264351.t.8,Birds of War,Birds of War,40877,Xavier Worthy,WR,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,100008,Detroit,DEF,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,29754,Wil Lutz,K,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,40900,Caleb Williams,QB,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,33399,Justin Fields,QB,,False
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,31905,David Montgomery,RB,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,40095,Tank Bigsby,RB,,False
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,41048,Tyrone Tracy Jr.,RB,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,40048,Dalton Kincaid,TE,,False
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,30259,George Kittle,TE,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,32687,CeeDee Lamb,WR,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,33963,Drake London,WR,,True
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,33415,Rashod Bateman,WR,,False
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,40892,Ricky Pearsall,WR,,False
+461.l.1264351.t.12,Block Party Dane,Block Party Dane,31908,Terry McLaurin,WR,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,100002,Buffalo,DEF,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,40835,Jake Bates,K,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,30123,Patrick Mahomes,QB,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,40993,Bucky Irving,RB,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,33514,Chuba Hubbard,RB,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,42010,Jacory Croskey-Merritt,RB,,False
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,31856,Josh Jacobs,RB,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,40958,Trey Benson,RB,,False
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,30142,David Njoku,TE,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,30182,Cooper Kupp,WR,,False
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,40911,Keon Coleman,WR,,False
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,99001,Travis Hunter,WR,,False
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,29399,Tyreek Hill,WR,,True
+461.l.1264351.t.1,Chubba My's Huevo,Chubba My's Huevo,40039,Zay Flowers,WR,,True
+461.l.1264351.t.3,G baby oil,G baby oil,100007,Denver,DEF,,True
+461.l.1264351.t.3,G baby oil,G baby oil,30346,Harrison Butker,K,,True
+461.l.1264351.t.3,G baby oil,G baby oil,30971,Baker Mayfield,QB,,True
+461.l.1264351.t.3,G baby oil,G baby oil,40889,Michael Penix Jr.,QB,,False
+461.l.1264351.t.3,G baby oil,G baby oil,33991,Breece Hall,RB,,True
+461.l.1264351.t.3,G baby oil,G baby oil,32705,D'Andre Swift,RB,,False
+461.l.1264351.t.3,G baby oil,G baby oil,33996,Kenneth Walker III,RB,,True
+461.l.1264351.t.3,G baby oil,G baby oil,41821,Quinshon Judkins,RB,,False
+461.l.1264351.t.3,G baby oil,G baby oil,33413,Travis Etienne Jr.,RB,,False
+461.l.1264351.t.3,G baby oil,G baby oil,40102,Tucker Kraft,TE,,True
+461.l.1264351.t.3,G baby oil,G baby oil,31010,Courtland Sutton,WR,,True
+461.l.1264351.t.3,G baby oil,G baby oil,41824,Luther Burden III,WR,,False
+461.l.1264351.t.3,G baby oil,G baby oil,33477,Nico Collins,WR,,True
+461.l.1264351.t.3,G baby oil,G baby oil,40168,Puka Nacua,WR,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,100033,Baltimore,DEF,,False
+461.l.1264351.t.4,Hard Count john,Hard Count john,100026,Seattle,DEF,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,30197,Chris Godwin Jr.,IR,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,30426,Younghoe Koo,K,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,30977,Josh Allen,QB,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,30180,Alvin Kamara,RB,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,40196,Chase Brown,RB,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,33412,Najee Harris,RB,,False
+461.l.1264351.t.4,Hard Count john,Hard Count john,40075,Zach Charbonnet,RB,,False
+461.l.1264351.t.4,Hard Count john,Hard Count john,26686,Travis Kelce,TE,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,27277,Adam Thielen,WR,,False
+461.l.1264351.t.4,Hard Count john,Hard Count john,30996,Calvin Ridley,WR,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,31896,DK Metcalf,WR,,True
+461.l.1264351.t.4,Hard Count john,Hard Count john,32692,Justin Jefferson,WR,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,100024,Los Angeles,DEF,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,28188,Chris Boswell,K,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,40875,Bo Nix,QB,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,32675,Tua Tagovailoa,QB,,False
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,30121,Christian McCaffrey,RB,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,34207,Isiah Pacheco,RB,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,33508,Rhamondre Stevenson,RB,,False
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,31019,Dallas Goedert,TE,,False
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,31840,T.J. Hockenson,TE,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,40883,Brian Thomas Jr.,WR,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,32843,Darnell Mooney,WR,,False
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,40893,Marvin Harrison Jr.,WR,,True
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,40084,Rashee Rice,WR,,False
+461.l.1264351.t.7,Laser Arm Torrey,Laser Arm Torrey,32703,Tee Higgins,WR,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,100034,Houston,DEF,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,34344,Cameron Dicker,K,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,31002,Lamar Jackson,QB,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,32725,J.K. Dobbins,RB,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,40059,Jahmyr Gibbs,RB,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,34120,Kyren Williams,RB,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,31005,Nick Chubb,RB,,False
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,34107,Tyler Allgeier,RB,,False
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,40064,Sam LaPorta,TE,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,33966,Chris Olave,WR,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,27581,Davante Adams,WR,,True
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,32231,Jakobi Meyers,WR,,False
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,40063,Jayden Reed,WR,,False
+461.l.1264351.t.9,MVP Kenny,MVP Kenny,34104,Khalil Shakir,WR,,False
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,100014,Los Angeles,DEF,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,32695,Brandon Aiyuk,IR,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,32671,Joe Burrow,QB,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,41791,Ashton Jeanty,RB,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,40981,Braelon Allen,RB,,False
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,41922,Cam Skattebo,RB,,False
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,34320,Jordan Mason,RB,,False
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,41969,Ollie Gordon II,RB,,False
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,41807,Omarion Hampton,RB,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,41799,Tyler Warren,TE,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,41804,Emeka Egbuka,WR,,False
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,34007,George Pickens,WR,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,33967,Jameson Williams,WR,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,40899,Malik Nabers,WR,,True
+461.l.1264351.t.5,Nabers know my Name,Nabers know my Name,41808,Matthew Golden,WR,,False
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,100021,Philadelphia,DEF,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,40819,Brandon Aubrey,K,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,40905,J.J. McCarthy,QB,,False
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,40896,Jayden Daniels,QB,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,41900,Bhayshul Tuten,RB,,False
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,34447,Jaylen Warren,RB,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,41845,RJ Harvey,RB,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,41823,TreVeyon Henderson,RB,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,40878,Brock Bowers,TE,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,30213,Jonnu Smith,TE,,False
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,31868,Deebo Samuel,WR,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,33393,Ja'Marr Chase,WR,,True
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,41819,Jayden Higgins,WR,,False
+461.l.1264351.t.2,Orbital Tits,Orbital Tits,40126,Josh Downs,WR,,False
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,100016,Minnesota,DEF,,True
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,33537,Evan McPherson,K,,True
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,34218,Brock Purdy,QB,,True
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,32676,Justin Herbert,QB,,False
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,30218,James Conner,RB,,True
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,33423,Javonte Williams,RB,,False
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,30972,Saquon Barkley,RB,,True
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,29269,Hunter Henry,TE,,False
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,31056,Mark Andrews,TE,,True
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,31883,A.J. Brown,WR,,True
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,33398,DeVonta Smith,WR,,True
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,32887,Jauan Jennings,WR,,False
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,40042,Jordan Addison,WR,,False
+461.l.1264351.t.10,Smooth Route Gavin,Smooth Route Gavin,40908,Ladd McConkey,WR,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,100009,Green Bay,DEF,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,41062,Cam Little,K,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,32723,Jalen Hurts,QB,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,30295,Aaron Jones Sr.,RB,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,40118,De'Von Achane,RB,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,30161,Joe Mixon,RB,,False
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,30136,Evan Engram,TE,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,33392,Kyle Pitts Sr.,TE,,False
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,28392,Amari Cooper,WR,,False
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,33500,Amon-Ra St. Brown,WR,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,33965,Garrett Wilson,WR,,True
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,32685,Jerry Jeudy,WR,,False
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,34659,Rashid Shaheed,WR,,False
+461.l.1264351.t.11,Soft Hands David,Soft Hands David,41793,Tetairoa McMillan,WR,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,100023,Pittsburgh,DEF,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,29792,Ka'imi Fairbairn,K,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,29369,Dak Prescott,QB,,False
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,29235,Jared Goff,QB,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,30423,Austin Ekeler,RB,,False
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,29279,Derrick Henry,RB,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,34019,James Cook,RB,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,32711,Jonathan Taylor,RB,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,41881,Kaleb Johnson,RB,,False
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,41795,Colston Loveland,TE,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,30994,DJ Moore,WR,,True
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,33394,Jaylen Waddle,WR,,False
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,32704,Michael Pittman Jr.,WR,,False
+461.l.1264351.t.6,Spin Zone PHAMTOM,Spin Zone PHAMTOM,27535,Mike Evans,WR,,True
