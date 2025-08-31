@@ -1,0 +1,712 @@
+"player","fp_player_slug","team","pos","year","week","fantasypts","pulled_at","source","fantasypros_id","player_name","passing_att","passing_cmp","passing_yds","passing_tds","passing_ints","rushing_att","rushing_yds","rushing_tds","misc_fl","misc_fpts","receiving_rec","receiving_yds","receiving_tds","fg","fga","xpt","fpts","sack","int","fr","ff","td","safety","pa","yds_agn"
+"Jalen Hurts","jalen-hurts",NA,"QB",2025,1,22.5,"2025-08-30T23:13:20Z","fantasypros","19275","Jalen Hurts",27.8,18.8,216.8,1.4,0.6,8.4,42.5,0.9,0.3,22.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lamar Jackson","lamar-jackson",NA,"QB",2025,1,22.2,"2025-08-30T23:13:20Z","fantasypros","17233","Lamar Jackson",30.4,20.3,236.4,1.8,0.6,7.4,52.5,0.2,0.3,22.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Allen","josh-allen",NA,"QB",2025,1,22,"2025-08-30T23:13:20Z","fantasypros","17298","Josh Allen",33.1,21,241.4,1.6,0.7,6.7,33.8,0.6,0.2,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jayden Daniels","jayden-daniels",NA,"QB",2025,1,21.3,"2025-08-30T23:13:20Z","fantasypros","22902","Jayden Daniels",31.1,21,230.4,1.5,0.6,7.8,46.6,0.4,0.2,21.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joe Burrow","joe-burrow",NA,"QB",2025,1,20.5,"2025-08-30T23:13:20Z","fantasypros","19196","Joe Burrow",35.8,24.5,275.5,2.2,0.7,2.8,11.4,0.1,0.2,20.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Patrick Mahomes II","patrick-mahomes",NA,"QB",2025,1,19.7,"2025-08-30T23:13:20Z","fantasypros","16413","Patrick Mahomes II",35.3,23.7,254.4,1.9,0.7,4.8,21.8,0.2,0.2,19.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Baker Mayfield","baker-mayfield",NA,"QB",2025,1,19,"2025-08-30T23:13:20Z","fantasypros","17237","Baker Mayfield",33.2,23,248.9,1.9,0.8,3.8,17.7,0.1,0.3,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyler Murray","kyler-murray",NA,"QB",2025,1,18.4,"2025-08-30T23:13:20Z","fantasypros","18600","Kyler Murray",31.2,21,221.9,1.4,0.7,5.6,33.5,0.3,0.2,18.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bo Nix","bo-nix",NA,"QB",2025,1,18,"2025-08-30T23:13:20Z","fantasypros","22910","Bo Nix",32,21.1,225.4,1.6,0.7,5.3,25.2,0.2,0.2,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brock Purdy","brock-purdy",NA,"QB",2025,1,17.9,"2025-08-30T23:13:20Z","fantasypros","19797","Brock Purdy",31.9,21,256.6,1.5,0.8,3.4,16.2,0.2,0.2,17.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trevor Lawrence","trevor-lawrence",NA,"QB",2025,1,17.5,"2025-08-30T23:13:20Z","fantasypros","19780","Trevor Lawrence",32.9,21.4,243.9,1.5,0.7,3.4,16.7,0.2,0.3,17.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Drake Maye","drake-maye",NA,"QB",2025,1,17,"2025-08-30T23:13:20Z","fantasypros","23046","Drake Maye",29.7,20,214,1.5,0.7,4.7,27.4,0.2,0.3,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"J.J. McCarthy","j-j-mccarthy",NA,"QB",2025,1,16.9,"2025-08-30T23:13:20Z","fantasypros","23018","J.J. McCarthy",34.4,22.4,242.1,1.5,0.8,3.4,15.9,0.1,0.2,16.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dak Prescott","dak-prescott",NA,"QB",2025,1,16.9,"2025-08-30T23:13:20Z","fantasypros","15600","Dak Prescott",35.8,23.2,250.5,1.6,0.8,2.7,11,0.1,0.2,16.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Russell Wilson","russell-wilson",NA,"QB",2025,1,16.9,"2025-08-30T23:13:20Z","fantasypros","11180","Russell Wilson",33.1,20.9,243.4,1.4,0.6,4.1,16.8,0.1,0.2,16.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Justin Herbert","justin-herbert",NA,"QB",2025,1,16.8,"2025-08-30T23:13:20Z","fantasypros","18635","Justin Herbert",33.5,22,237.6,1.4,0.6,3.9,17.1,0.1,0.2,16.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"C.J. Stroud","c-j-stroud",NA,"QB",2025,1,16.8,"2025-08-30T23:13:20Z","fantasypros","23071","C.J. Stroud",34.3,22,245.9,1.4,0.7,3.9,15.9,0.1,0.2,16.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jared Goff","jared-goff",NA,"QB",2025,1,16.7,"2025-08-30T23:13:20Z","fantasypros","15501","Jared Goff",33.8,23.1,260.6,1.6,0.7,1.5,5.2,0.1,0.2,16.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan Love","jordan-love",NA,"QB",2025,1,16.7,"2025-08-30T23:13:20Z","fantasypros","19246","Jordan Love",32.1,20,234,1.6,0.8,2.9,12,0.2,0.2,16.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tua Tagovailoa","tua-tagovailoa",NA,"QB",2025,1,16.4,"2025-08-30T23:13:20Z","fantasypros","19198","Tua Tagovailoa",34.9,24.1,260.3,1.6,0.8,1.6,6.3,0.1,0.3,16.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Justin Fields","justin-fields",NA,"QB",2025,1,16.2,"2025-08-30T23:13:20Z","fantasypros","19781","Justin Fields",28.4,17.6,192.5,1,0.8,8.3,41.3,0.3,0.3,16.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sam Darnold","sam-darnold",NA,"QB",2025,1,16,"2025-08-30T23:13:20Z","fantasypros","17236","Sam Darnold",32.4,21.1,232.6,1.5,0.9,3.7,14.5,0.1,0.2,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Caleb Williams","caleb-williams",NA,"QB",2025,1,15.9,"2025-08-30T23:13:20Z","fantasypros","23084","Caleb Williams",31.7,20,213.6,1.3,0.7,5.3,26.6,0.1,0.3,15.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joe Flacco","joe-flacco",NA,"QB",2025,1,15.8,"2025-08-30T23:13:20Z","fantasypros","9300","Joe Flacco",35.1,22.6,256.8,1.5,0.9,1.9,6,0.1,0.3,15.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bryce Young","bryce-young",NA,"QB",2025,1,15.7,"2025-08-30T23:13:20Z","fantasypros","22900","Bryce Young",32.7,20.6,221.7,1.3,0.7,3.4,18.1,0.2,0.3,15.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matthew Stafford","matthew-stafford",NA,"QB",2025,1,15.6,"2025-08-30T23:13:20Z","fantasypros","9451","Matthew Stafford",33,21.2,237.6,1.5,0.7,2.4,5.8,0.1,0.2,15.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Penix Jr.","michael-penix",NA,"QB",2025,1,15.5,"2025-08-30T23:13:20Z","fantasypros","22973","Michael Penix Jr.",31.9,20.4,225.1,1.4,0.7,3.3,13.4,0.2,0.2,15.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Geno Smith","geno-smith",NA,"QB",2025,1,15.4,"2025-08-30T23:13:20Z","fantasypros","11687","Geno Smith",34,22.9,246.4,1.3,0.8,3,13.1,0.1,0.2,15.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Daniel Jones","daniel-jones",NA,"QB",2025,1,15.3,"2025-08-30T23:13:20Z","fantasypros","18232","Daniel Jones",30.3,19.3,196,1.1,0.6,6,28.8,0.2,0.3,15.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cam Ward","cam-ward",NA,"QB",2025,1,14.7,"2025-08-30T23:13:20Z","fantasypros","24755","Cam Ward",32.3,20.4,217.6,1.1,0.8,4.5,19.2,0.1,0.3,14.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spencer Rattler","spencer-rattler",NA,"QB",2025,1,13.3,"2025-08-30T23:13:20Z","fantasypros","23081","Spencer Rattler",32.5,20.4,191,1.2,0.7,3.2,15.3,0.1,0.3,13.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aaron Rodgers","aaron-rodgers",NA,"QB",2025,1,13.9,"2025-08-30T23:13:20Z","fantasypros","9001","Aaron Rodgers",31.3,20.2,217.5,1.4,0.5,0.9,4.5,0,0.2,13.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mason Rudolph","mason-rudolph",NA,"QB",2025,1,1.5,"2025-08-30T23:13:20Z","fantasypros","17234","Mason Rudolph",0.5,0.3,3.3,0,0,2,8.9,0.1,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalen Milroe","jalen-milroe",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","22884","Jalen Milroe",0.3,0.2,1.2,0,0,0.3,1.2,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nick Mullens","nick-mullens",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","16726","Nick Mullens",0.3,0.2,2.7,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Browning","jake-browning",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","18557","Jake Browning",0.4,0.2,2.6,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gardner Minshew II","gardner-minshew",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","18562","Gardner Minshew II",0.4,0.2,2.6,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sam Howell","sam-howell",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","23045","Sam Howell",0.4,0.2,2.4,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Teddy Bridgewater","teddy-bridgewater",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","12088","Teddy Bridgewater",0.3,0.2,2.5,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Carson Wentz","carson-wentz",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","15520","Carson Wentz",0.4,0.2,2.5,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jimmy Garoppolo","jimmy-garoppolo",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","12208","Jimmy Garoppolo",0.3,0.2,2.6,0,0,0,0,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marcus Mariota","marcus-mariota",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","13890","Marcus Mariota",0.3,0.2,2.3,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jarrett Stidham","jarrett-stidham",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","18604","Jarrett Stidham",0.3,0.2,2.2,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cooper Rush","cooper-rush",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","16477","Cooper Rush",0.3,0.2,2.2,0,0,0,0,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joshua Dobbs","joshua-dobbs",NA,"QB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","16417","Joshua Dobbs",0.3,0.2,2,0,0,0,0.1,0,0,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trey Lance","trey-lance",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","20082","Trey Lance",0.3,0.2,2.4,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joe Milton III","joe-milton",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","25967","Joe Milton III",0.4,0.2,2.5,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Davis Mills","davis-mills",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","22799","Davis Mills",0.4,0.2,2.5,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kirk Cousins","kirk-cousins",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","11177","Kirk Cousins",0.3,0.2,2.6,0,0,0,0,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andy Dalton","andy-dalton",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","9907","Andy Dalton",0.4,0.2,2.5,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zach Wilson","zach-wilson",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","22679","Zach Wilson",0.3,0.2,2.2,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Drew Lock","drew-lock",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","18225","Drew Lock",0.3,0.2,2.2,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyson Bagent","tyson-bagent",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","25321","Tyson Bagent",0.3,0.2,2.3,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Malik Willis","malik-willis",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","23499","Malik Willis",0.3,0.2,2.1,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aidan O'Connell","aidan-o-connell",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","24330","Aidan O'Connell",0.4,0.2,2.4,0,0,0,0,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hendon Hooker","hendon-hooker",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","24332","Hendon Hooker",0.3,0.2,2.2,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kenny Pickett","kenny-pickett",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","22722","Kenny Pickett",0.4,0.2,2.2,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyrod Taylor","tyrod-taylor",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","10007","Tyrod Taylor",0.3,0.2,1.9,0,0,0,0.2,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacoby Brissett","jacoby-brissett",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","15642","Jacoby Brissett",0.3,0.2,2.1,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mac Jones","mac-jones",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","20156","Mac Jones",0.3,0.2,2.2,0,0,0,0,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tanner McKee","tanner-mckee",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","24740","Tanner McKee",0.3,0.2,2.1,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mitchell Trubisky","mitchell-trubisky",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","16381","Mitchell Trubisky",0.3,0.2,2.1,0,0,0,0,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyle Allen","kyle-allen",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","17869","Kyle Allen",0.3,0.2,2.1,0,0,0,0,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Case Keenum","case-keenum",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","11425","Case Keenum",0.3,0.2,2,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon Allen","brandon-allen",NA,"QB",2025,1,0.1,"2025-08-30T23:13:20Z","fantasypros","15745","Brandon Allen",0.3,0.2,2,0,0,0,0.1,0,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaxson Dart","jaxson-dart",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23160","Jaxson Dart",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Shough","tyler-shough",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23096","Tyler Shough",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Anthony Richardson Sr.","anthony-richardson",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24347","Anthony Richardson Sr.",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dillon Gabriel","dillon-gabriel",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23150","Dillon Gabriel",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shedeur Sanders","shedeur-sanders",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25968","Shedeur Sanders",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jameis Winston","jameis-winston",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","13891","Jameis Winston",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Deshaun Watson","deshaun-watson",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","16398","Deshaun Watson",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Johnson","josh-johnson",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","9326","Josh Johnson",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Skylar Thompson","skylar-thompson",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24170","Skylar Thompson",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Stetson Bennett IV","stetson-bennett",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23927","Stetson Bennett IV",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tommy DeVito","tommy-devito",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25746","Tommy DeVito",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quinn Ewers","quinn-ewers",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23680","Quinn Ewers",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Graham Mertz","graham-mertz",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23186","Graham Mertz",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kurtis Rourke","kurtis-rourke",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","27129","Kurtis Rourke",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Riley Leonard","riley-leonard",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25373","Riley Leonard",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Will Howard","will-howard",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25972","Will Howard",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trevor Siemian","trevor-siemian",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","14142","Trevor Siemian",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brett Rypien","brett-rypien",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18323","Brett Rypien",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Easton Stick","easton-stick",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18446","Easton Stick",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Huntley","tyler-huntley",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19297","Tyler Huntley",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sam Ehlinger","sam-ehlinger",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19803","Sam Ehlinger",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bailey Zappe","bailey-zappe",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24027","Bailey Zappe",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Oladokun","chris-oladokun",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24575","Chris Oladokun",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shane Buechele","shane-buechele",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19376","Shane Buechele",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Haener","jake-haener",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24728","Jake Haener",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Clayton Tune","clayton-tune",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25227","Clayton Tune",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cam Miller","cam-miller",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","27289","Cam Miller",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyle McCord","kyle-mccord",NA,"QB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23066","Kyle McCord",0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Saquon Barkley","saquon-barkley",NA,"RB",2025,1,20.6,"2025-08-30T23:13:20Z","fantasypros","17240","Saquon Barkley",NA,NA,NA,NA,NA,21.3,107.7,0.8,0.1,20.6,2.6,20.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bijan Robinson","bijan-robinson",NA,"RB",2025,1,19.6,"2025-08-30T23:13:20Z","fantasypros","23133","Bijan Robinson",NA,NA,NA,NA,NA,18.5,84.6,0.7,0.1,19.6,3.5,27.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Christian McCaffrey","christian-mccaffrey",NA,"RB",2025,1,19.6,"2025-08-30T23:13:20Z","fantasypros","16393","Christian McCaffrey",NA,NA,NA,NA,NA,14.8,74.2,0.4,0.1,19.6,4.5,37.7,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jahmyr Gibbs","jahmyr-gibbs",NA,"RB",2025,1,18.8,"2025-08-30T23:13:20Z","fantasypros","22968","Jahmyr Gibbs",NA,NA,NA,NA,NA,14,72.2,0.7,0.1,18.8,3.6,30.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"De'Von Achane","de-von-achane",NA,"RB",2025,1,18.6,"2025-08-30T23:13:20Z","fantasypros","23136","De'Von Achane",NA,NA,NA,NA,NA,14.7,67.3,0.5,0.1,18.6,4.3,31.9,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jonathan Taylor","jonathan-taylor",NA,"RB",2025,1,17.7,"2025-08-30T23:13:20Z","fantasypros","19217","Jonathan Taylor",NA,NA,NA,NA,NA,19,91.7,0.8,0.1,17.7,1.9,14.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chase Brown","chase-brown",NA,"RB",2025,1,17.2,"2025-08-30T23:13:20Z","fantasypros","25324","Chase Brown",NA,NA,NA,NA,NA,16.2,72.4,0.5,0.1,17.2,3.5,25.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bucky Irving","bucky-irving",NA,"RB",2025,1,16.2,"2025-08-30T23:13:20Z","fantasypros","25981","Bucky Irving",NA,NA,NA,NA,NA,14.5,72.7,0.5,0.1,16.2,2.9,23.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ashton Jeanty","ashton-jeanty",NA,"RB",2025,1,16,"2025-08-30T23:13:20Z","fantasypros","25989","Ashton Jeanty",NA,NA,NA,NA,NA,15,71.7,0.5,0.1,16,2.9,24.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyren Williams","kyren-williams",NA,"RB",2025,1,15.7,"2025-08-30T23:13:20Z","fantasypros","23059","Kyren Williams",NA,NA,NA,NA,NA,17.6,75.3,0.7,0.1,15.7,2,13.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alvin Kamara","alvin-kamara",NA,"RB",2025,1,15.4,"2025-08-30T23:13:20Z","fantasypros","16421","Alvin Kamara",NA,NA,NA,NA,NA,13.5,58.4,0.4,0.1,15.4,3.7,29.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Derrick Henry","derrick-henry",NA,"RB",2025,1,15.4,"2025-08-30T23:13:20Z","fantasypros","15514","Derrick Henry",NA,NA,NA,NA,NA,17.1,88.6,0.8,0.1,15.4,0.8,7.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Jacobs","josh-jacobs",NA,"RB",2025,1,15.3,"2025-08-30T23:13:20Z","fantasypros","18269","Josh Jacobs",NA,NA,NA,NA,NA,16.7,68.7,0.7,0.1,15.3,2.2,18,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chuba Hubbard","chuba-hubbard",NA,"RB",2025,1,15.2,"2025-08-30T23:13:20Z","fantasypros","19792","Chuba Hubbard",NA,NA,NA,NA,NA,16.6,70.6,0.6,0.1,15.2,2.6,16.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"James Conner","james-conner",NA,"RB",2025,1,15,"2025-08-30T23:13:20Z","fantasypros","16447","James Conner",NA,NA,NA,NA,NA,14.6,67.5,0.6,0.1,15,2.5,18.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"James Cook","james-cook",NA,"RB",2025,1,13.7,"2025-08-30T23:13:20Z","fantasypros","22958","James Cook",NA,NA,NA,NA,NA,13.6,60.2,0.6,0.1,13.7,2.1,16.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Omarion Hampton","omarion-hampton",NA,"RB",2025,1,13.6,"2025-08-30T23:13:20Z","fantasypros","25395","Omarion Hampton",NA,NA,NA,NA,NA,13.2,62.6,0.5,0.1,13.6,2.4,17.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kenneth Walker III","kenneth-walker",NA,"RB",2025,1,13.5,"2025-08-30T23:13:20Z","fantasypros","23021","Kenneth Walker III",NA,NA,NA,NA,NA,14.1,57.4,0.5,0.1,13.5,2.5,19.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tony Pollard","tony-pollard",NA,"RB",2025,1,13.5,"2025-08-30T23:13:20Z","fantasypros","18705","Tony Pollard",NA,NA,NA,NA,NA,15.8,64.9,0.3,0.1,13.5,2.8,18.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"TreVeyon Henderson","treveyon-henderson",NA,"RB",2025,1,10.2,"2025-08-30T23:13:20Z","fantasypros","23065","TreVeyon Henderson",NA,NA,NA,NA,NA,11.7,48.6,0.3,0.1,10.2,1.8,14.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Breece Hall","breece-hall",NA,"RB",2025,1,13.1,"2025-08-30T23:13:20Z","fantasypros","22982","Breece Hall",NA,NA,NA,NA,NA,13.9,59.2,0.3,0.1,13.1,2.7,22.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jerome Ford","jerome-ford",NA,"RB",2025,1,13,"2025-08-30T23:13:20Z","fantasypros","22921","Jerome Ford",NA,NA,NA,NA,NA,13.5,56.7,0.3,0.1,13,2.7,20.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Isiah Pacheco","isiah-pacheco",NA,"RB",2025,1,12.7,"2025-08-30T23:13:20Z","fantasypros","24333","Isiah Pacheco",NA,NA,NA,NA,NA,13,58.5,0.4,0.1,12.7,2.4,16.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aaron Jones Sr.","aaron-jones",NA,"RB",2025,1,12.7,"2025-08-30T23:13:20Z","fantasypros","16673","Aaron Jones Sr.",NA,NA,NA,NA,NA,12,54.1,0.3,0.1,12.7,2.7,20.1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaylen Warren","jaylen-warren",NA,"RB",2025,1,12.2,"2025-08-30T23:13:20Z","fantasypros","24209","Jaylen Warren",NA,NA,NA,NA,NA,10.3,50.2,0.2,0.1,12.2,3.1,22.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyrone Tracy Jr.","tyrone-tracy",NA,"RB",2025,1,11.9,"2025-08-30T23:13:20Z","fantasypros","22980","Tyrone Tracy Jr.",NA,NA,NA,NA,NA,11.3,54.8,0.4,0.1,11.9,2.1,17.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"D'Andre Swift","d-andre-swift",NA,"RB",2025,1,11.9,"2025-08-30T23:13:20Z","fantasypros","19210","D'Andre Swift",NA,NA,NA,NA,NA,14,57.7,0.4,0.1,11.9,1.9,14.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Montgomery","david-montgomery",NA,"RB",2025,1,11.6,"2025-08-30T23:13:20Z","fantasypros","18239","David Montgomery",NA,NA,NA,NA,NA,11.2,46.8,0.5,0.1,11.6,1.9,15,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"RJ Harvey","rj-harvey",NA,"RB",2025,1,11.5,"2025-08-30T23:13:20Z","fantasypros","27142","RJ Harvey",NA,NA,NA,NA,NA,11.5,50.8,0.4,0.1,11.5,2,17,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austin Ekeler","austin-ekeler",NA,"RB",2025,1,10.8,"2025-08-30T23:13:20Z","fantasypros","16483","Austin Ekeler",NA,NA,NA,NA,NA,6.8,31.6,0.4,0.1,10.8,2.6,21.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travis Etienne Jr.","travis-etienne",NA,"RB",2025,1,10.6,"2025-08-30T23:13:20Z","fantasypros","19231","Travis Etienne Jr.",NA,NA,NA,NA,NA,9.3,42,0.3,0.1,10.6,2.5,19.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"J.K. Dobbins","j-k-dobbins",NA,"RB",2025,1,10.4,"2025-08-30T23:13:20Z","fantasypros","19245","J.K. Dobbins",NA,NA,NA,NA,NA,9.3,43.5,0.3,0.1,10.4,2.1,14.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Javonte Williams","javonte-williams",NA,"RB",2025,1,10.3,"2025-08-30T23:13:20Z","fantasypros","22739","Javonte Williams",NA,NA,NA,NA,NA,10.1,43.3,0.3,0.1,10.3,2.3,14.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zach Charbonnet","zach-charbonnet",NA,"RB",2025,1,9.8,"2025-08-30T23:13:20Z","fantasypros","23152","Zach Charbonnet",NA,NA,NA,NA,NA,8.9,38,0.3,0,9.8,2.1,16.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kaleb Johnson","kaleb-johnson",NA,"RB",2025,1,9.8,"2025-08-30T23:13:20Z","fantasypros","27165","Kaleb Johnson",NA,NA,NA,NA,NA,12.4,49,0.4,0.1,9.8,1.4,11.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacory Croskey-Merritt","jacory-croskey-merritt",NA,"RB",2025,1,9.5,"2025-08-30T23:13:20Z","fantasypros","27316","Jacory Croskey-Merritt",NA,NA,NA,NA,NA,11.1,45.3,0.3,0,9.5,1.5,10.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dylan Sampson","dylan-sampson",NA,"RB",2025,1,9.3,"2025-08-30T23:13:20Z","fantasypros","27102","Dylan Sampson",NA,NA,NA,NA,NA,8.9,43.4,0.3,0.1,9.3,1.6,13,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan Mason","jordan-mason",NA,"RB",2025,1,8.9,"2025-08-30T23:13:20Z","fantasypros","22969","Jordan Mason",NA,NA,NA,NA,NA,9.4,48.3,0.3,0.1,8.9,1.1,8.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rhamondre Stevenson","rhamondre-stevenson",NA,"RB",2025,1,8.5,"2025-08-30T23:13:20Z","fantasypros","22726","Rhamondre Stevenson",NA,NA,NA,NA,NA,9.2,37.4,0.3,0.1,8.5,1.5,10,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tank Bigsby","tank-bigsby",NA,"RB",2025,1,8.3,"2025-08-30T23:13:20Z","fantasypros","22908","Tank Bigsby",NA,NA,NA,NA,NA,9.9,45.3,0.4,0.1,8.3,0.8,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nick Chubb","nick-chubb",NA,"RB",2025,1,8.1,"2025-08-30T23:13:20Z","fantasypros","17246","Nick Chubb",NA,NA,NA,NA,NA,8,41.7,0.3,0.1,8.1,0.9,8.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ollie Gordon II","ollie-gordon",NA,"RB",2025,1,7.9,"2025-08-30T23:13:20Z","fantasypros","25984","Ollie Gordon II",NA,NA,NA,NA,NA,8.1,38.4,0.3,0,7.9,1.3,9.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rachaad White","rachaad-white",NA,"RB",2025,1,7.4,"2025-08-30T23:13:20Z","fantasypros","23891","Rachaad White",NA,NA,NA,NA,NA,6.3,24.5,0.2,0.1,7.4,2,15.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trey Benson","trey-benson",NA,"RB",2025,1,7.3,"2025-08-30T23:13:20Z","fantasypros","25388","Trey Benson",NA,NA,NA,NA,NA,8,35.1,0.3,0.1,7.3,1.1,9.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cam Skattebo","cam-skattebo",NA,"RB",2025,1,6.9,"2025-08-30T23:13:20Z","fantasypros","27166","Cam Skattebo",NA,NA,NA,NA,NA,7.9,31.2,0.2,0,6.9,1.2,10.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rico Dowdle","rico-dowdle",NA,"RB",2025,1,6,"2025-08-30T23:13:20Z","fantasypros","19647","Rico Dowdle",NA,NA,NA,NA,NA,5.7,25.2,0.1,0,6,1.4,10.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaydon Blue","jaydon-blue",NA,"RB",2025,1,5.9,"2025-08-30T23:13:20Z","fantasypros","24344","Jaydon Blue",NA,NA,NA,NA,NA,6,26.1,0.2,0,5.9,1.1,8.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Woody Marks","woody-marks",NA,"RB",2025,1,5.8,"2025-08-30T23:13:20Z","fantasypros","27520","Woody Marks",NA,NA,NA,NA,NA,4.3,18.5,0.1,0,5.8,1.6,12.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kareem Hunt","kareem-hunt",NA,"RB",2025,1,5.7,"2025-08-30T23:13:20Z","fantasypros","16425","Kareem Hunt",NA,NA,NA,NA,NA,4.2,18.8,0.2,0,5.7,1.3,9.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Allgeier","tyler-allgeier",NA,"RB",2025,1,4.8,"2025-08-30T23:13:20Z","fantasypros","24172","Tyler Allgeier",NA,NA,NA,NA,NA,5.9,26.6,0.2,0,4.8,0.6,3.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Braelon Allen","braelon-allen",NA,"RB",2025,1,5.4,"2025-08-30T23:13:20Z","fantasypros","24346","Braelon Allen",NA,NA,NA,NA,NA,5.9,25.5,0.2,0,5.4,0.9,8.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dameon Pierce","dameon-pierce",NA,"RB",2025,1,5.1,"2025-08-30T23:13:20Z","fantasypros","22947","Dameon Pierce",NA,NA,NA,NA,NA,6.3,27.4,0.1,0.1,5.1,0.9,6.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Roschon Johnson","roschon-johnson",NA,"RB",2025,1,4.8,"2025-08-30T23:13:20Z","fantasypros","25322","Roschon Johnson",NA,NA,NA,NA,NA,4.8,16.3,0.2,0,4.8,0.9,6.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joe Mixon","joe-mixon",NA,"RB",2025,1,4.8,"2025-08-30T23:13:20Z","fantasypros","16420","Joe Mixon",NA,NA,NA,NA,NA,5.2,21.1,0.1,0,4.8,1,6.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Justice Hill","justice-hill",NA,"RB",2025,1,4.8,"2025-08-30T23:13:20Z","fantasypros","18256","Justice Hill",NA,NA,NA,NA,NA,2.3,10.3,0.1,0,4.8,1.6,13.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ray Davis","ray-davis",NA,"RB",2025,1,4.7,"2025-08-30T23:13:20Z","fantasypros","26191","Ray Davis",NA,NA,NA,NA,NA,5.5,22.9,0.2,0,4.7,0.6,5.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kendre Miller","kendre-miller",NA,"RB",2025,1,4.7,"2025-08-30T23:13:20Z","fantasypros","24360","Kendre Miller",NA,NA,NA,NA,NA,6.2,24.1,0.1,0,4.7,0.7,5.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Blake Corum","blake-corum",NA,"RB",2025,1,4.6,"2025-08-30T23:13:20Z","fantasypros","23013","Blake Corum",NA,NA,NA,NA,NA,5.4,20,0.1,0,4.6,0.9,7.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Rodriguez Jr.","chris-rodriguez",NA,"RB",2025,1,4.9,"2025-08-30T23:13:20Z","fantasypros","22986","Chris Rodriguez Jr.",NA,NA,NA,NA,NA,6,24.5,0.2,0,4.9,0.5,4.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bhayshul Tuten","bhayshul-tuten",NA,"RB",2025,1,4.4,"2025-08-30T23:13:20Z","fantasypros","27297","Bhayshul Tuten",NA,NA,NA,NA,NA,4.1,18.5,0.1,0,4.4,0.9,7.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brian Robinson Jr.","brian-robinson",NA,"RB",2025,1,4.3,"2025-08-30T23:13:20Z","fantasypros","20094","Brian Robinson Jr.",NA,NA,NA,NA,NA,6,21.2,0.2,0,4.3,0.6,4.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Najee Harris","najee-harris",NA,"RB",2025,1,4.2,"2025-08-30T23:13:20Z","fantasypros","19302","Najee Harris",NA,NA,NA,NA,NA,4.9,20,0.2,0,4.2,0.6,4.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Julius Chestnut","julius-chestnut",NA,"RB",2025,1,4,"2025-08-30T23:13:20Z","fantasypros","24689","Julius Chestnut",NA,NA,NA,NA,NA,3.7,13.3,0.1,0,4,1.2,8.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Emanuel Wilson","emanuel-wilson",NA,"RB",2025,1,3.9,"2025-08-30T23:13:20Z","fantasypros","25885","Emanuel Wilson",NA,NA,NA,NA,NA,3.3,17.5,0.1,0,3.9,0.7,5.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Samaje Perine","samaje-perine",NA,"RB",2025,1,3.8,"2025-08-30T23:13:20Z","fantasypros","16423","Samaje Perine",NA,NA,NA,NA,NA,2.9,12.5,0.1,0,3.8,1,8.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaleel McLaughlin","jaleel-mclaughlin",NA,"RB",2025,1,3.6,"2025-08-30T23:13:20Z","fantasypros","25876","Jaleel McLaughlin",NA,NA,NA,NA,NA,2.4,11.4,0.1,0,3.6,1.1,6.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kenneth Gainwell","kenneth-gainwell",NA,"RB",2025,1,3.6,"2025-08-30T23:13:20Z","fantasypros","23310","Kenneth Gainwell",NA,NA,NA,NA,NA,3.3,14.4,0.1,0,3.6,0.7,5.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ty Johnson","ty-johnson",NA,"RB",2025,1,3.4,"2025-08-30T23:13:20Z","fantasypros","18406","Ty Johnson",NA,NA,NA,NA,NA,1.7,8.7,0.1,0,3.4,0.9,8.6,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zamir White","zamir-white",NA,"RB",2025,1,3.3,"2025-08-30T23:13:20Z","fantasypros","20095","Zamir White",NA,NA,NA,NA,NA,4,14.6,0.1,0,3.3,0.7,4.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kalel Mullings","kalel-mullings",NA,"RB",2025,1,3.2,"2025-08-30T23:13:20Z","fantasypros","27045","Kalel Mullings",NA,NA,NA,NA,NA,4.6,12.4,0.1,0,3.2,0.8,5.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Devin Singletary","devin-singletary",NA,"RB",2025,1,3.2,"2025-08-30T23:13:20Z","fantasypros","18280","Devin Singletary",NA,NA,NA,NA,NA,2.4,14.7,0.1,0,3.2,0.7,4.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Will Shipley","will-shipley",NA,"RB",2025,1,3.2,"2025-08-30T23:13:20Z","fantasypros","22930","Will Shipley",NA,NA,NA,NA,NA,2.4,12.8,0.1,0,3.2,0.6,5.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Brooks","chris-brooks",NA,"RB",2025,1,3.2,"2025-08-30T23:13:20Z","fantasypros","25823","Chris Brooks",NA,NA,NA,NA,NA,2.2,12.6,0.1,0,3.2,0.7,4.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Miles Sanders","miles-sanders",NA,"RB",2025,1,3.1,"2025-08-30T23:13:20Z","fantasypros","18283","Miles Sanders",NA,NA,NA,NA,NA,4.9,18.1,0.1,0,3.1,0.4,2.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"MarShawn Lloyd","marshawn-lloyd",NA,"RB",2025,1,3.1,"2025-08-30T23:13:20Z","fantasypros","23118","MarShawn Lloyd",NA,NA,NA,NA,NA,3.5,14.5,0.1,0,3.1,0.5,3.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hassan Haskins","hassan-haskins",NA,"RB",2025,1,3.1,"2025-08-30T23:13:20Z","fantasypros","23798","Hassan Haskins",NA,NA,NA,NA,NA,2.3,8.6,0.1,0,3.1,0.8,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Raheem Mostert","raheem-mostert",NA,"RB",2025,1,3.1,"2025-08-30T23:13:20Z","fantasypros","14338","Raheem Mostert",NA,NA,NA,NA,NA,3,11.2,0.1,0,3.1,0.7,5.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyle Monangai","kyle-monangai",NA,"RB",2025,1,3.1,"2025-08-30T23:13:20Z","fantasypros","27131","Kyle Monangai",NA,NA,NA,NA,NA,3.3,14,0.1,0,3.1,0.5,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Devin Neal","devin-neal",NA,"RB",2025,1,3.1,"2025-08-30T23:13:20Z","fantasypros","23682","Devin Neal",NA,NA,NA,NA,NA,3.8,15.2,0.1,0,3.1,0.5,3.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Antonio Gibson","antonio-gibson",NA,"RB",2025,1,3,"2025-08-30T23:13:20Z","fantasypros","19624","Antonio Gibson",NA,NA,NA,NA,NA,2.3,9.5,0.1,0,3,0.8,6.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Elijah Mitchell","elijah-mitchell",NA,"RB",2025,1,3,"2025-08-30T23:13:20Z","fantasypros","22813","Elijah Mitchell",NA,NA,NA,NA,NA,3,13.1,0.1,0,3,0.6,3.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sean Tucker","sean-tucker",NA,"RB",2025,1,2.8,"2025-08-30T23:13:20Z","fantasypros","23679","Sean Tucker",NA,NA,NA,NA,NA,3,14.9,0.1,0,2.8,0.4,3.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Keaton Mitchell","keaton-mitchell",NA,"RB",2025,1,2.8,"2025-08-30T23:13:20Z","fantasypros","25360","Keaton Mitchell",NA,NA,NA,NA,NA,2.9,11.5,0.1,0,2.8,0.6,4.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Clyde Edwards-Helaire","clyde-edwards-helaire",NA,"RB",2025,1,2.5,"2025-08-30T23:13:20Z","fantasypros","19325","Clyde Edwards-Helaire",NA,NA,NA,NA,NA,3.2,13.8,0.1,0,2.5,0.4,2.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tahj Brooks","tahj-brooks",NA,"RB",2025,1,2.4,"2025-08-30T23:13:20Z","fantasypros","26212","Tahj Brooks",NA,NA,NA,NA,NA,3,11.3,0.1,0,2.4,0.4,3.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DJ Giddens","dj-giddens",NA,"RB",2025,1,2.3,"2025-08-30T23:13:20Z","fantasypros","27097","DJ Giddens",NA,NA,NA,NA,NA,1.1,8.6,0.1,0,2.3,0.5,4.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quinshon Judkins","quinshon-judkins",NA,"RB",2025,1,2.2,"2025-08-30T23:13:20Z","fantasypros","25391","Quinshon Judkins",NA,NA,NA,NA,NA,1.5,6.9,0,0,2.2,0.6,4.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trevor Etienne","trevor-etienne",NA,"RB",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","25393","Trevor Etienne",NA,NA,NA,NA,NA,1.4,8.3,0.1,0,1.9,0.4,3.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brashard Smith","brashard-smith",NA,"RB",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","27259","Brashard Smith",NA,NA,NA,NA,NA,1.7,8.2,0.1,0,1.9,0.4,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dare Ogunbowale","dare-ogunbowale",NA,"RB",2025,1,1.7,"2025-08-30T23:13:20Z","fantasypros","16879","Dare Ogunbowale",NA,NA,NA,NA,NA,0.4,2.9,0,0,1.7,0.6,5.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Emari Demercado","emari-demercado",NA,"RB",2025,1,1.7,"2025-08-30T23:13:20Z","fantasypros","25654","Emari Demercado",NA,NA,NA,NA,NA,0.8,5.3,0,0,1.7,0.5,3.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kimani Vidal","kimani-vidal",NA,"RB",2025,1,1.7,"2025-08-30T23:13:20Z","fantasypros","26355","Kimani Vidal",NA,NA,NA,NA,NA,1.5,6.2,0,0,1.7,0.4,3.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyle Juszczyk","kyle-juszczyk",NA,"RB",2025,1,1.6,"2025-08-30T23:13:20Z","fantasypros","11798","Kyle Juszczyk",NA,NA,NA,NA,NA,0.3,1,0,0,1.6,0.7,5.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"A.J. Dillon","a-j-dillon",NA,"RB",2025,1,1.5,"2025-08-30T23:13:20Z","fantasypros","19358","A.J. Dillon",NA,NA,NA,NA,NA,2.1,7.4,0.1,0,1.5,0.2,1.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Isaiah Davis","isaiah-davis",NA,"RB",2025,1,1.4,"2025-08-30T23:13:20Z","fantasypros","25977","Isaiah Davis",NA,NA,NA,NA,NA,1.9,6.8,0,0,1.4,0.3,1.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alec Ingold","alec-ingold",NA,"RB",2025,1,1.3,"2025-08-30T23:13:20Z","fantasypros","18571","Alec Ingold",NA,NA,NA,NA,NA,0.5,1.9,0,0,1.3,0.5,3.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Isaac Guerendo","isaac-guerendo",NA,"RB",2025,1,1.3,"2025-08-30T23:13:20Z","fantasypros","26392","Isaac Guerendo",NA,NA,NA,NA,NA,2.4,7.8,0.1,0,1.3,0.1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jarquez Hunter","jarquez-hunter",NA,"RB",2025,1,1.3,"2025-08-30T23:13:20Z","fantasypros","24335","Jarquez Hunter",NA,NA,NA,NA,NA,2.4,6.6,0,0,1.3,0.2,1.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"George Holani","george-holani",NA,"RB",2025,1,1.2,"2025-08-30T23:13:20Z","fantasypros","22915","George Holani",NA,NA,NA,NA,NA,0.5,6,0,0,1.2,0.2,1.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sincere McCormick","sincere-mccormick",NA,"RB",2025,1,1.2,"2025-08-30T23:13:20Z","fantasypros","23172","Sincere McCormick",NA,NA,NA,NA,NA,1.4,5.6,0,0,1.2,0.3,1.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ty Chandler","ty-chandler",NA,"RB",2025,1,1.2,"2025-08-30T23:13:20Z","fantasypros","19471","Ty Chandler",NA,NA,NA,NA,NA,1.2,5.3,0,0,1.2,0.2,1.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travis Homer","travis-homer",NA,"RB",2025,1,1.2,"2025-08-30T23:13:20Z","fantasypros","18616","Travis Homer",NA,NA,NA,NA,NA,1.3,5.6,0,0,1.2,0.2,1.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Craig Reynolds","craig-reynolds",NA,"RB",2025,1,1.1,"2025-08-30T23:13:20Z","fantasypros","19074","Craig Reynolds",NA,NA,NA,NA,NA,0.5,2.4,0,0,1.1,0.4,3.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jeremy McNichols","jeremy-mcnichols",NA,"RB",2025,1,0.8,"2025-08-30T23:13:20Z","fantasypros","16445","Jeremy McNichols",NA,NA,NA,NA,NA,0.6,2.8,0,0,0.8,0.2,1.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hunter Luepke","hunter-luepke",NA,"RB",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","25941","Hunter Luepke",NA,NA,NA,NA,NA,0.3,1.4,0,0,0.7,0.3,1.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LeQuint Allen Jr.","lequint-allen",NA,"RB",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","27285","LeQuint Allen Jr.",NA,NA,NA,NA,NA,0.3,1.2,0,0,0.7,0.3,1.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Burton","michael-burton",NA,"RB",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","14191","Michael Burton",NA,NA,NA,NA,NA,0.3,1.2,0,0,0.6,0.2,1.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nathan Carter","nathan-carter",NA,"RB",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","27667","Nathan Carter",NA,NA,NA,NA,NA,0.5,2.2,0,0,0.6,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Carlos Washington Jr.","carlos-washington",NA,"RB",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","25644","Carlos Washington Jr.",NA,NA,NA,NA,NA,0.5,2.2,0,0,0.6,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Damien Martinez","damien-martinez",NA,"RB",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","25976","Damien Martinez",NA,NA,NA,NA,NA,0.5,2.3,0,0,0.6,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zonovan Knight","zonovan-knight",NA,"RB",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","24901","Zonovan Knight",NA,NA,NA,NA,NA,0.3,1.2,0,0,0.4,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Carson Steele","carson-steele",NA,"RB",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","26372","Carson Steele",NA,NA,NA,NA,NA,0.2,1,0,0,0.4,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rasheen Ali","rasheen-ali",NA,"RB",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","25983","Rasheen Ali",NA,NA,NA,NA,NA,0.3,1.2,0,0,0.4,0.1,0.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Patrick Ricard","patrick-ricard",NA,"RB",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","17145","Patrick Ricard",NA,NA,NA,NA,NA,0,0,0,0,0.4,0.2,1.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeeJay Dallas","deejay-dallas",NA,"RB",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","19521","DeeJay Dallas",NA,NA,NA,NA,NA,0.3,1.3,0,0,0.4,0.1,0.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Goodson","tyler-goodson",NA,"RB",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","22976","Tyler Goodson",NA,NA,NA,NA,NA,0.6,2,0,0,0.4,0.1,0.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Audric Estime","audric-estime",NA,"RB",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","23054","Audric Estime",NA,NA,NA,NA,NA,0.6,2.4,0,0,0.4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Robbie Ouzts","robbie-ouzts",NA,"RB",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","27473","Robbie Ouzts",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Scott Matlock","scott-matlock",NA,"RB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","25567","Scott Matlock",NA,NA,NA,NA,NA,0,0,0,0,0.2,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sione Vaki","sione-vaki",NA,"RB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","26309","Sione Vaki",NA,NA,NA,NA,NA,0,0.7,0,0,0.2,0.1,0.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan James","jordan-james",NA,"RB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","27310","Jordan James",NA,NA,NA,NA,NA,0.3,1.1,0,0,0.2,0,0.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Williams","josh-williams",NA,"RB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","27444","Josh Williams",NA,NA,NA,NA,NA,0.3,1.2,0,0,0.2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dylan Laube","dylan-laube",NA,"RB",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","26194","Dylan Laube",NA,NA,NA,NA,NA,0.2,0.9,0,0,0.2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Eric Gray","eric-gray",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23075","Eric Gray",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyjae Spears","tyjae-spears",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25323","Tyjae Spears",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaylen Wright","jaylen-wright",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25987","Jaylen Wright",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"C.J. Ham","c-j-ham",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","16209","C.J. Ham",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Velus Jones Jr.","velus-jones",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24214","Velus Jones Jr.",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andrew Beck","andrew-beck",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18748","Andrew Beck",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Salvon Ahmed","salvon-ahmed",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19449","Salvon Ahmed",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Reggie Gilliam","reggie-gilliam",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19844","Reggie Gilliam",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kene Nwangwu","kene-nwangwu",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23249","Kene Nwangwu",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Keaontay Ingram","keaontay-ingram",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23162","Keaontay Ingram",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Badie","tyler-badie",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23812","Tyler Badie",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Deneric Prince","deneric-prince",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25770","Deneric Prince",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ben VanSumeren","ben-vansumeren",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25727","Ben VanSumeren",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brady Russell","brady-russell",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25731","Brady Russell",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jonathon Brooks","jonathon-brooks",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26148","Jonathon Brooks",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"British Brooks","british-brooks",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26748","British Brooks",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Phil Mafah","phil-mafah",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","22928","Phil Mafah",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trayveon Williams","trayveon-williams",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18607","Trayveon Williams",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jeff Wilson Jr.","jeff-wilson",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18026","Jeff Wilson Jr.",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jakob Johnson","jakob-johnson",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18673","Jakob Johnson",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"JaMycal Hasty","jamycal-hasty",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19627","JaMycal Hasty",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Carter","michael-carter",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","22728","Michael Carter",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trey Sermon","trey-sermon",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19425","Trey Sermon",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gary Brightwell","gary-brightwell",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23293","Gary Brightwell",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Adam Prentice","adam-prentice",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23451","Adam Prentice",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brittain Brown","brittain-brown",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24572","Brittain Brown",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Malik Davis","malik-davis",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24205","Malik Davis",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ronnie Rivers","ronnie-rivers",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23986","Ronnie Rivers",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Israel Abanikanda","israel-abanikanda",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24352","Israel Abanikanda",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lew Nichols III","lew-nichols",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25443","Lew Nichols III",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Xazavian Valladay","xazavian-valladay",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25357","Xazavian Valladay",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan Mims","jordan-mims",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25816","Jordan Mims",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dante Miller","dante-miller",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26446","Dante Miller",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacob Saylors","jacob-saylors",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25693","Jacob Saylors",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cody Schrader","cody-schrader",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26216","Cody Schrader",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Terrell Jennings","terrell-jennings",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26964","Terrell Jennings",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kendall Milton","kendall-milton",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","22962","Kendall Milton",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Frank Gore Jr.","frank-gore",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25980","Frank Gore Jr.",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Collier","chris-collier",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26597","Chris Collier",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jawhar Jordan","jawhar-jordan",NA,"RB",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26329","Jawhar Jordan",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ja'Marr Chase","ja-marr-chase",NA,"WR",2025,1,20.9,"2025-08-30T23:13:20Z","fantasypros","19788","Ja'Marr Chase",NA,NA,NA,NA,NA,0.1,0.7,0,0,20.9,7,95.2,0.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Justin Jefferson","justin-jefferson",NA,"WR",2025,1,19.5,"2025-08-30T23:13:20Z","fantasypros","19236","Justin Jefferson",NA,NA,NA,NA,NA,0,0.1,0,0,19.5,6.8,94.6,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"CeeDee Lamb","ceedee-lamb",NA,"WR",2025,1,18.4,"2025-08-30T23:13:20Z","fantasypros","19202","CeeDee Lamb",NA,NA,NA,NA,NA,0.4,2.6,0,0,18.4,6.9,84.9,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Malik Nabers","malik-nabers",NA,"WR",2025,1,17.9,"2025-08-30T23:13:20Z","fantasypros","25409","Malik Nabers",NA,NA,NA,NA,NA,0.1,1,0,0,17.9,6.6,83.7,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Evans","mike-evans",NA,"WR",2025,1,17.1,"2025-08-30T23:13:20Z","fantasypros","12119","Mike Evans",NA,NA,NA,NA,NA,0,0,0,0,17.1,5.8,73.9,0.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Amon-Ra St. Brown","amon-ra-st-brown",NA,"WR",2025,1,17,"2025-08-30T23:13:20Z","fantasypros","19799","Amon-Ra St. Brown",NA,NA,NA,NA,NA,0.1,0.8,0,0,17,6.8,73.9,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nico Collins","nico-collins",NA,"WR",2025,1,17,"2025-08-30T23:13:20Z","fantasypros","20130","Nico Collins",NA,NA,NA,NA,NA,0,0.1,0,0,17,5.9,83.1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brian Thomas Jr.","brian-thomas",NA,"WR",2025,1,16.8,"2025-08-30T23:13:20Z","fantasypros","23000","Brian Thomas Jr.",NA,NA,NA,NA,NA,0.1,0.9,0,0,16.8,6,77,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Puka Nacua","puka-nacua",NA,"WR",2025,1,16.5,"2025-08-30T23:13:20Z","fantasypros","23180","Puka Nacua",NA,NA,NA,NA,NA,0.5,2.9,0,0,16.5,6.1,77.8,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Drake London","drake-london",NA,"WR",2025,1,16.5,"2025-08-30T23:13:20Z","fantasypros","23163","Drake London",NA,NA,NA,NA,NA,0,0.2,0,0,16.5,6.1,76.6,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyreek Hill","tyreek-hill",NA,"WR",2025,1,16,"2025-08-30T23:13:20Z","fantasypros","15802","Tyreek Hill",NA,NA,NA,NA,NA,0.5,2.6,0,0,16,5.8,72,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"A.J. Brown","a-j-brown",NA,"WR",2025,1,15.9,"2025-08-30T23:13:20Z","fantasypros","18218","A.J. Brown",NA,NA,NA,NA,NA,0,0,0,0,15.9,5.3,76.5,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Xavier Worthy","xavier-worthy",NA,"WR",2025,1,15.4,"2025-08-30T23:13:20Z","fantasypros","23019","Xavier Worthy",NA,NA,NA,NA,NA,0.6,4.1,0,0,15.4,5.5,65.7,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ladd McConkey","ladd-mcconkey",NA,"WR",2025,1,15.4,"2025-08-30T23:13:20Z","fantasypros","26122","Ladd McConkey",NA,NA,NA,NA,NA,0,0.2,0,0,15.4,5.9,70.9,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tee Higgins","tee-higgins",NA,"WR",2025,1,15.3,"2025-08-30T23:13:20Z","fantasypros","19211","Tee Higgins",NA,NA,NA,NA,NA,0,0,0,0,15.3,5.2,69.7,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Terry McLaurin","terry-mclaurin",NA,"WR",2025,1,15,"2025-08-30T23:13:20Z","fantasypros","18466","Terry McLaurin",NA,NA,NA,NA,NA,0.1,0.5,0,0,15,5.4,69.7,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaxon Smith-Njigba","jaxon-smith-njigba",NA,"WR",2025,1,14.9,"2025-08-30T23:13:20Z","fantasypros","23070","Jaxon Smith-Njigba",NA,NA,NA,NA,NA,0.2,1.5,0,0,14.9,5.7,67,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jerry Jeudy","jerry-jeudy",NA,"WR",2025,1,14.4,"2025-08-30T23:13:20Z","fantasypros","19201","Jerry Jeudy",NA,NA,NA,NA,NA,0,0.3,0,0,14.4,5.3,73.7,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tetairoa McMillan","tetairoa-mcmillan",NA,"WR",2025,1,14.1,"2025-08-30T23:13:20Z","fantasypros","25417","Tetairoa McMillan",NA,NA,NA,NA,NA,0,0.4,0,0,14.1,5.3,64.4,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zay Flowers","zay-flowers",NA,"WR",2025,1,14.1,"2025-08-30T23:13:20Z","fantasypros","22916","Zay Flowers",NA,NA,NA,NA,NA,0.4,2.8,0,0,14.1,5.1,65.2,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Emeka Egbuka","emeka-egbuka",NA,"WR",2025,1,13.9,"2025-08-30T23:13:20Z","fantasypros","23062","Emeka Egbuka",NA,NA,NA,NA,NA,0.1,0.9,0,0,13.9,5.2,60.7,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Davante Adams","davante-adams",NA,"WR",2025,1,13.7,"2025-08-30T23:13:20Z","fantasypros","12123","Davante Adams",NA,NA,NA,NA,NA,0,0,0,0,13.7,4.8,61.6,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DK Metcalf","dk-metcalf",NA,"WR",2025,1,13.7,"2025-08-30T23:13:20Z","fantasypros","18219","DK Metcalf",NA,NA,NA,NA,NA,0,0.1,0,0,13.7,4.7,67.5,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DJ Moore","dj-moore",NA,"WR",2025,1,13.6,"2025-08-30T23:13:20Z","fantasypros","17265","DJ Moore",NA,NA,NA,NA,NA,0.5,2.7,0,0,13.6,5.2,59.9,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaylen Waddle","jaylen-waddle",NA,"WR",2025,1,13.5,"2025-08-30T23:13:20Z","fantasypros","19790","Jaylen Waddle",NA,NA,NA,NA,NA,0.3,1.2,0,0,13.5,5.2,64.3,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Garrett Wilson","garrett-wilson",NA,"WR",2025,1,13.4,"2025-08-30T23:13:20Z","fantasypros","23072","Garrett Wilson",NA,NA,NA,NA,NA,0.1,1.2,0,0,13.4,5.3,63.4,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marvin Harrison Jr.","marvin-harrison",NA,"WR",2025,1,13.3,"2025-08-30T23:13:20Z","fantasypros","23064","Marvin Harrison Jr.",NA,NA,NA,NA,NA,0,0.3,0,0,13.3,4.9,61.8,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Courtland Sutton","courtland-sutton",NA,"WR",2025,1,13.1,"2025-08-30T23:13:20Z","fantasypros","17253","Courtland Sutton",NA,NA,NA,NA,NA,0,0,0,0.1,13.1,4.5,59.8,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeVonta Smith","devonta-smith",NA,"WR",2025,1,12.9,"2025-08-30T23:13:20Z","fantasypros","19222","DeVonta Smith",NA,NA,NA,NA,NA,0,0.1,0,0,12.9,5,58.1,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Calvin Ridley","calvin-ridley",NA,"WR",2025,1,12.8,"2025-08-30T23:13:20Z","fantasypros","17258","Calvin Ridley",NA,NA,NA,NA,NA,0.2,1.3,0,0,12.8,4.4,63.2,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"George Pickens","george-pickens",NA,"WR",2025,1,12.7,"2025-08-30T23:13:20Z","fantasypros","22963","George Pickens",NA,NA,NA,NA,NA,0.1,0.5,0,0,12.7,4.3,61.8,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cooper Kupp","cooper-kupp",NA,"WR",2025,1,12.5,"2025-08-30T23:13:20Z","fantasypros","16433","Cooper Kupp",NA,NA,NA,NA,NA,0.1,0.5,0,0,12.5,4.8,55.1,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jakobi Meyers","jakobi-meyers",NA,"WR",2025,1,12.5,"2025-08-30T23:13:20Z","fantasypros","18598","Jakobi Meyers",NA,NA,NA,NA,NA,0.1,0.5,0,0,12.5,5,57.7,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Olave","chris-olave",NA,"WR",2025,1,12.4,"2025-08-30T23:13:20Z","fantasypros","20111","Chris Olave",NA,NA,NA,NA,NA,0,0.1,0,0,12.4,4.9,59.6,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Deebo Samuel Sr.","deebo-samuel",NA,"WR",2025,1,12.2,"2025-08-30T23:13:20Z","fantasypros","18244","Deebo Samuel Sr.",NA,NA,NA,NA,NA,1.1,6.3,0.1,0,12.2,4,53.4,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jameson Williams","jameson-williams",NA,"WR",2025,1,12.2,"2025-08-30T23:13:20Z","fantasypros","23677","Jameson Williams",NA,NA,NA,NA,NA,0.4,3.1,0,0,12.2,4,59.9,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Stefon Diggs","stefon-diggs",NA,"WR",2025,1,12,"2025-08-30T23:13:20Z","fantasypros","13981","Stefon Diggs",NA,NA,NA,NA,NA,0.1,0.5,0,0,12,4.7,52.5,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Pittman Jr.","michael-pittman",NA,"WR",2025,1,11.6,"2025-08-30T23:13:20Z","fantasypros","19278","Michael Pittman Jr.",NA,NA,NA,NA,NA,0,0.1,0,0.1,11.6,4.8,52.6,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travis Hunter","travis-hunter",NA,"WR",2025,1,11.6,"2025-08-30T23:13:20Z","fantasypros","26034","Travis Hunter",NA,NA,NA,NA,NA,0.4,1.9,0,0,11.6,4.3,50.5,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matthew Golden","matthew-golden",NA,"WR",2025,1,10.6,"2025-08-30T23:13:20Z","fantasypros","26024","Matthew Golden",NA,NA,NA,NA,NA,0,0.9,0,0,10.6,3.6,49.7,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jauan Jennings","jauan-jennings",NA,"WR",2025,1,11.4,"2025-08-30T23:13:20Z","fantasypros","19590","Jauan Jennings",NA,NA,NA,NA,NA,0.3,1,0,0,11.4,4.3,52.7,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rome Odunze","rome-odunze",NA,"WR",2025,1,11.4,"2025-08-30T23:13:20Z","fantasypros","25411","Rome Odunze",NA,NA,NA,NA,NA,0.1,0.3,0,0.1,11.4,4,53.1,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ricky Pearsall","ricky-pearsall",NA,"WR",2025,1,11,"2025-08-30T23:13:20Z","fantasypros","26214","Ricky Pearsall",NA,NA,NA,NA,NA,0.4,2.5,0,0,11,4.2,50.2,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Khalil Shakir","khalil-shakir",NA,"WR",2025,1,10.8,"2025-08-30T23:13:20Z","fantasypros","23748","Khalil Shakir",NA,NA,NA,NA,NA,0,0.2,0,0,10.8,4.3,49,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rashid Shaheed","rashid-shaheed",NA,"WR",2025,1,10.7,"2025-08-30T23:13:20Z","fantasypros","24687","Rashid Shaheed",NA,NA,NA,NA,NA,0.4,2.2,0,0,10.7,3.6,52.8,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marquise Brown","marquise-brown",NA,"WR",2025,1,10.6,"2025-08-30T23:13:20Z","fantasypros","18226","Marquise Brown",NA,NA,NA,NA,NA,0,0,0,0,10.6,3.8,47.9,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Keon Coleman","keon-coleman",NA,"WR",2025,1,10.4,"2025-08-30T23:13:20Z","fantasypros","26019","Keon Coleman",NA,NA,NA,NA,NA,0,0.1,0,0,10.4,3.3,50.6,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Downs","josh-downs",NA,"WR",2025,1,10.3,"2025-08-30T23:13:20Z","fantasypros","24706","Josh Downs",NA,NA,NA,NA,NA,0,0.3,0,0,10.3,4.3,43.9,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cedric Tillman","cedric-tillman",NA,"WR",2025,1,10.1,"2025-08-30T23:13:20Z","fantasypros","25287","Cedric Tillman",NA,NA,NA,NA,NA,0,0.1,0,0,10.1,3.8,47.7,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marvin Mims Jr.","marvin-mims",NA,"WR",2025,1,9.9,"2025-08-30T23:13:20Z","fantasypros","23080","Marvin Mims Jr.",NA,NA,NA,NA,NA,0.7,3.1,0,0.1,9.9,3.4,44.9,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darnell Mooney","darnell-mooney",NA,"WR",2025,1,9.8,"2025-08-30T23:13:20Z","fantasypros","19810","Darnell Mooney",NA,NA,NA,NA,NA,0,0.1,0,0,9.8,3.6,47.6,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rashod Bateman","rashod-bateman",NA,"WR",2025,1,9.6,"2025-08-30T23:13:20Z","fantasypros","19794","Rashod Bateman",NA,NA,NA,NA,NA,0,0,0,0,9.6,3.4,45,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Xavier Legette","xavier-legette",NA,"WR",2025,1,9.4,"2025-08-30T23:13:20Z","fantasypros","26136","Xavier Legette",NA,NA,NA,NA,NA,0.4,1.9,0,0.1,9.4,3.5,42.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Wan'Dale Robinson","wan-dale-robinson",NA,"WR",2025,1,9.1,"2025-08-30T23:13:20Z","fantasypros","22985","Wan'Dale Robinson",NA,NA,NA,NA,NA,0.1,0.8,0,0,9.1,4,37.9,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Christian Kirk","christian-kirk",NA,"WR",2025,1,8.8,"2025-08-30T23:13:20Z","fantasypros","17268","Christian Kirk",NA,NA,NA,NA,NA,0,0.2,0,0.1,8.8,3.3,41.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeMario Douglas","demario-douglas",NA,"WR",2025,1,8.7,"2025-08-30T23:13:20Z","fantasypros","25304","DeMario Douglas",NA,NA,NA,NA,NA,0.1,1.1,0,0,8.7,3.5,38,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Keenan Allen","keenan-allen",NA,"WR",2025,1,8.6,"2025-08-30T23:13:20Z","fantasypros","11616","Keenan Allen",NA,NA,NA,NA,NA,0,0.1,0,0,8.6,3.4,38.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Adam Thielen","adam-thielen",NA,"WR",2025,1,8.4,"2025-08-30T23:13:20Z","fantasypros","13429","Adam Thielen",NA,NA,NA,NA,NA,0,0.1,0,0.1,8.4,3.4,35.2,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jayden Reed","jayden-reed",NA,"WR",2025,1,9,"2025-08-30T23:13:20Z","fantasypros","23020","Jayden Reed",NA,NA,NA,NA,NA,0,5.1,0.1,0.1,9,3,37.4,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Lockett","tyler-lockett",NA,"WR",2025,1,8,"2025-08-30T23:13:20Z","fantasypros","13971","Tyler Lockett",NA,NA,NA,NA,NA,0,0,0,0,8,3.1,36.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Romeo Doubs","romeo-doubs",NA,"WR",2025,1,7.6,"2025-08-30T23:13:20Z","fantasypros","23794","Romeo Doubs",NA,NA,NA,NA,NA,0,0,0,0,7.6,2.8,34,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joshua Palmer","joshua-palmer",NA,"WR",2025,1,7.5,"2025-08-30T23:13:20Z","fantasypros","22845","Joshua Palmer",NA,NA,NA,NA,NA,0,0,0,0,7.5,2.8,36,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jayden Higgins","jayden-higgins",NA,"WR",2025,1,7.3,"2025-08-30T23:13:20Z","fantasypros","27077","Jayden Higgins",NA,NA,NA,NA,NA,0,0.1,0,0,7.3,2.8,34.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darius Slayton","darius-slayton",NA,"WR",2025,1,6.8,"2025-08-30T23:13:20Z","fantasypros","18706","Darius Slayton",NA,NA,NA,NA,NA,0.1,0.3,0,0,6.8,2.3,33.9,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeAndre Hopkins","deandre-hopkins",NA,"WR",2025,1,6.7,"2025-08-30T23:13:20Z","fantasypros","11606","DeAndre Hopkins",NA,NA,NA,NA,NA,0,0,0,0,6.7,2.5,28.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Wilson","michael-wilson",NA,"WR",2025,1,6.7,"2025-08-30T23:13:20Z","fantasypros","25333","Michael Wilson",NA,NA,NA,NA,NA,0.1,0.6,0,0,6.7,2.5,30.6,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ray-Ray McCloud III","ray-ray-mccloud",NA,"WR",2025,1,6.4,"2025-08-30T23:13:20Z","fantasypros","17530","Ray-Ray McCloud III",NA,NA,NA,NA,NA,0.4,2.9,0,0,6.4,2.6,27.6,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon Aiyuk","brandon-aiyuk",NA,"WR",2025,1,6.4,"2025-08-30T23:13:20Z","fantasypros","19252","Brandon Aiyuk",NA,NA,NA,NA,NA,0,0,0,0,6.4,2.1,31.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Calvin Austin III","calvin-austin",NA,"WR",2025,1,6.3,"2025-08-30T23:13:20Z","fantasypros","23739","Calvin Austin III",NA,NA,NA,NA,NA,0.2,0.7,0,0,6.3,2.3,29.5,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"JuJu Smith-Schuster","juju-smith-schuster",NA,"WR",2025,1,6.2,"2025-08-30T23:13:20Z","fantasypros","16427","JuJu Smith-Schuster",NA,NA,NA,NA,NA,0,0,0,0,6.2,2.5,27.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dyami Brown","dyami-brown",NA,"WR",2025,1,6.1,"2025-08-30T23:13:20Z","fantasypros","20113","Dyami Brown",NA,NA,NA,NA,NA,0,0.2,0,0,6.1,2.3,28.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalen Nailor","jalen-nailor",NA,"WR",2025,1,5.7,"2025-08-30T23:13:20Z","fantasypros","24177","Jalen Nailor",NA,NA,NA,NA,NA,0.1,0.5,0,0,5.7,2,26,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Reynolds","josh-reynolds",NA,"WR",2025,1,5.7,"2025-08-30T23:13:20Z","fantasypros","16439","Josh Reynolds",NA,NA,NA,NA,NA,0,0,0,0,5.7,2.2,27.1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alec Pierce","alec-pierce",NA,"WR",2025,1,5.7,"2025-08-30T23:13:20Z","fantasypros","23791","Alec Pierce",NA,NA,NA,NA,NA,0,0,0,0,5.7,1.9,28.1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nick Westbrook-Ikhine","nick-westbrook-ikhine",NA,"WR",2025,1,5.7,"2025-08-30T23:13:20Z","fantasypros","19747","Nick Westbrook-Ikhine",NA,NA,NA,NA,NA,0,0.1,0,0,5.7,1.9,25.6,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Troy Franklin","troy-franklin",NA,"WR",2025,1,5.6,"2025-08-30T23:13:20Z","fantasypros","23092","Troy Franklin",NA,NA,NA,NA,NA,0.1,0.4,0,0,5.6,2,24.6,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kayshon Boutte","kayshon-boutte",NA,"WR",2025,1,5.4,"2025-08-30T23:13:20Z","fantasypros","22989","Kayshon Boutte",NA,NA,NA,NA,NA,0,0.1,0,0,5.4,2,25.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tre' Harris","tre-harris",NA,"WR",2025,1,5.3,"2025-08-30T23:13:20Z","fantasypros","26215","Tre' Harris",NA,NA,NA,NA,NA,0,0.1,0,0,5.3,2,24.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tutu Atwell","tutu-atwell",NA,"WR",2025,1,5.2,"2025-08-30T23:13:20Z","fantasypros","20126","Tutu Atwell",NA,NA,NA,NA,NA,0.3,1.2,0,0,5.2,2,24.6,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Roman Wilson","roman-wilson",NA,"WR",2025,1,5.2,"2025-08-30T23:13:20Z","fantasypros","26160","Roman Wilson",NA,NA,NA,NA,NA,0,0,0,0,5.2,2.1,23.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Elic Ayomanor","elic-ayomanor",NA,"WR",2025,1,5.1,"2025-08-30T23:13:20Z","fantasypros","27059","Elic Ayomanor",NA,NA,NA,NA,NA,0,0.3,0,0,5.1,2.1,22.6,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jamari Thrash","jamari-thrash",NA,"WR",2025,1,5,"2025-08-30T23:13:20Z","fantasypros","26162","Jamari Thrash",NA,NA,NA,NA,NA,0,0,0,0,5,1.9,23,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quentin Johnston","quentin-johnston",NA,"WR",2025,1,4.8,"2025-08-30T23:13:20Z","fantasypros","23123","Quentin Johnston",NA,NA,NA,NA,NA,0.1,0.4,0,0,4.8,1.7,21.9,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andrei Iosivas","andrei-iosivas",NA,"WR",2025,1,4.7,"2025-08-30T23:13:20Z","fantasypros","25335","Andrei Iosivas",NA,NA,NA,NA,NA,0,0,0,0,4.7,1.7,20.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandin Cooks","brandin-cooks",NA,"WR",2025,1,4.7,"2025-08-30T23:13:20Z","fantasypros","12122","Brandin Cooks",NA,NA,NA,NA,NA,0,0.1,0,0,4.7,1.8,20.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tre Tucker","tre-tucker",NA,"WR",2025,1,4.6,"2025-08-30T23:13:20Z","fantasypros","25337","Tre Tucker",NA,NA,NA,NA,NA,0.2,1.3,0,0,4.6,1.7,21.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Noah Brown","noah-brown",NA,"WR",2025,1,4.5,"2025-08-30T23:13:20Z","fantasypros","16443","Noah Brown",NA,NA,NA,NA,NA,0,0,0,0,4.5,1.7,21.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tory Horton","tory-horton",NA,"WR",2025,1,4.5,"2025-08-30T23:13:20Z","fantasypros","26022","Tory Horton",NA,NA,NA,NA,NA,0,0.4,0,0,4.5,1.8,19.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Luther Burden III","luther-burden",NA,"WR",2025,1,4.4,"2025-08-30T23:13:20Z","fantasypros","27016","Luther Burden III",NA,NA,NA,NA,NA,0.3,1.7,0,0,4.4,1.6,18.6,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sterling Shepard","sterling-shepard",NA,"WR",2025,1,4.4,"2025-08-30T23:13:20Z","fantasypros","15569","Sterling Shepard",NA,NA,NA,NA,NA,0.1,0.8,0,0,4.4,1.7,18.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dont'e Thornton Jr.","dont-e-thornton",NA,"WR",2025,1,4.4,"2025-08-30T23:13:20Z","fantasypros","27288","Dont'e Thornton Jr.",NA,NA,NA,NA,NA,0,0.1,0,0,4.4,1.8,19.6,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyle Williams","kyle-williams",NA,"WR",2025,1,4.4,"2025-08-30T23:13:20Z","fantasypros","27487","Kyle Williams",NA,NA,NA,NA,NA,0.2,0.9,0,0,4.4,1.7,18.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan Whittington","jordan-whittington",NA,"WR",2025,1,4.3,"2025-08-30T23:13:20Z","fantasypros","23135","Jordan Whittington",NA,NA,NA,NA,NA,0.1,0.7,0,0,4.3,1.7,19.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Malik Washington","malik-washington",NA,"WR",2025,1,4.3,"2025-08-30T23:13:20Z","fantasypros","26314","Malik Washington",NA,NA,NA,NA,NA,0.1,0.7,0,0,4.3,1.7,18.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dontayvion Wicks","dontayvion-wicks",NA,"WR",2025,1,4.2,"2025-08-30T23:13:20Z","fantasypros","24354","Dontayvion Wicks",NA,NA,NA,NA,NA,0,0.1,0,0,4.2,1.5,18.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Amari Cooper","amari-cooper",NA,"WR",2025,1,4.2,"2025-08-30T23:13:20Z","fantasypros","13894","Amari Cooper",NA,NA,NA,NA,NA,0,0,0,0,4.2,1.5,21.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalen Tolbert","jalen-tolbert",NA,"WR",2025,1,4.2,"2025-08-30T23:13:20Z","fantasypros","23770","Jalen Tolbert",NA,NA,NA,NA,NA,0,0,0,0,4.2,1.6,17.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Greg Dortch","greg-dortch",NA,"WR",2025,1,4.1,"2025-08-30T23:13:20Z","fantasypros","18585","Greg Dortch",NA,NA,NA,NA,NA,0.3,1.8,0,0,4.1,1.6,16.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Devaughn Vele","devaughn-vele",NA,"WR",2025,1,4.1,"2025-08-30T23:13:20Z","fantasypros","26409","Devaughn Vele",NA,NA,NA,NA,NA,0,0.1,0,0,4.1,1.7,17.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Van Jefferson","van-jefferson",NA,"WR",2025,1,4,"2025-08-30T23:13:20Z","fantasypros","19483","Van Jefferson",NA,NA,NA,NA,NA,0,0,0,0,4,1.5,19.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KaVontae Turpin","kavontae-turpin",NA,"WR",2025,1,4,"2025-08-30T23:13:20Z","fantasypros","18520","KaVontae Turpin",NA,NA,NA,NA,NA,0.5,3,0,0,4,1.4,16.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pat Bryant","pat-bryant",NA,"WR",2025,1,4,"2025-08-30T23:13:20Z","fantasypros","27211","Pat Bryant",NA,NA,NA,NA,NA,0,0,0,0,4,1.5,17.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Allen Lazard","allen-lazard",NA,"WR",2025,1,3.8,"2025-08-30T23:13:20Z","fantasypros","17301","Allen Lazard",NA,NA,NA,NA,NA,0,0,0,0,3.8,1.5,18.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Isaac TeSlaa","isaac-teslaa",NA,"WR",2025,1,3.6,"2025-08-30T23:13:20Z","fantasypros","27446","Isaac TeSlaa",NA,NA,NA,NA,NA,0,0,0,0,3.6,1.5,16.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Adonai Mitchell","adonai-mitchell",NA,"WR",2025,1,3.5,"2025-08-30T23:13:20Z","fantasypros","24357","Adonai Mitchell",NA,NA,NA,NA,NA,0.1,0.7,0,0,3.5,1.3,15.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Olamide Zaccheaus","olamide-zaccheaus",NA,"WR",2025,1,4.1,"2025-08-30T23:13:20Z","fantasypros","18864","Olamide Zaccheaus",NA,NA,NA,NA,NA,0.2,1.1,0,0,4.1,1.6,16.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Curtis Samuel","curtis-samuel",NA,"WR",2025,1,3.3,"2025-08-30T23:13:20Z","fantasypros","16434","Curtis Samuel",NA,NA,NA,NA,NA,0.3,1.3,0,0,3.3,1.3,12.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan Watkins","jordan-watkins",NA,"WR",2025,1,3.3,"2025-08-30T23:13:20Z","fantasypros","27486","Jordan Watkins",NA,NA,NA,NA,NA,0,0,0,0,3.3,1.2,16.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Moore","david-moore",NA,"WR",2025,1,3.2,"2025-08-30T23:13:20Z","fantasypros","16757","David Moore",NA,NA,NA,NA,NA,0,0,0,0,3.2,1.2,14.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Parker Washington","parker-washington",NA,"WR",2025,1,3.2,"2025-08-30T23:13:20Z","fantasypros","23106","Parker Washington",NA,NA,NA,NA,NA,0,0.4,0,0,3.2,1.2,13.6,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyquan Thornton","tyquan-thornton",NA,"WR",2025,1,3,"2025-08-30T23:13:20Z","fantasypros","22913","Tyquan Thornton",NA,NA,NA,NA,NA,0,0,0,0,3,1.2,13.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Xavier Hutchinson","xavier-hutchinson",NA,"WR",2025,1,3,"2025-08-30T23:13:20Z","fantasypros","25332","Xavier Hutchinson",NA,NA,NA,NA,NA,0,0,0,0,3,1.1,13.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chimere Dike","chimere-dike",NA,"WR",2025,1,2.8,"2025-08-30T23:13:20Z","fantasypros","27315","Chimere Dike",NA,NA,NA,NA,NA,0.1,0.7,0,0,2.8,1,13.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Elijah Moore","elijah-moore",NA,"WR",2025,1,2.6,"2025-08-30T23:13:20Z","fantasypros","20114","Elijah Moore",NA,NA,NA,NA,NA,0,0,0,0,2.6,1,11.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zay Jones","zay-jones",NA,"WR",2025,1,2.4,"2025-08-30T23:13:20Z","fantasypros","16431","Zay Jones",NA,NA,NA,NA,NA,0,0.1,0,0,2.4,1,10.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jahan Dotson","jahan-dotson",NA,"WR",2025,1,2.4,"2025-08-30T23:13:20Z","fantasypros","23101","Jahan Dotson",NA,NA,NA,NA,NA,0,0.1,0,0,2.4,0.9,10.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jermaine Burton","jermaine-burton",NA,"WR",2025,1,2.3,"2025-08-30T23:13:20Z","fantasypros","22956","Jermaine Burton",NA,NA,NA,NA,NA,0,0,0,0,2.3,0.8,10.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tez Johnson","tez-johnson",NA,"WR",2025,1,2.3,"2025-08-30T23:13:20Z","fantasypros","27147","Tez Johnson",NA,NA,NA,NA,NA,0,0.1,0,0,2.3,0.9,9.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Robert Woods","robert-woods",NA,"WR",2025,1,2.2,"2025-08-30T23:13:20Z","fantasypros","11610","Robert Woods",NA,NA,NA,NA,NA,0,0,0,0,2.2,0.9,9.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bo Melton","bo-melton",NA,"WR",2025,1,2.2,"2025-08-30T23:13:20Z","fantasypros","24049","Bo Melton",NA,NA,NA,NA,NA,0,0,0,0,2.2,0.8,9.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Bobo","jake-bobo",NA,"WR",2025,1,2.2,"2025-08-30T23:13:20Z","fantasypros","25339","Jake Bobo",NA,NA,NA,NA,NA,0,0,0,0,2.2,0.8,9.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mack Hollins","mack-hollins",NA,"WR",2025,1,2.2,"2025-08-30T23:13:20Z","fantasypros","16489","Mack Hollins",NA,NA,NA,NA,NA,0,0.1,0,0,2.2,0.8,9.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kalif Raymond","kalif-raymond",NA,"WR",2025,1,2.1,"2025-08-30T23:13:20Z","fantasypros","16081","Kalif Raymond",NA,NA,NA,NA,NA,0,0.3,0,0,2.1,0.8,10,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tai Felton","tai-felton",NA,"WR",2025,1,2.1,"2025-08-30T23:13:20Z","fantasypros","27182","Tai Felton",NA,NA,NA,NA,NA,0,0.1,0,0,2.1,0.8,9.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaylin Noel","jaylin-noel",NA,"WR",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","27122","Jaylin Noel",NA,NA,NA,NA,NA,0,0.5,0,0,1.9,0.7,8.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Devontez Walker","devontez-walker",NA,"WR",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","26011","Devontez Walker",NA,NA,NA,NA,NA,0,0.1,0,0,1.9,0.7,8.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalin Hyatt","jalin-hyatt",NA,"WR",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","25251","Jalin Hyatt",NA,NA,NA,NA,NA,0,0,0,0,1.9,0.7,9.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Isaiah Bond","isaiah-bond",NA,"WR",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","24371","Isaiah Bond",NA,NA,NA,NA,NA,0,0,0,0,1.9,0.8,8.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jack Bech","jack-bech",NA,"WR",2025,1,1.8,"2025-08-30T23:13:20Z","fantasypros","27224","Jack Bech",NA,NA,NA,NA,NA,0,0.2,0,0,1.8,0.7,8.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KhaDarel Hodge","khadarel-hodge",NA,"WR",2025,1,1.7,"2025-08-30T23:13:20Z","fantasypros","18166","KhaDarel Hodge",NA,NA,NA,NA,NA,0,0.1,0,0,1.7,0.6,8.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marquez Valdes-Scantling","marquez-valdes-scantling",NA,"WR",2025,1,1.7,"2025-08-30T23:13:20Z","fantasypros","17528","Marquez Valdes-Scantling",NA,NA,NA,NA,NA,0,0,0,0,1.7,0.5,8.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Luke McCaffrey","luke-mccaffrey",NA,"WR",2025,1,1.7,"2025-08-30T23:13:20Z","fantasypros","26328","Luke McCaffrey",NA,NA,NA,NA,NA,0,0.1,0,0,1.7,0.7,7.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trey Palmer","trey-palmer",NA,"WR",2025,1,1.7,"2025-08-30T23:13:20Z","fantasypros","25331","Trey Palmer",NA,NA,NA,NA,NA,0,0,0,0,1.7,0.7,7.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tylan Wallace","tylan-wallace",NA,"WR",2025,1,1.6,"2025-08-30T23:13:20Z","fantasypros","19801","Tylan Wallace",NA,NA,NA,NA,NA,0,0.1,0,0,1.6,0.6,6.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tim Jones","tim-jones",NA,"WR",2025,1,1.5,"2025-08-30T23:13:20Z","fantasypros","23438","Tim Jones",NA,NA,NA,NA,NA,0,0,0,0,1.5,0.6,6.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Skyy Moore","skyy-moore",NA,"WR",2025,1,1.4,"2025-08-30T23:13:20Z","fantasypros","23905","Skyy Moore",NA,NA,NA,NA,NA,0,0,0,0,1.4,0.6,6.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Malachi Corley","malachi-corley",NA,"WR",2025,1,1.4,"2025-08-30T23:13:20Z","fantasypros","26023","Malachi Corley",NA,NA,NA,NA,NA,0.3,1.6,0,0,1.4,0.5,5.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Casey Washington","casey-washington",NA,"WR",2025,1,1.3,"2025-08-30T23:13:20Z","fantasypros","26413","Casey Washington",NA,NA,NA,NA,NA,0,0,0,0,1.3,0.5,5.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeAndre Carter","deandre-carter",NA,"WR",2025,1,1.3,"2025-08-30T23:13:20Z","fantasypros","14103","DeAndre Carter",NA,NA,NA,NA,NA,0,0.1,0,0,1.3,0.5,5.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Savion Williams","savion-williams",NA,"WR",2025,1,1.2,"2025-08-30T23:13:20Z","fantasypros","27144","Savion Williams",NA,NA,NA,NA,NA,0.3,0.9,0,0,1.2,0.4,4.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tim Patrick","tim-patrick",NA,"WR",2025,1,1.2,"2025-08-30T23:13:20Z","fantasypros","16556","Tim Patrick",NA,NA,NA,NA,NA,0,0,0,0,1.2,0.4,4.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jaylin Lane","jaylin-lane",NA,"WR",2025,1,1.2,"2025-08-30T23:13:20Z","fantasypros","27454","Jaylin Lane",NA,NA,NA,NA,NA,0.1,0.8,0,0,1.2,0.4,4.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Flournoy","ryan-flournoy",NA,"WR",2025,1,1.1,"2025-08-30T23:13:20Z","fantasypros","26398","Ryan Flournoy",NA,NA,NA,NA,NA,0,0,0,0,1.1,0.5,5.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arian Smith","arian-smith",NA,"WR",2025,1,1.1,"2025-08-30T23:13:20Z","fantasypros","22965","Arian Smith",NA,NA,NA,NA,NA,0,0.3,0,0,1.1,0.5,4.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Malik Heath","malik-heath",NA,"WR",2025,1,1.1,"2025-08-30T23:13:20Z","fantasypros","25668","Malik Heath",NA,NA,NA,NA,NA,0,0.4,0,0,1.1,0.4,4.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"KeAndre Lambert-Smith","keandre-lambert-smith",NA,"WR",2025,1,1,"2025-08-30T23:13:20Z","fantasypros","24372","KeAndre Lambert-Smith",NA,NA,NA,NA,NA,0,0.1,0,0,1,0.4,4.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Xavier Gipson","xavier-gipson",NA,"WR",2025,1,1,"2025-08-30T23:13:20Z","fantasypros","25758","Xavier Gipson",NA,NA,NA,NA,NA,0,0.1,0,0,1,0.5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jamal Agnew","jamal-agnew",NA,"WR",2025,1,1,"2025-08-30T23:13:20Z","fantasypros","16666","Jamal Agnew",NA,NA,NA,NA,NA,0,0,0,0,1,0.4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Irvin Charles","irvin-charles",NA,"WR",2025,1,0.9,"2025-08-30T23:13:20Z","fantasypros","24904","Irvin Charles",NA,NA,NA,NA,NA,0,0,0,0,0.9,0.4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cody White","cody-white",NA,"WR",2025,1,0.9,"2025-08-30T23:13:20Z","fantasypros","19739","Cody White",NA,NA,NA,NA,NA,0,0,0,0,0.9,0.3,3.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Efton Chism III","efton-chism",NA,"WR",2025,1,0.8,"2025-08-30T23:13:20Z","fantasypros","27445","Efton Chism III",NA,NA,NA,NA,NA,0,0,0,0,0.8,0.3,3.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"John Metchie III","john-metchie",NA,"WR",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","22895","John Metchie III",NA,NA,NA,NA,NA,0,0,0,0,0.7,0.3,3.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dareke Young","dareke-young",NA,"WR",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","24570","Dareke Young",NA,NA,NA,NA,NA,0,0,0,0,0.7,0.3,3.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hunter Renfrow","hunter-renfrow",NA,"WR",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","18345","Hunter Renfrow",NA,NA,NA,NA,NA,0,0,0,0,0.7,0.3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Scotty Miller","scotty-miller",NA,"WR",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","18714","Scotty Miller",NA,NA,NA,NA,NA,0,0,0,0,0.7,0.3,3.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Derius Davis","derius-davis",NA,"WR",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","25334","Derius Davis",NA,NA,NA,NA,NA,0.6,1.6,0,0,0.7,0.2,2.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jimmy Horn Jr.","jimmy-horn",NA,"WR",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","27294","Jimmy Horn Jr.",NA,NA,NA,NA,NA,0,0,0,0,0.6,0.3,2.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalen Royals","jalen-royals",NA,"WR",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","27076","Jalen Royals",NA,NA,NA,NA,NA,0,0,0,0,0.6,0.2,2.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trent Sherfield Sr.","trent-sherfield",NA,"WR",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","17888","Trent Sherfield Sr.",NA,NA,NA,NA,NA,0,0,0,0,0.6,0.3,2.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Miller","ryan-miller",NA,"WR",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","25857","Ryan Miller",NA,NA,NA,NA,NA,0,0,0,0,0.6,0.2,2.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gage Larvadain","gage-larvadain",NA,"WR",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","27829","Gage Larvadain",NA,NA,NA,NA,NA,0,0,0,0,0.5,0.2,2.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austin Trammell","austin-trammell",NA,"WR",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","23260","Austin Trammell",NA,NA,NA,NA,NA,0,0,0,0,0.5,0.2,2.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalen Reagor","jalen-reagor",NA,"WR",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","19219","Jalen Reagor",NA,NA,NA,NA,NA,0,0,0,0,0.5,0.2,2.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nick Nash","nick-nash",NA,"WR",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","27263","Nick Nash",NA,NA,NA,NA,NA,0,0,0,0,0.5,0.2,2.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bryce Oliver","bryce-oliver",NA,"WR",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","26588","Bryce Oliver",NA,NA,NA,NA,NA,0,0,0,0,0.5,0.2,2.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Britain Covey","britain-covey",NA,"WR",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","24234","Britain Covey",NA,NA,NA,NA,NA,0.1,0.8,0,0,0.4,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ashton Dulin","ashton-dulin",NA,"WR",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","18656","Ashton Dulin",NA,NA,NA,NA,NA,0,0.3,0,0,0.4,0.2,1.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Anthony Gould","anthony-gould",NA,"WR",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","26404","Anthony Gould",NA,NA,NA,NA,NA,0,0.1,0,0,0.4,0.2,1.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Charlie Jones","charlie-jones",NA,"WR",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","25336","Charlie Jones",NA,NA,NA,NA,NA,0,0.1,0,0,0.4,0.2,1.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mitchell Tinsley","mitchell-tinsley",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","24370","Mitchell Tinsley",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.2,1.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nikko Remigio","nikko-remigio",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","25772","Nikko Remigio",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Justin Watson","justin-watson",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","17603","Justin Watson",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ihmir Smith-Marsette","ihmir-smith-marsette",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","20116","Ihmir Smith-Marsette",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Erik Ezukanma","erik-ezukanma",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","23755","Erik Ezukanma",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dee Eskridge","dee-eskridge",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","22785","Dee Eskridge",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Beaux Collins","beaux-collins",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","22925","Beaux Collins",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Konata Mumpfield","konata-mumpfield",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","27449","Konata Mumpfield",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Xavier Weaver","xavier-weaver",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","23957","Xavier Weaver",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyrell Shavers","tyrell-shavers",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","25813","Tyrell Shavers",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bub Means","bub-means",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","26354","Bub Means",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Simi Fehoko","simi-fehoko",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","23196","Simi Fehoko",NA,NA,NA,NA,NA,0,0,0,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Xavier Smith","xavier-smith",NA,"WR",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","25627","Xavier Smith",NA,NA,NA,NA,NA,0.1,0.9,0,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ainias Smith","ainias-smith",NA,"WR",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","23142","Ainias Smith",NA,NA,NA,NA,NA,0,0,0,0,0.2,0.1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Bell","david-bell",NA,"WR",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","23108","David Bell",NA,NA,NA,NA,NA,0,0,0,0,0.2,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cedrick Wilson Jr.","cedrick-wilson",NA,"WR",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","17262","Cedrick Wilson Jr.",NA,NA,NA,NA,NA,0,0,0,0,0.2,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mason Tipton","mason-tipton",NA,"WR",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","26546","Mason Tipton",NA,NA,NA,NA,NA,0,0,0,0,0.2,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Devin Duvernay","devin-duvernay",NA,"WR",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","19270","Devin Duvernay",NA,NA,NA,NA,NA,0,0.2,0,0,0.2,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ben Skowronek","ben-skowronek",NA,"WR",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","22843","Ben Skowronek",NA,NA,NA,NA,NA,0,0,0,0,0.2,0.1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kevin Austin Jr.","kevin-austin",NA,"WR",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","23049","Kevin Austin Jr.",NA,NA,NA,NA,NA,0,0,0,0,0.2,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Johnson","tyler-johnson",NA,"WR",2025,1,0.2,"2025-08-30T23:13:20Z","fantasypros","18633","Tyler Johnson",NA,NA,NA,NA,NA,0,0,0,0,0.2,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Robbie Chosen","robbie-chosen",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","15688","Robbie Chosen",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lil'Jordan Humphrey","lil-jordan-humphrey",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18590","Lil'Jordan Humphrey",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gunner Olszewski","gunner-olszewski",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19093","Gunner Olszewski",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tom Kennedy","tom-kennedy",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19052","Tom Kennedy",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"James Proche II","james-proche",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19359","James Proche II",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kristian Wilkerson","kristian-wilkerson",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19891","Kristian Wilkerson",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Seth Williams","seth-williams",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","20118","Seth Williams",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Bandy","michael-bandy",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23531","Michael Bandy",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mason Kinsey","mason-kinsey",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19704","Mason Kinsey",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon Smith","brandon-smith",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23351","Brandon Smith",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Baccellia","andre-baccellia",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","20050","Andre Baccellia",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dennis Houston","dennis-houston",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24857","Dennis Houston",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Maurice Alexander","maurice-alexander",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25205","Maurice Alexander",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Scott","tyler-scott",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25442","Tyler Scott",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ronnie Bell","ronnie-bell",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23012","Ronnie Bell",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalen Brooks","jalen-brooks",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25468","Jalen Brooks",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"A.T. Perry","a-t-perry",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24353","A.T. Perry",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Elijah Cooks","elijah-cooks",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25604","Elijah Cooks",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shedrick Jackson","shedrick-jackson",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25709","Shedrick Jackson",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lucky Jackson","lucky-jackson",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25952","Lucky Jackson",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Blair","chris-blair",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","22684","Chris Blair",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dylan Drummond","dylan-drummond",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25912","Dylan Drummond",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Javon Baker","javon-baker",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","22885","Javon Baker",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tejhaun Palmer","tejhaun-palmer",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26411","Tejhaun Palmer",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alex Bachman","alex-bachman",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18902","Alex Bachman",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kaden Davis","kaden-davis",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24815","Kaden Davis",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalen Cropper","jalen-cropper",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25359","Jalen Cropper",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jared Wayne","jared-wayne",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25495","Jared Wayne",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Anthony Miller","anthony-miller",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","17255","Anthony Miller",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ricky White III","ricky-white",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","27186","Ricky White III",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Junior Bergen","junior-bergen",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","27552","Junior Bergen",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Xavier Restrepo","xavier-restrepo",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","27066","Xavier Restrepo",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Isaiah Neyor","isaiah-neyor",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26021","Isaiah Neyor",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Godwin Jr.","chris-godwin",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","16406","Chris Godwin Jr.",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Christian Watson","christian-watson",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23886","Christian Watson",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jalen McMillan","jalen-mcmillan",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23179","Jalen McMillan",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Demarcus Robinson","demarcus-robinson",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","15665","Demarcus Robinson",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Braxton Berrios","braxton-berrios",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","17289","Braxton Berrios",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LaJohntay Wester","lajohntay-wester",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","27447","LaJohntay Wester",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kameron Johnson","kameron-johnson",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26626","Kameron Johnson",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trent Taylor","trent-taylor",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","16505","Trent Taylor",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Juwann Winfree","juwann-winfree",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18699","Juwann Winfree",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trishton Jackson","trishton-jackson",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19672","Trishton Jackson",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"D.J. Montgomery","d-j-montgomery",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18984","D.J. Montgomery",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Sills","david-sills",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18566","David Sills",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jonathan Mingo","jonathan-mingo",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23030","Jonathan Mingo",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tank Dell","tank-dell",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25361","Tank Dell",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jason Brownlee","jason-brownlee",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25754","Jason Brownlee",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacob Cowing","jacob-cowing",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25289","Jacob Cowing",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tahj Washington","tahj-washington",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26397","Tahj Washington",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bryce Ford-Wheaton","bryce-ford-wheaton",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25340","Bryce Ford-Wheaton",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joshua Cephus","joshua-cephus",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26366","Joshua Cephus",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brycen Tremayne","brycen-tremayne",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25631","Brycen Tremayne",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dominic Lovett","dominic-lovett",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26013","Dominic Lovett",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Moore","chris-moore",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","15654","Chris Moore",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Laquon Treadwell","laquon-treadwell",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","15495","Laquon Treadwell",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Keith Kirkwood","keith-kirkwood",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","17871","Keith Kirkwood",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mecole Hardman Jr.","mecole-hardman",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18587","Mecole Hardman Jr.",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Miles Boykin","miles-boykin",NA,"WR",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18636","Miles Boykin",NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brock Bowers","brock-bowers",NA,"TE",2025,1,15.6,"2025-08-30T23:13:20Z","fantasypros","22955","Brock Bowers",NA,NA,NA,NA,NA,NA,NA,NA,0,15.6,6.7,69.2,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trey McBride","trey-mcbride",NA,"TE",2025,1,14.4,"2025-08-30T23:13:20Z","fantasypros","22936","Trey McBride",NA,NA,NA,NA,NA,NA,NA,NA,0,14.4,6.2,63.3,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"George Kittle","george-kittle",NA,"TE",2025,1,13.3,"2025-08-30T23:13:20Z","fantasypros","16499","George Kittle",NA,NA,NA,NA,NA,NA,NA,NA,0,13.3,4.8,61.3,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Njoku","david-njoku",NA,"TE",2025,1,12.8,"2025-08-30T23:13:20Z","fantasypros","16399","David Njoku",NA,NA,NA,NA,NA,NA,NA,NA,0.1,12.8,5.2,53.8,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travis Kelce","travis-kelce",NA,"TE",2025,1,11.5,"2025-08-30T23:13:20Z","fantasypros","11594","Travis Kelce",NA,NA,NA,NA,NA,NA,NA,NA,0,11.5,4.9,47.6,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sam LaPorta","sam-laporta",NA,"TE",2025,1,11.2,"2025-08-30T23:13:20Z","fantasypros","22978","Sam LaPorta",NA,NA,NA,NA,NA,NA,NA,NA,0,11.2,4.4,48,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"T.J. Hockenson","t-j-hockenson",NA,"TE",2025,1,11,"2025-08-30T23:13:20Z","fantasypros","18290","T.J. Hockenson",NA,NA,NA,NA,NA,NA,NA,NA,0,11,4.7,48.7,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mark Andrews","mark-andrews",NA,"TE",2025,1,10.9,"2025-08-30T23:13:20Z","fantasypros","17269","Mark Andrews",NA,NA,NA,NA,NA,NA,NA,NA,0,10.9,4.1,44.8,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Warren","tyler-warren",NA,"TE",2025,1,9.2,"2025-08-30T23:13:20Z","fantasypros","26434","Tyler Warren",NA,NA,NA,NA,NA,NA,NA,NA,0,9.2,3.8,38.1,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Evan Engram","evan-engram",NA,"TE",2025,1,9.1,"2025-08-30T23:13:20Z","fantasypros","16411","Evan Engram",NA,NA,NA,NA,NA,NA,NA,NA,0,9.1,4.2,37.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cade Otton","cade-otton",NA,"TE",2025,1,8.9,"2025-08-30T23:13:20Z","fantasypros","23181","Cade Otton",NA,NA,NA,NA,NA,NA,NA,NA,0,8.9,3.5,36.1,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyle Pitts Sr.","kyle-pitts",NA,"TE",2025,1,8.7,"2025-08-30T23:13:20Z","fantasypros","20164","Kyle Pitts Sr.",NA,NA,NA,NA,NA,NA,NA,NA,0,8.7,3.2,40.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Ferguson","jake-ferguson",NA,"TE",2025,1,8.7,"2025-08-30T23:13:20Z","fantasypros","22718","Jake Ferguson",NA,NA,NA,NA,NA,NA,NA,NA,0,8.7,4,35.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas Goedert","dallas-goedert",NA,"TE",2025,1,8.6,"2025-08-30T23:13:20Z","fantasypros","17270","Dallas Goedert",NA,NA,NA,NA,NA,NA,NA,NA,0.1,8.6,3.5,37.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dalton Kincaid","dalton-kincaid",NA,"TE",2025,1,8.5,"2025-08-30T23:13:20Z","fantasypros","25247","Dalton Kincaid",NA,NA,NA,NA,NA,NA,NA,NA,0,8.5,3.6,37.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tucker Kraft","tucker-kraft",NA,"TE",2025,1,8.4,"2025-08-30T23:13:20Z","fantasypros","25298","Tucker Kraft",NA,NA,NA,NA,NA,NA,NA,NA,0,8.4,3.3,37.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brenton Strange","brenton-strange",NA,"TE",2025,1,8,"2025-08-30T23:13:20Z","fantasypros","25345","Brenton Strange",NA,NA,NA,NA,NA,NA,NA,NA,0,8,3.4,33.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chig Okonkwo","chig-okonkwo",NA,"TE",2025,1,7.9,"2025-08-30T23:13:20Z","fantasypros","23982","Chig Okonkwo",NA,NA,NA,NA,NA,NA,NA,NA,0,7.9,3.5,34.4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zach Ertz","zach-ertz",NA,"TE",2025,1,7.7,"2025-08-30T23:13:20Z","fantasypros","11689","Zach Ertz",NA,NA,NA,NA,NA,NA,NA,NA,0,7.7,3.3,29.4,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hunter Henry","hunter-henry",NA,"TE",2025,1,7.5,"2025-08-30T23:13:20Z","fantasypros","15561","Hunter Henry",NA,NA,NA,NA,NA,NA,NA,NA,0,7.5,2.9,30.9,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colston Loveland","colston-loveland",NA,"TE",2025,1,7.3,"2025-08-30T23:13:20Z","fantasypros","26006","Colston Loveland",NA,NA,NA,NA,NA,NA,NA,NA,0,7.3,3.1,31.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pat Freiermuth","pat-freiermuth",NA,"TE",2025,1,7.1,"2025-08-30T23:13:20Z","fantasypros","20163","Pat Freiermuth",NA,NA,NA,NA,NA,NA,NA,NA,0,7.1,3.2,29.6,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mason Taylor","mason-taylor",NA,"TE",2025,1,7.1,"2025-08-30T23:13:20Z","fantasypros","26005","Mason Taylor",NA,NA,NA,NA,NA,NA,NA,NA,0,7.1,3.1,30.5,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Theo Johnson","theo-johnson",NA,"TE",2025,1,7.1,"2025-08-30T23:13:20Z","fantasypros","23104","Theo Johnson",NA,NA,NA,NA,NA,NA,NA,NA,0,7.1,2.9,31.2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Gesicki","mike-gesicki",NA,"TE",2025,1,7,"2025-08-30T23:13:20Z","fantasypros","17272","Mike Gesicki",NA,NA,NA,NA,NA,NA,NA,NA,0,7,2.9,28.8,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darren Waller","darren-waller",NA,"TE",2025,1,6.9,"2025-08-30T23:13:20Z","fantasypros","14104","Darren Waller",NA,NA,NA,NA,NA,NA,NA,NA,0,6.9,2.8,31.2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dalton Schultz","dalton-schultz",NA,"TE",2025,1,6.8,"2025-08-30T23:13:20Z","fantasypros","17349","Dalton Schultz",NA,NA,NA,NA,NA,NA,NA,NA,0,6.8,2.9,29.7,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jonnu Smith","jonnu-smith",NA,"TE",2025,1,6.4,"2025-08-30T23:13:20Z","fantasypros","16460","Jonnu Smith",NA,NA,NA,NA,NA,NA,NA,NA,0,6.4,2.8,27.2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Higbee","tyler-higbee",NA,"TE",2025,1,6.1,"2025-08-30T23:13:20Z","fantasypros","15623","Tyler Higbee",NA,NA,NA,NA,NA,NA,NA,NA,0,6.1,2.6,23.7,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ja'Tavion Sanders","ja-tavion-sanders",NA,"TE",2025,1,6.1,"2025-08-30T23:13:20Z","fantasypros","24334","Ja'Tavion Sanders",NA,NA,NA,NA,NA,NA,NA,NA,0,6.1,2.6,26.3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Juwan Johnson","juwan-johnson",NA,"TE",2025,1,5.9,"2025-08-30T23:13:20Z","fantasypros","19562","Juwan Johnson",NA,NA,NA,NA,NA,NA,NA,NA,0,5.9,2.5,25.1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Elijah Arroyo","elijah-arroyo",NA,"TE",2025,1,5.8,"2025-08-30T23:13:20Z","fantasypros","23004","Elijah Arroyo",NA,NA,NA,NA,NA,NA,NA,NA,0,5.8,2.3,25.2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AJ Barner","aj-barner",NA,"TE",2025,1,5.5,"2025-08-30T23:13:20Z","fantasypros","26335","AJ Barner",NA,NA,NA,NA,NA,NA,NA,NA,0,5.5,2.3,22.7,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Will Dissly","will-dissly",NA,"TE",2025,1,4.9,"2025-08-30T23:13:20Z","fantasypros","18049","Will Dissly",NA,NA,NA,NA,NA,NA,NA,NA,0,4.9,2.1,20.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Noah Fant","noah-fant",NA,"TE",2025,1,4.6,"2025-08-30T23:13:20Z","fantasypros","17527","Noah Fant",NA,NA,NA,NA,NA,NA,NA,NA,0,4.6,1.9,19.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Noah Gray","noah-gray",NA,"TE",2025,1,4.5,"2025-08-30T23:13:20Z","fantasypros","19539","Noah Gray",NA,NA,NA,NA,NA,NA,NA,NA,0,4.5,1.9,18.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Harold Fannin Jr.","harold-fannin",NA,"TE",2025,1,4.4,"2025-08-30T23:13:20Z","fantasypros","27050","Harold Fannin Jr.",NA,NA,NA,NA,NA,NA,NA,NA,0,4.4,1.8,18.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cole Kmet","cole-kmet",NA,"TE",2025,1,4.4,"2025-08-30T23:13:20Z","fantasypros","19229","Cole Kmet",NA,NA,NA,NA,NA,NA,NA,NA,0.1,4.4,1.9,17.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Conklin","tyler-conklin",NA,"TE",2025,1,4.2,"2025-08-30T23:13:20Z","fantasypros","17598","Tyler Conklin",NA,NA,NA,NA,NA,NA,NA,NA,0,4.2,1.8,17.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dawson Knox","dawson-knox",NA,"TE",2025,1,3.7,"2025-08-30T23:13:20Z","fantasypros","18631","Dawson Knox",NA,NA,NA,NA,NA,NA,NA,NA,0,3.7,1.4,15,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Mayer","michael-mayer",NA,"TE",2025,1,3.6,"2025-08-30T23:13:20Z","fantasypros","23056","Michael Mayer",NA,NA,NA,NA,NA,NA,NA,NA,0,3.6,1.6,15.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austin Hooper","austin-hooper",NA,"TE",2025,1,3.4,"2025-08-30T23:13:20Z","fantasypros","15581","Austin Hooper",NA,NA,NA,NA,NA,NA,NA,NA,0,3.4,1.4,14.4,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gunnar Helm","gunnar-helm",NA,"TE",2025,1,3.3,"2025-08-30T23:13:20Z","fantasypros","27109","Gunnar Helm",NA,NA,NA,NA,NA,NA,NA,NA,0,3.3,1.4,14.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Payne Durham","payne-durham",NA,"TE",2025,1,3.3,"2025-08-30T23:13:20Z","fantasypros","25346","Payne Durham",NA,NA,NA,NA,NA,NA,NA,NA,0,3.3,1.4,13.1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Terrance Ferguson","terrance-ferguson",NA,"TE",2025,1,3.1,"2025-08-30T23:13:20Z","fantasypros","23091","Terrance Ferguson",NA,NA,NA,NA,NA,NA,NA,NA,0,3.1,1.3,13,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cade Stover","cade-stover",NA,"TE",2025,1,2.7,"2025-08-30T23:13:20Z","fantasypros","25269","Cade Stover",NA,NA,NA,NA,NA,NA,NA,NA,0,2.7,1.2,11.5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tommy Tremble","tommy-tremble",NA,"TE",2025,1,2.5,"2025-08-30T23:13:20Z","fantasypros","22795","Tommy Tremble",NA,NA,NA,NA,NA,NA,NA,NA,0,2.5,1,9.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Oliver","josh-oliver",NA,"TE",2025,1,2.4,"2025-08-30T23:13:20Z","fantasypros","18487","Josh Oliver",NA,NA,NA,NA,NA,NA,NA,NA,0,2.4,1,10.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Luke Musgrave","luke-musgrave",NA,"TE",2025,1,2.4,"2025-08-30T23:13:20Z","fantasypros","25282","Luke Musgrave",NA,NA,NA,NA,NA,NA,NA,NA,0,2.4,1,9.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Charlie Kolar","charlie-kolar",NA,"TE",2025,1,2.3,"2025-08-30T23:13:20Z","fantasypros","22756","Charlie Kolar",NA,NA,NA,NA,NA,NA,NA,NA,0,2.3,0.9,9.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Oronde Gadsden II","oronde-gadsden",NA,"TE",2025,1,2.3,"2025-08-30T23:13:20Z","fantasypros","25997","Oronde Gadsden II",NA,NA,NA,NA,NA,NA,NA,NA,0,2.3,1,9.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Julian Hill","julian-hill",NA,"TE",2025,1,2.3,"2025-08-30T23:13:20Z","fantasypros","25824","Julian Hill",NA,NA,NA,NA,NA,NA,NA,NA,0,2.3,1,9.3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Adam Trautman","adam-trautman",NA,"TE",2025,1,2.2,"2025-08-30T23:13:20Z","fantasypros","19423","Adam Trautman",NA,NA,NA,NA,NA,NA,NA,NA,0,2.2,0.9,9.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Moliki Matavao","moliki-matavao",NA,"TE",2025,1,2.1,"2025-08-30T23:13:20Z","fantasypros","23093","Moliki Matavao",NA,NA,NA,NA,NA,NA,NA,NA,0,2.1,0.9,8.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Luke Schoonmaker","luke-schoonmaker",NA,"TE",2025,1,2,"2025-08-30T23:13:20Z","fantasypros","25267","Luke Schoonmaker",NA,NA,NA,NA,NA,NA,NA,NA,0,2,0.9,8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ben Sinnott","ben-sinnott",NA,"TE",2025,1,2,"2025-08-30T23:13:20Z","fantasypros","26310","Ben Sinnott",NA,NA,NA,NA,NA,NA,NA,NA,0,2,0.8,8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Daniel Bellinger","daniel-bellinger",NA,"TE",2025,1,2,"2025-08-30T23:13:20Z","fantasypros","24238","Daniel Bellinger",NA,NA,NA,NA,NA,NA,NA,NA,0,2,0.9,8.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Charlie Woerner","charlie-woerner",NA,"TE",2025,1,2,"2025-08-30T23:13:20Z","fantasypros","19665","Charlie Woerner",NA,NA,NA,NA,NA,NA,NA,NA,0,2,0.9,8.2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jeremy Ruckert","jeremy-ruckert",NA,"TE",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","23742","Jeremy Ruckert",NA,NA,NA,NA,NA,NA,NA,NA,0,1.9,0.9,7.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Elijah Higgins","elijah-higgins",NA,"TE",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","23119","Elijah Higgins",NA,NA,NA,NA,NA,NA,NA,NA,0,1.9,0.8,7.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Devin Culp","devin-culp",NA,"TE",2025,1,1.9,"2025-08-30T23:13:20Z","fantasypros","26440","Devin Culp",NA,NA,NA,NA,NA,NA,NA,NA,0,1.9,0.8,7.7,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Johnny Mundt","johnny-mundt",NA,"TE",2025,1,1.8,"2025-08-30T23:13:20Z","fantasypros","16743","Johnny Mundt",NA,NA,NA,NA,NA,NA,NA,NA,0,1.8,0.8,6.9,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Blake Whiteheart","blake-whiteheart",NA,"TE",2025,1,1.8,"2025-08-30T23:13:20Z","fantasypros","25657","Blake Whiteheart",NA,NA,NA,NA,NA,NA,NA,NA,0,1.8,0.7,7.6,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Grant Calcaterra","grant-calcaterra",NA,"TE",2025,1,1.6,"2025-08-30T23:13:20Z","fantasypros","24180","Grant Calcaterra",NA,NA,NA,NA,NA,NA,NA,NA,0,1.6,0.7,6.8,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jack Stoll","jack-stoll",NA,"TE",2025,1,1.5,"2025-08-30T23:13:20Z","fantasypros","23193","Jack Stoll",NA,NA,NA,NA,NA,NA,NA,NA,0,1.5,0.7,6.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colby Parkinson","colby-parkinson",NA,"TE",2025,1,1.3,"2025-08-30T23:13:20Z","fantasypros","19372","Colby Parkinson",NA,NA,NA,NA,NA,NA,NA,NA,0,1.3,0.5,5.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tip Reiman","tip-reiman",NA,"TE",2025,1,1.3,"2025-08-30T23:13:20Z","fantasypros","26432","Tip Reiman",NA,NA,NA,NA,NA,NA,NA,NA,0,1.3,0.5,5.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Drew Sample","drew-sample",NA,"TE",2025,1,1.3,"2025-08-30T23:13:20Z","fantasypros","18561","Drew Sample",NA,NA,NA,NA,NA,NA,NA,NA,0,1.3,0.6,4.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"John Bates","john-bates",NA,"TE",2025,1,1.1,"2025-08-30T23:13:20Z","fantasypros","22833","John Bates",NA,NA,NA,NA,NA,NA,NA,NA,0,1.1,0.4,4.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brevyn Spann-Ford","brevyn-spann-ford",NA,"TE",2025,1,1.1,"2025-08-30T23:13:20Z","fantasypros","26003","Brevyn Spann-Ford",NA,NA,NA,NA,NA,NA,NA,NA,0,1.1,0.4,4.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Whyle","josh-whyle",NA,"TE",2025,1,1,"2025-08-30T23:13:20Z","fantasypros","22923","Josh Whyle",NA,NA,NA,NA,NA,NA,NA,NA,0,1,0.5,4.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Foster Moreau","foster-moreau",NA,"TE",2025,1,1,"2025-08-30T23:13:20Z","fantasypros","18397","Foster Moreau",NA,NA,NA,NA,NA,NA,NA,NA,0,1,0.4,4.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kenny Yeboah","kenny-yeboah",NA,"TE",2025,1,0.8,"2025-08-30T23:13:20Z","fantasypros","22815","Kenny Yeboah",NA,NA,NA,NA,NA,NA,NA,NA,0,0.8,0.4,3.6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darnell Washington","darnell-washington",NA,"TE",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","22967","Darnell Washington",NA,NA,NA,NA,NA,NA,NA,NA,0,0.7,0.3,3.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mitchell Evans","mitchell-evans",NA,"TE",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","27138","Mitchell Evans",NA,NA,NA,NA,NA,NA,NA,NA,0,0.7,0.3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Luke Farrell","luke-farrell",NA,"TE",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","19501","Luke Farrell",NA,NA,NA,NA,NA,NA,NA,NA,0,0.7,0.3,2.8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Eric Saubert","eric-saubert",NA,"TE",2025,1,0.7,"2025-08-30T23:13:20Z","fantasypros","16706","Eric Saubert",NA,NA,NA,NA,NA,NA,NA,NA,0,0.7,0.3,2.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tanner Conner","tanner-conner",NA,"TE",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","24216","Tanner Conner",NA,NA,NA,NA,NA,NA,NA,NA,0,0.6,0.2,2.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ian Thomas","ian-thomas",NA,"TE",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","17387","Ian Thomas",NA,NA,NA,NA,NA,NA,NA,NA,0,0.6,0.3,2.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brock Wright","brock-wright",NA,"TE",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","23341","Brock Wright",NA,NA,NA,NA,NA,NA,NA,NA,0,0.6,0.2,2.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Stone Smartt","stone-smartt",NA,"TE",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","24621","Stone Smartt",NA,NA,NA,NA,NA,NA,NA,NA,0,0.6,0.3,2.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lucas Krull","lucas-krull",NA,"TE",2025,1,0.6,"2025-08-30T23:13:20Z","fantasypros","24240","Lucas Krull",NA,NA,NA,NA,NA,NA,NA,NA,0,0.6,0.2,2.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jackson Hawes","jackson-hawes",NA,"TE",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","27469","Jackson Hawes",NA,NA,NA,NA,NA,NA,NA,NA,0,0.5,0.2,2.3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mo Alie-Cox","mo-alie-cox",NA,"TE",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","16579","Mo Alie-Cox",NA,NA,NA,NA,NA,NA,NA,NA,0,0.5,0.2,2.4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Durham Smythe","durham-smythe",NA,"TE",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","17508","Durham Smythe",NA,NA,NA,NA,NA,NA,NA,NA,0,0.5,0.3,2.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Martin-Robinson","david-martin-robinson",NA,"TE",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","26922","David Martin-Robinson",NA,NA,NA,NA,NA,NA,NA,NA,0,0.5,0.2,2.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Drew Ogletree","drew-ogletree",NA,"TE",2025,1,0.5,"2025-08-30T23:13:20Z","fantasypros","24561","Drew Ogletree",NA,NA,NA,NA,NA,NA,NA,NA,0,0.5,0.2,2.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Manhertz","chris-manhertz",NA,"TE",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","14014","Chris Manhertz",NA,NA,NA,NA,NA,NA,NA,NA,0,0.4,0.2,1.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jared Wiley","jared-wiley",NA,"TE",2025,1,0.4,"2025-08-30T23:13:20Z","fantasypros","26343","Jared Wiley",NA,NA,NA,NA,NA,NA,NA,NA,0,0.4,0.2,1.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kylen Granson","kylen-granson",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","22841","Kylen Granson",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Will Mallory","will-mallory",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","23821","Will Mallory",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.2,1.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hunter Long","hunter-long",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","22783","Hunter Long",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"John Stephens Jr.","john-stephens",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","25942","John Stephens Jr.",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tanner Hudson","tanner-hudson",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","17826","Tanner Hudson",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cam Grandy","cam-grandy",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","26429","Cam Grandy",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brenden Bates","brenden-bates",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","26437","Brenden Bates",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gavin Bartholomew","gavin-bartholomew",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","26002","Gavin Bartholomew",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tucker Fisk","tucker-fisk",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","24921","Tucker Fisk",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Teagan Quitoriano","teagan-quitoriano",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","24182","Teagan Quitoriano",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nate Adkins","nate-adkins",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","25881","Nate Adkins",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Davis Allen","davis-allen",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","23761","Davis Allen",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Feleipe Franks","feleipe-franks",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","20081","Feleipe Franks",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Connor Heyward","connor-heyward",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","24562","Connor Heyward",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jack Westover","jack-westover",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","26436","Jack Westover",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,1.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Harrison Bryant","harrison-bryant",NA,"TE",2025,1,0.3,"2025-08-30T23:13:20Z","fantasypros","19389","Harrison Bryant",NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1,0.9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Isaiah Likely","isaiah-likely",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23781","Isaiah Likely",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Taysom Hill","taysom-hill",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","17115","Taysom Hill",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Irv Smith Jr.","irv-smith",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18610","Irv Smith Jr.",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyree Jackson","tyree-jackson",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18591","Tyree Jackson",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shane Zylstra","shane-zylstra",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23461","Shane Zylstra",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jelani Woods","jelani-woods",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23829","Jelani Woods",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ko Kieft","ko-kieft",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24568","Ko Kieft",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"John FitzPatrick","john-fitzpatrick",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24181","John FitzPatrick",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"James Mitchell","james-mitchell",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23174","James Mitchell",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Tonges","jake-tonges",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24778","Jake Tonges",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ben Sims","ben-sims",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25349","Ben Sims",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travis Vokolek","travis-vokolek",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25820","Travis Vokolek",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Erick All Jr.","erick-all",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23837","Erick All Jr.",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tanner McLachlan","tanner-mclachlan",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26352","Tanner McLachlan",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colson Yankoff","colson-yankoff",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26576","Colson Yankoff",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Thomas Fidone II","thomas-fidone",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23039","Thomas Fidone II",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Robert Tonyan","robert-tonyan",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","16502","Robert Tonyan",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nick Vannett","nick-vannett",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","15645","Nick Vannett",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Stephen Carlson","stephen-carlson",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18757","Stephen Carlson",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josiah Deguara","josiah-deguara",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19456","Josiah Deguara",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Albert Okwuegbunam Jr.","albert-okwuegbunam",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","18246","Albert Okwuegbunam Jr.",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sean McKeon","sean-mckeon",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19726","Sean McKeon",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lawrence Cager","lawrence-cager",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","19701","Lawrence Cager",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Greg Dulcich","greg-dulcich",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","23153","Greg Dulcich",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quintin Morris","quintin-morris",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","22820","Quintin Morris",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nikola Kalinic","nikola-kalinic",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24144","Nikola Kalinic",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cameron Latu","cameron-latu",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24331","Cameron Latu",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Justin Shorter","justin-shorter",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","24083","Justin Shorter",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brayden Willis","brayden-willis",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25469","Brayden Willis",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Princeton Fant","princeton-fant",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25939","Princeton Fant",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Thomas Odukoya","thomas-odukoya",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25206","Thomas Odukoya",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"E.J. Jenkins","e-j-jenkins",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","25756","E.J. Jenkins",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Luke Lachey","luke-lachey",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","22977","Luke Lachey",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Caleb Lohner","caleb-lohner",NA,"TE",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","27550","Caleb Lohner",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chase McLaughlin TB","chase-mclaughlin-tb",NA,"K",2025,1,8.1,"2025-08-30T23:13:20Z","fantasypros","19058","Chase McLaughlin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.8,2,2.8,8.1,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Bates DET","jake-bates-det",NA,"K",2025,1,8,"2025-08-30T23:13:20Z","fantasypros","26075","Jake Bates",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,1.9,2.9,8,NA,NA,NA,NA,NA,NA,NA,NA
+"Cam Little JAC","cam-little-jac",NA,"K",2025,1,8,"2025-08-30T23:13:20Z","fantasypros","26475","Cam Little",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.9,2.1,2.5,8,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Elliott PHI","jake-elliott-phi",NA,"K",2025,1,8,"2025-08-30T23:13:20Z","fantasypros","16540","Jake Elliott",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2,3,8,NA,NA,NA,NA,NA,NA,NA,NA
+"Wil Lutz DEN","wil-lutz-den",NA,"K",2025,1,8,"2025-08-30T23:13:20Z","fantasypros","16026","Wil Lutz",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.8,2.2,2.6,8,NA,NA,NA,NA,NA,NA,NA,NA
+"Matt Gay WAS","matt-gay-was",NA,"K",2025,1,7.9,"2025-08-30T23:13:20Z","fantasypros","18545","Matt Gay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2,2.9,7.9,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon McManus GB","brandon-mcmanus-gb",NA,"K",2025,1,7.9,"2025-08-30T23:13:20Z","fantasypros","13274","Brandon McManus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.8,2,2.6,7.9,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Bass BUF","tyler-bass-buf",NA,"K",2025,1,7.9,"2025-08-30T23:13:20Z","fantasypros","19760","Tyler Bass",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.6,2.1,3,7.9,NA,NA,NA,NA,NA,NA,NA,NA
+"Cameron Dicker LAC","cameron-dicker-lac",NA,"K",2025,1,7.8,"2025-08-30T23:13:20Z","fantasypros","23901","Cameron Dicker",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.9,2,2.2,7.8,NA,NA,NA,NA,NA,NA,NA,NA
+"Evan McPherson CIN","evan-mcpherson-cin",NA,"K",2025,1,7.7,"2025-08-30T23:13:20Z","fantasypros","23297","Evan McPherson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2,2.6,7.7,NA,NA,NA,NA,NA,NA,NA,NA
+"Harrison Butker KC","harrison-butker-kc",NA,"K",2025,1,7.6,"2025-08-30T23:13:20Z","fantasypros","16712","Harrison Butker",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2,2.5,7.6,NA,NA,NA,NA,NA,NA,NA,NA
+"Chad Ryland ARI","chad-ryland-ari",NA,"K",2025,1,7.6,"2025-08-30T23:13:20Z","fantasypros","25354","Chad Ryland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2,2.5,7.6,NA,NA,NA,NA,NA,NA,NA,NA
+"Ka'imi Fairbairn HOU","ka-imi-fairbairn-hou",NA,"K",2025,1,7.6,"2025-08-30T23:13:20Z","fantasypros","15756","Ka'imi Fairbairn",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.8,2.1,2.1,7.6,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Loop BAL","tyler-loop-bal",NA,"K",2025,1,7.6,"2025-08-30T23:13:20Z","fantasypros","27534","Tyler Loop",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.5,1.8,2.9,7.6,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Boswell PIT","chris-boswell-pit",NA,"K",2025,1,7.5,"2025-08-30T23:13:20Z","fantasypros","13029","Chris Boswell",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.8,2,2.2,7.5,NA,NA,NA,NA,NA,NA,NA,NA
+"Cairo Santos CHI","cairo-santos-chi",NA,"K",2025,1,7.5,"2025-08-30T23:13:20Z","fantasypros","13731","Cairo Santos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.8,2.1,2,7.5,NA,NA,NA,NA,NA,NA,NA,NA
+"Will Reichard MIN","will-reichard-min",NA,"K",2025,1,7.5,"2025-08-30T23:13:20Z","fantasypros","26341","Will Reichard",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2.1,2.3,7.5,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon Aubrey DAL","brandon-aubrey-dal",NA,"K",2025,1,7.4,"2025-08-30T23:13:20Z","fantasypros","26068","Brandon Aubrey",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.8,2,2,7.4,NA,NA,NA,NA,NA,NA,NA,NA
+"Jason Myers SEA","jason-myers-sea",NA,"K",2025,1,7.4,"2025-08-30T23:13:20Z","fantasypros","14003","Jason Myers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.8,2.1,2.1,7.4,NA,NA,NA,NA,NA,NA,NA,NA
+"Joshua Karty LAR","joshua-karty-lar",NA,"K",2025,1,7.4,"2025-08-30T23:13:20Z","fantasypros","26478","Joshua Karty",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2,2.2,7.4,NA,NA,NA,NA,NA,NA,NA,NA
+"Daniel Carlson LV","daniel-carlson-lv",NA,"K",2025,1,7.2,"2025-08-30T23:13:20Z","fantasypros","17420","Daniel Carlson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2.1,2.1,7.2,NA,NA,NA,NA,NA,NA,NA,NA
+"Younghoe Koo ATL","younghoe-koo-atl",NA,"K",2025,1,7,"2025-08-30T23:13:20Z","fantasypros","16910","Younghoe Koo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.6,1.9,2.1,7,NA,NA,NA,NA,NA,NA,NA,NA
+"Spencer Shrader IND","spencer-shrader-ind",NA,"K",2025,1,7,"2025-08-30T23:13:20Z","fantasypros","26763","Spencer Shrader",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,1.9,2,7,NA,NA,NA,NA,NA,NA,NA,NA
+"Blake Grupe NO","blake-grupe-no",NA,"K",2025,1,6.9,"2025-08-30T23:13:20Z","fantasypros","25533","Blake Grupe",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.6,2.1,1.9,6.9,NA,NA,NA,NA,NA,NA,NA,NA
+"Riley Patterson MIA","riley-patterson-mia",NA,"K",2025,1,6.8,"2025-08-30T23:13:20Z","fantasypros","23370","Riley Patterson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.6,2,2,6.8,NA,NA,NA,NA,NA,NA,NA,NA
+"Nick Folk NYJ","nick-folk-nyj",NA,"K",2025,1,6.7,"2025-08-30T23:13:20Z","fantasypros","9491","Nick Folk",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,2.1,1.7,6.7,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Szmyt CLE","andre-szmyt-cle",NA,"K",2025,1,6.7,"2025-08-30T23:13:20Z","fantasypros","25713","Andre Szmyt",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.6,2,1.8,6.7,NA,NA,NA,NA,NA,NA,NA,NA
+"Graham Gano NYG","graham-gano-nyg",NA,"K",2025,1,6.5,"2025-08-30T23:13:20Z","fantasypros","9232","Graham Gano",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.6,1.9,1.9,6.5,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Moody SF","jake-moody-sf",NA,"K",2025,1,6.5,"2025-08-30T23:13:20Z","fantasypros","24009","Jake Moody",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.4,1.9,2.4,6.5,NA,NA,NA,NA,NA,NA,NA,NA
+"Andy Borregales NE","andy-borregales-ne",NA,"K",2025,1,6.4,"2025-08-30T23:13:20Z","fantasypros","27291","Andy Borregales",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.4,1.9,2.1,6.4,NA,NA,NA,NA,NA,NA,NA,NA
+"Joey Slye TEN","joey-slye-ten",NA,"K",2025,1,6.2,"2025-08-30T23:13:20Z","fantasypros","19028","Joey Slye",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.5,1.9,1.7,6.2,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Fitzgerald CAR","ryan-fitzgerald-car",NA,"K",2025,1,4.1,"2025-08-30T23:13:20Z","fantasypros","27261","Ryan Fitzgerald",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1.2,4.1,NA,NA,NA,NA,NA,NA,NA,NA
+"Jason Sanders MIA","jason-sanders-mia",NA,"K",2025,1,4,"2025-08-30T23:13:20Z","fantasypros","17533","Jason Sanders",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.9,1.1,1.3,4,NA,NA,NA,NA,NA,NA,NA,NA
+"Harrison Mevis NYJ","harrison-mevis-nyj",NA,"K",2025,1,3.2,"2025-08-30T23:13:20Z","fantasypros","26638","Harrison Mevis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.7,0.9,1,3.2,NA,NA,NA,NA,NA,NA,NA,NA
+"Jude McAtamney NYG","jude-mcatamney-nyg",NA,"K",2025,1,0,"2025-08-30T23:13:20Z","fantasypros","26940","Jude McAtamney",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Pittsburgh Steelers","pittsburgh-steelers",NA,"DST",2025,1,7.5,"2025-08-30T23:13:20Z","fantasypros","8240","Pittsburgh Steelers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.5,2.7,0.8,0.6,1,0.2,0,17.3,303.7
+"Washington Commanders","washington-commanders",NA,"DST",2025,1,7.2,"2025-08-30T23:13:20Z","fantasypros","8310","Washington Commanders",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.2,2.8,0.7,0.6,0.8,0.2,0,19.7,343.2
+"Denver Broncos","denver-broncos",NA,"DST",2025,1,7.1,"2025-08-30T23:13:20Z","fantasypros","8090","Denver Broncos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.1,2.4,0.8,0.5,0.7,0.2,0,17.1,317.5
+"New England Patriots","new-england-patriots",NA,"DST",2025,1,7,"2025-08-30T23:13:20Z","fantasypros","8180","New England Patriots",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,2.5,0.8,0.5,0.6,0.2,0,19.3,343.4
+"Arizona Cardinals","arizona-cardinals",NA,"DST",2025,1,6.8,"2025-08-30T23:13:20Z","fantasypros","8000","Arizona Cardinals",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,2.5,0.8,0.5,0.7,0.2,0,18.1,324.7
+"Minnesota Vikings","minnesota-vikings",NA,"DST",2025,1,6.6,"2025-08-30T23:13:20Z","fantasypros","8170","Minnesota Vikings",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,3.2,0.7,0.5,0.7,0.2,0,21.1,314.8
+"Philadelphia Eagles","philadelphia-eagles",NA,"DST",2025,1,6.1,"2025-08-30T23:13:20Z","fantasypros","8230","Philadelphia Eagles",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,2.3,0.8,0.6,1,0.2,0,20.5,341.4
+"Los Angeles Rams","los-angeles-rams",NA,"DST",2025,1,5.9,"2025-08-30T23:13:20Z","fantasypros","8280","Los Angeles Rams",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,2.7,0.7,0.5,0.8,0.1,0,20.8,351.2
+"Miami Dolphins","miami-dolphins",NA,"DST",2025,1,5.9,"2025-08-30T23:13:20Z","fantasypros","8160","Miami Dolphins",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,2.7,0.7,0.5,0.8,0.1,0,23.1,321.4
+"San Francisco 49ers","san-francisco-49ers",NA,"DST",2025,1,5.8,"2025-08-30T23:13:20Z","fantasypros","8270","San Francisco 49ers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,2.3,0.8,0.5,0.7,0.2,0,21.9,336.1
+"Cincinnati Bengals","cincinnati-bengals",NA,"DST",2025,1,5.8,"2025-08-30T23:13:20Z","fantasypros","8060","Cincinnati Bengals",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,2.2,0.9,0.5,0.7,0.2,0,20.5,357
+"New York Giants","new-york-giants",NA,"DST",2025,1,5.7,"2025-08-30T23:13:20Z","fantasypros","8200","New York Giants",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,2.6,0.6,0.5,1,0.1,0,25.8,355.1
+"Chicago Bears","chicago-bears",NA,"DST",2025,1,5.7,"2025-08-30T23:13:20Z","fantasypros","8050","Chicago Bears",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,2.2,0.8,0.5,0.8,0.1,0,21.8,351.9
+"Jacksonville Jaguars","jacksonville-jaguars",NA,"DST",2025,1,5.7,"2025-08-30T23:13:20Z","fantasypros","8140","Jacksonville Jaguars",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,2.3,0.8,0.5,0.7,0.1,0,21.4,333.3
+"Las Vegas Raiders","las-vegas-raiders",NA,"DST",2025,1,5.6,"2025-08-30T23:13:20Z","fantasypros","8220","Las Vegas Raiders",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,2.4,0.7,0.6,0.7,0.1,0,23.3,342
+"Atlanta Falcons","atlanta-falcons",NA,"DST",2025,1,5.6,"2025-08-30T23:13:20Z","fantasypros","8010","Atlanta Falcons",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,2.3,0.8,0.5,0.8,0.1,0,25.1,366
+"Tampa Bay Buccaneers","tampa-bay-buccaneers",NA,"DST",2025,1,5.6,"2025-08-30T23:13:20Z","fantasypros","8290","Tampa Bay Buccaneers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,2.2,0.7,0.5,0.9,0.1,0,22.6,351.9
+"Kansas City Chiefs","kansas-city-chiefs",NA,"DST",2025,1,5.5,"2025-08-30T23:13:20Z","fantasypros","8150","Kansas City Chiefs",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,2.3,0.6,0.5,0.7,0.2,0,21.8,340.8
+"Green Bay Packers","green-bay-packers",NA,"DST",2025,1,5.4,"2025-08-30T23:13:20Z","fantasypros","8110","Green Bay Packers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,2.1,0.7,0.5,0.8,0.2,0,23.4,375.8
+"Seattle Seahawks","seattle-seahawks",NA,"DST",2025,1,5.4,"2025-08-30T23:13:20Z","fantasypros","8260","Seattle Seahawks",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,2.1,0.7,0.5,0.8,0.1,0,22.6,365.7
+"Houston Texans","houston-texans",NA,"DST",2025,1,5.4,"2025-08-30T23:13:20Z","fantasypros","8120","Houston Texans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,2.1,0.7,0.5,0.7,0.2,0,23.4,343.2
+"Cleveland Browns","cleveland-browns",NA,"DST",2025,1,5.3,"2025-08-30T23:13:20Z","fantasypros","8070","Cleveland Browns",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,2.4,0.6,0.4,0.7,0.1,0,26,369.5
+"Indianapolis Colts","indianapolis-colts",NA,"DST",2025,1,5.3,"2025-08-30T23:13:20Z","fantasypros","8130","Indianapolis Colts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.9,0.8,0.5,0.8,0.1,0,22.1,362.4
+"Dallas Cowboys","dallas-cowboys",NA,"DST",2025,1,5.2,"2025-08-30T23:13:20Z","fantasypros","8080","Dallas Cowboys",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,2.3,0.6,0.5,0.8,0.1,0,27.4,367.4
+"Detroit Lions","detroit-lions",NA,"DST",2025,1,5.1,"2025-08-30T23:13:20Z","fantasypros","8100","Detroit Lions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.7,0.8,0.5,0.7,0.2,0,24.4,342.1
+"Los Angeles Chargers","los-angeles-chargers",NA,"DST",2025,1,5.1,"2025-08-30T23:13:20Z","fantasypros","8250","Los Angeles Chargers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,2.1,0.7,0.4,0.7,0.1,0,24.4,359.8
+"New York Jets","new-york-jets",NA,"DST",2025,1,5.1,"2025-08-30T23:13:20Z","fantasypros","8210","New York Jets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,2,0.6,0.5,0.7,0.1,0,20.2,329.4
+"Buffalo Bills","buffalo-bills",NA,"DST",2025,1,5,"2025-08-30T23:13:20Z","fantasypros","8030","Buffalo Bills",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,0.6,0.5,0.9,0.1,0,25.1,386.4
+"Baltimore Ravens","baltimore-ravens",NA,"DST",2025,1,5,"2025-08-30T23:13:20Z","fantasypros","8020","Baltimore Ravens",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.7,0.7,0.5,0.8,0.1,0,26.7,364.8
+"Carolina Panthers","carolina-panthers",NA,"DST",2025,1,4.8,"2025-08-30T23:13:20Z","fantasypros","8040","Carolina Panthers",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.9,0.7,0.4,0.6,0.1,0,24.2,363.6
+"New Orleans Saints","new-orleans-saints",NA,"DST",2025,1,4.8,"2025-08-30T23:13:20Z","fantasypros","8190","New Orleans Saints",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.9,0.7,0.5,0.5,0.1,0,23.7,359.5
+"Tennessee Titans","tennessee-titans",NA,"DST",2025,1,4.5,"2025-08-30T23:13:20Z","fantasypros","8300","Tennessee Titans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.7,0.6,0.4,0.7,0.1,0,24.6,351.9
