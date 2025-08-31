@@ -584,12 +584,15 @@ def assemble_json(
 ) -> List[Dict[str, Any]]:
     # Ensure FP key present in both frames
     def ensure_key(df: pd.DataFrame) -> pd.DataFrame:
-        if "__fp_key" in df.columns:
+        if "fp_key" in df.columns:
             return df
+        if "fp_key" in df.columns:
+            return df.rename(columns={"fp_key": "fp_key"})
+        # Otherwise, synthesize it from slug/pos/team.
         slug = df.get("fp_player_slug", df.get("player", pd.Series([""] * len(df)))).fillna("").map(_slug_no_suffix)
         pos = df.get("pos", pd.Series([""] * len(df))).fillna("").str.upper()
         team = df.get("team", df.get("nfl_team", pd.Series([""] * len(df)))).fillna("").str.lower()
-        return df.assign(__fp_key=slug + "|" + pos + "|" + team)
+        return df.assign(fp_key=slug + "|" + pos + "|" + team)
 
     fp_weekly = ensure_key(fp_weekly)
     fp_ros = ensure_key(fp_ros)
@@ -608,11 +611,11 @@ def assemble_json(
                    .groupby("player_id").agg(lambda x: x.iloc[0]).to_dict(orient="index"))
 
     # Fast ROS index
-    ros_idx = fp_ros.set_index("__fp_key") if "__fp_key" in fp_ros.columns else pd.DataFrame()
+    ros_idx = fp_ros.set_index("fp_key") if "fp_key" in fp_ros.columns else pd.DataFrame()
 
     out: List[Dict[str, Any]] = []
     for _, row in fp_weekly.iterrows():
-        key = row["__fp_key"]
+        key = row["fp_key"]
         im = id_map_idx.loc[key] if key in getattr(id_map_idx, "index", []) else None
 
         # Identity fields

@@ -1,6 +1,17 @@
 #!/usr/bin/env Rscript
 # ffpros_ingest.R — FP weekly projections + weekly ECR dispersion + ROS rankings
-# Writes: data/staging/fp_weekly.parquet, fp_ros.parquet (+ CSV best effort)
+# Purpose:
+#   Pull FantasyPros weekly projections (points + uncertainty) and weekly ECR dispersion,
+#   and rest-of-season (ROS) rankings (with best/worst/avg/sd when available).
+# Outputs:
+#   - data/staging/fp_weekly.parquet  (one row per player-week-position with:
+#       weekly_avg (points), weekly_sd/floor/ceiling, weekly_points_overall_rank,
+#       weekly_points_pos_rank, ECR rank/dispersion, plus stats columns)
+#   - data/staging/fp_ros.parquet     (one row per player-position with:
+#       ros_rank(+pos_rank), best/worst/avg/sd where available)
+# Notes:
+#   - Key column for joins: fp_key = "<slug>|<POS>|<team_lower>"
+#   - Slug strips suffixes (Jr, III, etc). Team is blank-safe and lowercased.
 
 # ---------- bootstrap ----------
 pkgs <- c("ffpros", "dplyr", "tidyr", "stringr", "arrow")
@@ -15,19 +26,14 @@ for (p in pkgs) {
   }
 }
 suppressPackageStartupMessages({
-  library(ffpros)
-  library(dplyr)
-  library(tidyr)
-  library(stringr)
-  library(arrow)
+  library(ffpros); library(dplyr); library(tidyr); library(stringr); library(arrow)
 })
 
 # ---------- config ----------
 YEAR    <- as.integer(Sys.getenv("FP_YEAR", "2025"))
 WEEK    <- as.integer(Sys.getenv("FP_WEEK", "1"))
 SCORING <- Sys.getenv("FP_SCORING", "PPR")
-PAGES   <- strsplit(Sys.getenv("FP_POS", "qb,rb,wr,te,k,dst"), "\\s*,\\s*")[[1]]
-PAGES   <- tolower(unique(PAGES))
+PAGES   <- strsplit(Sys.getenv("FP_POS", "qb,rb,wr,te,k,dst"), "\\s*,\\s*")[[1]] |> tolower() |> unique()
 
 STAGING_DIR <- "data/staging"
 dir.create(STAGING_DIR, recursive = TRUE, showWarnings = FALSE)
@@ -135,7 +141,7 @@ norm_weekly_proj <- function(df, pos) {
       fp_player_slug = slugify(.data[[player_col]])
     ) %>%
     mutate(
-      `__fp_key` = paste0(
+      fp_key = paste0(
         fp_player_slug, "|", pos, "|",
         tolower(dplyr::if_else(is.na(team) | team == "", "", team))
       ),
@@ -194,7 +200,7 @@ norm_weekly_rank <- function(df, pos) {
       fp_player_slug = slugify(.data[[player_col]])
     ) %>%
     mutate(
-      `__fp_key` = paste0(
+      fp_key = paste0(
         fp_player_slug, "|", pos, "|",
         tolower(dplyr::if_else(is.na(team) | team == "", "", team))
       )
@@ -239,7 +245,7 @@ norm_ros <- function(df, pos) {
       fp_player_slug = slugify(.data[[player_col]])
     ) %>%
     mutate(
-      `__fp_key` = paste0(
+      fp_key = paste0(
         fp_player_slug, "|", pos, "|",
         tolower(dplyr::if_else(is.na(team) | team == "", "", team))
       )
@@ -265,13 +271,12 @@ pull_weekly_for_pos <- function(pg) {
   wr <- norm_weekly_rank(ranks, pg)
 
   if (nrow(wp) > 0 && nrow(wr) > 0) {
-    wp %>%
-      left_join(
-        wr %>% select(dplyr::all_of("__fp_key"),
-                      weekly_ecr_rank, weekly_ecr_best_rank, weekly_ecr_worst_rank,
-                      weekly_ecr_avg_rank, weekly_ecr_sd_rank),
-        by = "__fp_key"
-      )
+    wp %>% left_join(
+      wr %>% select("fp_key",
+                    weekly_ecr_rank, weekly_ecr_best_rank, weekly_ecr_worst_rank,
+                    weekly_ecr_avg_rank, weekly_ecr_sd_rank),
+      by = "fp_key"
+    )
   } else {
     wp
   }
@@ -293,11 +298,8 @@ pull_ros_for_pos <- function(pg) {
 }
 
 # ---------- run & ranks ----------
-weekly_list <- lapply(PAGES, pull_weekly_for_pos)
-weekly <- suppressWarnings(bind_rows(weekly_list))
-
-ros_list <- lapply(PAGES, pull_ros_for_pos)
-ros <- suppressWarnings(bind_rows(ros_list))
+weekly <- suppressWarnings(bind_rows(lapply(PAGES, pull_weekly_for_pos)))
+ros    <- suppressWarnings(bind_rows(lapply(PAGES, pull_ros_for_pos)))
 
 # Points-based weekly ranks
 if (nrow(weekly) > 0) {
