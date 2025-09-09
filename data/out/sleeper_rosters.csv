@@ -1,0 +1,153 @@
+﻿platform,player_id,player_key,fp_player_id,canonical_player_id,fp_key,player,position,nfl_team,team_name,owner,eligible_positions
+sleeper,11584,11584,25981.0,canon:bucky irving::RB,bucky-irving|RB|,Bucky Irving,RB,TB,ThunderDuck5,ThunderDuck5,"['RB', 'W/R/T']"
+sleeper,12518,12518,26434.0,canon:tyler warren::TE,tyler-warren|TE|,Tyler Warren,TE,IND,ThunderDuck5,ThunderDuck5,"['TE', 'W/R/T']"
+sleeper,1945,1945,,,,Chris Boswell,K,PIT,ThunderDuck5,ThunderDuck5,['K']
+sleeper,3163,3163,15501.0,canon:jared goff::QB,jared-goff|QB|,Jared Goff,QB,DET,ThunderDuck5,ThunderDuck5,['QB']
+sleeper,4046,4046,16413.0,canon:patrick mahomes::QB,patrick-mahomes|QB|,Patrick Mahomes,QB,KC,ThunderDuck5,ThunderDuck5,['QB']
+sleeper,4988,4988,17246.0,canon:nick chubb::RB,nick-chubb|RB|,Nick Chubb,RB,HOU,ThunderDuck5,ThunderDuck5,"['RB', 'W/R/T']"
+sleeper,7525,7525,19222.0,canon:devonta smith::WR,devonta-smith|WR|,DeVonta Smith,WR,PHI,ThunderDuck5,ThunderDuck5,"['WR', 'W/R/T']"
+sleeper,8112,8112,23163.0,canon:drake london::WR,drake-london|WR|,Drake London,WR,ATL,ThunderDuck5,ThunderDuck5,"['WR', 'W/R/T']"
+sleeper,8137,8137,22963.0,canon:george pickens::WR,george-pickens|WR|,George Pickens,WR,DAL,ThunderDuck5,ThunderDuck5,"['WR', 'W/R/T']"
+sleeper,8144,8144,20111.0,canon:chris olave::WR,chris-olave|WR|,Chris Olave,WR,NO,ThunderDuck5,ThunderDuck5,"['WR', 'W/R/T']"
+sleeper,8155,8155,22982.0,canon:breece hall::RB,breece-hall|RB|,Breece Hall,RB,NYJ,ThunderDuck5,ThunderDuck5,"['RB', 'W/R/T']"
+sleeper,8228,8228,24209.0,canon:jaylen warren::RB,jaylen-warren|RB|,Jaylen Warren,RB,PIT,ThunderDuck5,ThunderDuck5,"['RB', 'W/R/T']"
+sleeper,9509,9509,23133.0,canon:bijan robinson::RB,bijan-robinson|RB|,Bijan Robinson,RB,ATL,ThunderDuck5,ThunderDuck5,"['RB', 'W/R/T']"
+sleeper,BUF,BUF,8030.0,canon:buffalo bills::DST,buffalo-bills|DST|,Buffalo Bills,DEF,BUF,ThunderDuck5,ThunderDuck5,['DEF']
+sleeper,WAS,WAS,8310.0,canon:washington commanders::DST,washington-commanders|DST|,Washington Commanders,DEF,WAS,ThunderDuck5,ThunderDuck5,['DEF']
+sleeper,11539,11539,,,,Jake Bates,K,DET,Bo Nix Fanclub,ItsKevin,['K']
+sleeper,11563,11563,22910.0,canon:bo nix::QB,bo-nix|QB|,Bo Nix,QB,DEN,Bo Nix Fanclub,ItsKevin,['QB']
+sleeper,11628,11628,23064.0,canon:marvin harrison::WR,marvin-harrison|WR|,Marvin Harrison,WR,ARI,Bo Nix Fanclub,ItsKevin,"['WR', 'W/R/T']"
+sleeper,1689,1689,13429.0,canon:adam thielen::WR,adam-thielen|WR|,Adam Thielen,WR,MIN,Bo Nix Fanclub,ItsKevin,"['WR', 'W/R/T']"
+sleeper,3321,3321,15802.0,canon:tyreek hill::WR,tyreek-hill|WR|,Tyreek Hill,WR,MIA,Bo Nix Fanclub,ItsKevin,"['WR', 'W/R/T']"
+sleeper,4217,4217,16499.0,canon:george kittle::TE,george-kittle|TE|,George Kittle,TE,SF,Bo Nix Fanclub,ItsKevin,"['TE', 'W/R/T']"
+sleeper,5850,5850,18269.0,canon:josh jacobs::RB,josh-jacobs|RB|,Josh Jacobs,RB,GB,Bo Nix Fanclub,ItsKevin,"['RB', 'W/R/T']"
+sleeper,5967,5967,18705.0,canon:tony pollard::RB,tony-pollard|RB|,Tony Pollard,RB,TEN,Bo Nix Fanclub,ItsKevin,"['RB', 'W/R/T']"
+sleeper,6790,6790,19210.0,canon:dandre swift::RB,d-andre-swift|RB|,D'Andre Swift,RB,CHI,Bo Nix Fanclub,ItsKevin,"['RB', 'W/R/T']"
+sleeper,6794,6794,19236.0,canon:justin jefferson::WR,justin-jefferson|WR|,Justin Jefferson,WR,MIN,Bo Nix Fanclub,ItsKevin,"['WR', 'W/R/T']"
+sleeper,6803,6803,19252.0,canon:brandon aiyuk::WR,brandon-aiyuk|WR|,Brandon Aiyuk,WR,SF,Bo Nix Fanclub,ItsKevin,"['WR', 'W/R/T']"
+sleeper,7049,7049,19590.0,canon:jauan jennings::WR,jauan-jennings|WR|,Jauan Jennings,WR,SF,Bo Nix Fanclub,ItsKevin,"['WR', 'W/R/T']"
+sleeper,8154,8154,20094.0,canon:brian robinson::RB,brian-robinson|RB|,Brian Robinson,RB,SF,Bo Nix Fanclub,ItsKevin,"['RB', 'W/R/T']"
+sleeper,9484,9484,25298.0,canon:tucker kraft::TE,tucker-kraft|TE|,Tucker Kraft,TE,GB,Bo Nix Fanclub,ItsKevin,"['TE', 'W/R/T']"
+sleeper,DEN,DEN,8090.0,canon:denver broncos::DST,denver-broncos|DST|,Denver Broncos,DEF,DEN,Bo Nix Fanclub,ItsKevin,['DEF']
+sleeper,11637,11637,26019.0,canon:keon coleman::WR,keon-coleman|WR|,Keon Coleman,WR,BUF,Lottsofwins,Lottsofwins,"['WR', 'W/R/T']"
+sleeper,12489,12489,27142.0,canon:rj harvey::RB,rj-harvey|RB|,RJ Harvey,RB,DEN,Lottsofwins,Lottsofwins,"['RB', 'W/R/T']"
+sleeper,12514,12514,23062.0,canon:emeka egbuka::WR,emeka-egbuka|WR|,Emeka Egbuka,WR,TB,Lottsofwins,Lottsofwins,"['WR', 'W/R/T']"
+sleeper,12526,12526,25417.0,canon:tetairoa mcmillan::WR,tetairoa-mcmillan|WR|,Tetairoa McMillan,WR,CAR,Lottsofwins,Lottsofwins,"['WR', 'W/R/T']"
+sleeper,4033,4033,16399.0,canon:david njoku::TE,david-njoku|TE|,David Njoku,TE,CLE,Lottsofwins,Lottsofwins,"['TE', 'W/R/T']"
+sleeper,4663,4663,16483.0,canon:austin ekeler::RB,austin-ekeler|RB|,Austin Ekeler,RB,WAS,Lottsofwins,Lottsofwins,"['RB', 'W/R/T']"
+sleeper,4866,4866,17240.0,canon:saquon barkley::RB,saquon-barkley|RB|,Saquon Barkley,RB,PHI,Lottsofwins,Lottsofwins,"['RB', 'W/R/T']"
+sleeper,4984,4984,17298.0,canon:josh allen::QB,josh-allen|QB|,Josh Allen,QB,BUF,Lottsofwins,Lottsofwins,['QB']
+sleeper,5045,5045,17253.0,canon:courtland sutton::WR,courtland-sutton|WR|,Courtland Sutton,WR,DEN,Lottsofwins,Lottsofwins,"['WR', 'W/R/T']"
+sleeper,5846,5846,18219.0,canon:dk metcalf::WR,dk-metcalf|WR|,DK Metcalf,WR,PIT,Lottsofwins,Lottsofwins,"['WR', 'W/R/T']"
+sleeper,6650,6650,,,,Chase McLaughlin,K,TB,Lottsofwins,Lottsofwins,['K']
+sleeper,8408,8408,22969.0,canon:jordan mason::RB,jordan-mason|RB|,Jordan Mason,RB,MIN,Lottsofwins,Lottsofwins,"['RB', 'W/R/T']"
+sleeper,9224,9224,25324.0,canon:chase brown::RB,chase-brown|RB|,Chase Brown,RB,CIN,Lottsofwins,Lottsofwins,"['RB', 'W/R/T']"
+sleeper,9500,9500,24706.0,canon:josh downs::WR,josh-downs|WR|,Josh Downs,WR,IND,Lottsofwins,Lottsofwins,"['WR', 'W/R/T']"
+sleeper,LAR,LAR,8280.0,canon:los angeles rams::DEF,los-angeles-rams|DST|fa,Los Angeles Rams,DEF,LAR,Lottsofwins,Lottsofwins,['DEF']
+sleeper,11620,11620,25411.0,canon:rome odunze::WR,rome-odunze|WR|,Rome Odunze,WR,CHI,Chungus Buzzards,young3ull,"['WR', 'W/R/T']"
+sleeper,11635,11635,26122.0,canon:ladd mcconkey::WR,ladd-mcconkey|WR|,Ladd McConkey,WR,LAC,Chungus Buzzards,young3ull,"['WR', 'W/R/T']"
+sleeper,12469,12469,27102.0,canon:dylan sampson::RB,dylan-sampson|RB|,Dylan Sampson,RB,CLE,Chungus Buzzards,young3ull,"['RB', 'W/R/T']"
+sleeper,12490,12490,27297.0,canon:bhayshul tuten::RB,bhayshul-tuten|RB|,Bhayshul Tuten,RB,JAX,Chungus Buzzards,young3ull,"['RB', 'W/R/T']"
+sleeper,12517,12517,26006.0,canon:colston loveland::TE,colston-loveland|TE|,Colston Loveland,TE,CHI,Chungus Buzzards,young3ull,"['TE', 'W/R/T']"
+sleeper,12535,12535,27446.0,canon:isaac teslaa::WR,isaac-teslaa|WR|,Isaac TeSlaa,WR,DET,Chungus Buzzards,young3ull,"['WR', 'W/R/T']"
+sleeper,1479,1479,11616.0,canon:keenan allen::WR,keenan-allen|WR|,Keenan Allen,WR,LAC,Chungus Buzzards,young3ull,"['WR', 'W/R/T']"
+sleeper,4137,4137,16447.0,canon:james conner::RB,james-conner|RB|,James Conner,RB,ARI,Chungus Buzzards,young3ull,"['RB', 'W/R/T']"
+sleeper,4881,4881,17233.0,canon:lamar jackson::QB,lamar-jackson|QB|,Lamar Jackson,QB,BAL,Chungus Buzzards,young3ull,['QB']
+sleeper,4983,4983,17265.0,canon:dj moore::WR,dj-moore|WR|,DJ Moore,WR,CHI,Chungus Buzzards,young3ull,"['WR', 'W/R/T']"
+sleeper,5012,5012,17269.0,canon:mark andrews::TE,mark-andrews|TE|,Mark Andrews,TE,BAL,Chungus Buzzards,young3ull,"['TE', 'W/R/T']"
+sleeper,8138,8138,22958.0,canon:james cook::RB,james-cook|RB|,James Cook,RB,BUF,Chungus Buzzards,young3ull,"['RB', 'W/R/T']"
+sleeper,8259,8259,,,,Cameron Dicker,K,LAC,Chungus Buzzards,young3ull,['K']
+sleeper,9493,9493,23180.0,canon:puka nacua::WR,puka-nacua|WR|,Puka Nacua,WR,LAR,Chungus Buzzards,young3ull,"['WR', 'W/R/T']"
+sleeper,PHI,PHI,8230.0,canon:philadelphia eagles::DST,philadelphia-eagles|DST|,Philadelphia Eagles,DEF,PHI,Chungus Buzzards,young3ull,['DEF']
+sleeper,10236,10236,25247.0,canon:dalton kincaid::TE,dalton-kincaid|TE|,Dalton Kincaid,TE,BUF,NabersThinkI'mSellinDope,mcelroyk,"['TE', 'W/R/T']"
+sleeper,10859,10859,22978.0,canon:sam laporta::TE,sam-laporta|TE|,Sam LaPorta,TE,DET,NabersThinkI'mSellinDope,mcelroyk,"['TE', 'W/R/T']"
+sleeper,11624,11624,23019.0,canon:xavier worthy::WR,xavier-worthy|WR|,Xavier Worthy,WR,KC,NabersThinkI'mSellinDope,mcelroyk,"['WR', 'W/R/T']"
+sleeper,11632,11632,25409.0,canon:malik nabers::WR,malik-nabers|WR|,Malik Nabers,WR,NYG,NabersThinkI'mSellinDope,mcelroyk,"['WR', 'W/R/T']"
+sleeper,12481,12481,27166.0,canon:cam skattebo::RB,cam-skattebo|RB|,Cam Skattebo,RB,NYG,NabersThinkI'mSellinDope,mcelroyk,"['RB', 'W/R/T']"
+sleeper,12501,12501,26024.0,canon:matthew golden::WR,matthew-golden|WR|,Matthew Golden,WR,GB,NabersThinkI'mSellinDope,mcelroyk,"['WR', 'W/R/T']"
+sleeper,12504,12504,27165.0,canon:kaleb johnson::RB,kaleb-johnson|RB|,Kaleb Johnson,RB,PIT,NabersThinkI'mSellinDope,mcelroyk,"['RB', 'W/R/T']"
+sleeper,12527,12527,25989.0,canon:ashton jeanty::RB,ashton-jeanty|RB|,Ashton Jeanty,RB,LV,NabersThinkI'mSellinDope,mcelroyk,"['RB', 'W/R/T']"
+sleeper,12711,12711,,,,Tyler Loop,K,BAL,NabersThinkI'mSellinDope,mcelroyk,['K']
+sleeper,6783,6783,19201.0,canon:jerry jeudy::WR,jerry-jeudy|WR|,Jerry Jeudy,WR,CLE,NabersThinkI'mSellinDope,mcelroyk,"['WR', 'W/R/T']"
+sleeper,6904,6904,19275.0,canon:jalen hurts::QB,jalen-hurts|QB|,Jalen Hurts,QB,PHI,NabersThinkI'mSellinDope,mcelroyk,['QB']
+sleeper,8150,8150,23059.0,canon:kyren williams::RB,kyren-williams|RB|,Kyren Williams,RB,LAR,NabersThinkI'mSellinDope,mcelroyk,"['RB', 'W/R/T']"
+sleeper,8183,8183,19797.0,canon:brock purdy::QB,brock-purdy|QB|,Brock Purdy,QB,SF,NabersThinkI'mSellinDope,mcelroyk,['QB']
+sleeper,9997,9997,22916.0,canon:zay flowers::WR,zay-flowers|WR|,Zay Flowers,WR,BAL,NabersThinkI'mSellinDope,mcelroyk,"['WR', 'W/R/T']"
+sleeper,PIT,PIT,8240.0,canon:pittsburgh steelers::DST,pittsburgh-steelers|DST|,Pittsburgh Steelers,DEF,PIT,NabersThinkI'mSellinDope,mcelroyk,['DEF']
+sleeper,11560,11560,23084.0,canon:caleb williams::QB,caleb-williams|QB|fa,Caleb Williams,QB,CHI,💿z nutz ,chicityboi,['QB']
+sleeper,11604,11604,22955.0,canon:brock bowers::TE,brock-bowers|TE|,Brock Bowers,TE,LV,💿z nutz ,chicityboi,"['TE', 'W/R/T']"
+sleeper,11638,11638,26214.0,canon:ricky pearsall::WR,ricky-pearsall|WR|,Ricky Pearsall,WR,SF,💿z nutz ,chicityboi,"['WR', 'W/R/T']"
+sleeper,12495,12495,25984.0,canon:ollie gordon::RB,ollie-gordon|RB|,Ollie Gordon,RB,MIA,💿z nutz ,chicityboi,"['RB', 'W/R/T']"
+sleeper,12507,12507,25395.0,canon:omarion hampton::RB,omarion-hampton|RB|,Omarion Hampton,RB,LAC,💿z nutz ,chicityboi,"['RB', 'W/R/T']"
+sleeper,12529,12529,23065.0,canon:treveyon henderson::RB,treveyon-henderson|RB|,TreVeyon Henderson,RB,NE,💿z nutz ,chicityboi,"['RB', 'W/R/T']"
+sleeper,12533,12533,27316.0,canon:jacory croskey-merritt::RB,jacory-croskey-merritt|RB|,Jacory Croskey-Merritt,RB,WAS,💿z nutz ,chicityboi,"['RB', 'W/R/T']"
+sleeper,6786,6786,19202.0,canon:ceedee lamb::WR,ceedee-lamb|WR|,CeeDee Lamb,WR,DAL,💿z nutz ,chicityboi,"['WR', 'W/R/T']"
+sleeper,7526,7526,19790.0,canon:jaylen waddle::WR,jaylen-waddle|WR|,Jaylen Waddle,WR,MIA,💿z nutz ,chicityboi,"['WR', 'W/R/T']"
+sleeper,7569,7569,20130.0,canon:nico collins::WR,nico-collins|WR|,Nico Collins,WR,HOU,💿z nutz ,chicityboi,"['WR', 'W/R/T']"
+sleeper,7591,7591,19781.0,canon:justin fields::QB,justin-fields|QB|,Justin Fields,QB,NYJ,💿z nutz ,chicityboi,['QB']
+sleeper,7839,7839,,,,Evan McPherson,K,CIN,💿z nutz ,chicityboi,['K']
+sleeper,8146,8146,23072.0,canon:garrett wilson::WR,garrett-wilson|WR|,Garrett Wilson,WR,NYJ,💿z nutz ,chicityboi,"['WR', 'W/R/T']"
+sleeper,9508,9508,25323.0,canon:tyjae spears::RB,tyjae-spears|RB|,Tyjae Spears,RB,TEN,💿z nutz ,chicityboi,"['RB', 'W/R/T']"
+sleeper,9753,9753,23152.0,canon:zach charbonnet::RB,zach-charbonnet|RB|,Zach Charbonnet,RB,SEA,💿z nutz ,chicityboi,"['RB', 'W/R/T']"
+sleeper,ARI,ARI,8000.0,canon:arizona cardinals::DST,arizona-cardinals|DST|,Arizona Cardinals,DEF,ARI,💿z nutz ,chicityboi,['DEF']
+sleeper,12457,12457,24344.0,canon:jaydon blue::RB,jaydon-blue|RB|,Jaydon Blue,RB,DAL,Cup Of Joe ,Vande23,"['RB', 'W/R/T']"
+sleeper,4037,4037,16406.0,canon:chris godwin::WR,chris-godwin|WR|,Chris Godwin,WR,TB,Cup Of Joe ,Vande23,"['WR', 'W/R/T']"
+sleeper,4199,4199,16673.0,canon:aaron jones::RB,aaron-jones|RB|,Aaron Jones,RB,MIN,Cup Of Joe ,Vande23,"['RB', 'W/R/T']"
+sleeper,4227,4227,,,,Harrison Butker,K,KC,Cup Of Joe ,Vande23,['K']
+sleeper,5844,5844,18290.0,canon:tj hockenson::TE,t-j-hockenson|TE|,T.J. Hockenson,TE,MIN,Cup Of Joe ,Vande23,"['TE', 'W/R/T']"
+sleeper,5927,5927,18466.0,canon:terry mclaurin::WR,terry-mclaurin|WR|,Terry McLaurin,WR,WAS,Cup Of Joe ,Vande23,"['WR', 'W/R/T']"
+sleeper,6770,6770,19196.0,canon:joe burrow::QB,joe-burrow|QB|,Joe Burrow,QB,CIN,Cup Of Joe ,Vande23,['QB']
+sleeper,6806,6806,19245.0,canon:jk dobbins::RB,j-k-dobbins|RB|,J.K. Dobbins,RB,DEN,Cup Of Joe ,Vande23,"['RB', 'W/R/T']"
+sleeper,6813,6813,19217.0,canon:jonathan taylor::RB,jonathan-taylor|RB|,Jonathan Taylor,RB,IND,Cup Of Joe ,Vande23,"['RB', 'W/R/T']"
+sleeper,7564,7564,19788.0,canon:jamarr chase::WR,ja-marr-chase|WR|,Ja'Marr Chase,WR,CIN,Cup Of Joe ,Vande23,"['WR', 'W/R/T']"
+sleeper,8134,8134,23748.0,canon:khalil shakir::WR,khalil-shakir|WR|,Khalil Shakir,WR,BUF,Cup Of Joe ,Vande23,"['WR', 'W/R/T']"
+sleeper,8151,8151,23021.0,canon:kenneth walker::RB,kenneth-walker|RB|,Kenneth Walker,RB,SEA,Cup Of Joe ,Vande23,"['RB', 'W/R/T']"
+sleeper,8205,8205,24333.0,canon:isiah pacheco::RB,isiah-pacheco|RB|,Isiah Pacheco,RB,KC,Cup Of Joe ,Vande23,"['RB', 'W/R/T']"
+sleeper,9756,9756,,,,Jordan Addison,WR,MIN,Cup Of Joe ,Vande23,"['WR', 'W/R/T']"
+sleeper,SEA,SEA,8260.0,canon:seattle seahawks::DST,seattle-seahawks|DST|,Seattle Seahawks,DEF,SEA,Cup Of Joe ,Vande23,['DEF']
+sleeper,10229,10229,,,,Rashee Rice,WR,KC,DBoiii,DBoiii,"['WR', 'W/R/T']"
+sleeper,11566,11566,22902.0,canon:jayden daniels::QB,jayden-daniels|QB|,Jayden Daniels,QB,WAS,DBoiii,DBoiii,['QB']
+sleeper,11651,11651,26392.0,canon:isaac guerendo::RB,isaac-guerendo|RB|,Isaac Guerendo,RB,SF,DBoiii,DBoiii,"['RB', 'W/R/T']"
+sleeper,12512,12512,25391.0,canon:quinshon judkins::RB,quinshon-judkins|RB|,Quinshon Judkins,RB,CLE,DBoiii,DBoiii,"['RB', 'W/R/T']"
+sleeper,2133,2133,12123.0,canon:davante adams::WR,davante-adams|WR|,Davante Adams,WR,LAR,DBoiii,DBoiii,"['WR', 'W/R/T']"
+sleeper,2449,2449,13981.0,canon:stefon diggs::WR,stefon-diggs|WR|,Stefon Diggs,WR,NE,DBoiii,DBoiii,"['WR', 'W/R/T']"
+sleeper,4034,4034,16393.0,canon:christian mccaffrey::RB,christian-mccaffrey|RB|,Christian McCaffrey,RB,SF,DBoiii,DBoiii,"['RB', 'W/R/T']"
+sleeper,4066,4066,16411.0,canon:evan engram::TE,evan-engram|TE|,Evan Engram,TE,DEN,DBoiii,DBoiii,"['TE', 'W/R/T']"
+sleeper,4195,4195,,,,Jake Elliott,K,PHI,DBoiii,DBoiii,['K']
+sleeper,5892,5892,18239.0,canon:david montgomery::RB,david-montgomery|RB|,David Montgomery,RB,DET,DBoiii,DBoiii,"['RB', 'W/R/T']"
+sleeper,5947,5947,18598.0,canon:jakobi meyers::WR,jakobi-meyers|WR|,Jakobi Meyers,WR,LV,DBoiii,DBoiii,"['WR', 'W/R/T']"
+sleeper,7547,7547,19799.0,canon:amon-ra st brown::WR,amon-ra-st-brown|WR|,Amon-Ra St. Brown,WR,DET,DBoiii,DBoiii,"['WR', 'W/R/T']"
+sleeper,9488,9488,23070.0,canon:jaxon smith-njigba::WR,jaxon-smith-njigba|WR|,Jaxon Smith-Njigba,WR,SEA,DBoiii,DBoiii,"['WR', 'W/R/T']"
+sleeper,9758,9758,23071.0,canon:cj stroud::QB,c-j-stroud|QB|,C.J. Stroud,QB,HOU,DBoiii,DBoiii,['QB']
+sleeper,DET,DET,8100.0,canon:detroit lions::DST,detroit-lions|DST|,Detroit Lions,DEF,DET,DBoiii,DBoiii,['DEF']
+sleeper,10222,10222,23020.0,canon:jayden reed::WR,jayden-reed|WR|,Jayden Reed,WR,GB,Str8 Outta Mar-a-Lago,TommyUggz,"['WR', 'W/R/T']"
+sleeper,11533,11533,,,,Brandon Aubrey,K,DAL,Str8 Outta Mar-a-Lago,TommyUggz,['K']
+sleeper,12530,12530,26034.0,canon:travis hunter::WR,travis-hunter|WR|,Travis Hunter,WR,JAX,Str8 Outta Mar-a-Lago,TommyUggz,"['DB', 'WR', 'W/R/T']"
+sleeper,1466,1466,11594.0,canon:travis kelce::TE,travis-kelce|TE|,Travis Kelce,TE,KC,Str8 Outta Mar-a-Lago,TommyUggz,"['TE', 'W/R/T']"
+sleeper,2216,2216,12119.0,canon:mike evans::WR,mike-evans|WR|,Mike Evans,WR,TB,Str8 Outta Mar-a-Lago,TommyUggz,"['WR', 'W/R/T']"
+sleeper,4039,4039,16433.0,canon:cooper kupp::WR,cooper-kupp|WR|,Cooper Kupp,WR,SEA,Str8 Outta Mar-a-Lago,TommyUggz,"['WR', 'W/R/T']"
+sleeper,4144,4144,16460.0,canon:jonnu smith::TE,jonnu-smith|TE|,Jonnu Smith,TE,PIT,Str8 Outta Mar-a-Lago,TommyUggz,"['TE', 'W/R/T']"
+sleeper,5849,5849,18600.0,canon:kyler murray::QB,kyler-murray|QB|,Kyler Murray,QB,ARI,Str8 Outta Mar-a-Lago,TommyUggz,['QB']
+sleeper,5859,5859,18218.0,canon:aj brown::WR,a-j-brown|WR|,A.J. Brown,WR,PHI,Str8 Outta Mar-a-Lago,TommyUggz,"['WR', 'W/R/T']"
+sleeper,7588,7588,22739.0,canon:javonte williams::RB,javonte-williams|RB|,Javonte Williams,RB,DAL,Str8 Outta Mar-a-Lago,TommyUggz,"['RB', 'W/R/T']"
+sleeper,7594,7594,19792.0,canon:chuba hubbard::RB,chuba-hubbard|RB|,Chuba Hubbard,RB,CAR,Str8 Outta Mar-a-Lago,TommyUggz,"['RB', 'W/R/T']"
+sleeper,8148,8148,23677.0,canon:jameson williams::WR,jameson-williams|WR|,Jameson Williams,WR,DET,Str8 Outta Mar-a-Lago,TommyUggz,"['WR', 'W/R/T']"
+sleeper,9221,9221,22968.0,canon:jahmyr gibbs::RB,jahmyr-gibbs|RB|,Jahmyr Gibbs,RB,DET,Str8 Outta Mar-a-Lago,TommyUggz,"['RB', 'W/R/T']"
+sleeper,9226,9226,23136.0,canon:devon achane::RB,de-von-achane|RB|,De'Von Achane,RB,MIA,Str8 Outta Mar-a-Lago,TommyUggz,"['RB', 'W/R/T']"
+sleeper,MIN,MIN,8170.0,canon:minnesota vikings::DST,minnesota-vikings|DST|,Minnesota Vikings,DEF,MIN,Str8 Outta Mar-a-Lago,TommyUggz,['DEF']
+sleeper,11631,11631,23000.0,canon:brian thomas::WR,brian-thomas|WR|,Brian Thomas,WR,JAX,rholcomb,rholcomb,"['WR', 'W/R/T']"
+sleeper,11655,11655,22980.0,canon:tyrone tracy::RB,tyrone-tracy|RB|,Tyrone Tracy,RB,NYG,rholcomb,rholcomb,"['RB', 'W/R/T']"
+sleeper,3198,3198,15514.0,canon:derrick henry::RB,derrick-henry|RB|,Derrick Henry,RB,BAL,rholcomb,rholcomb,"['RB', 'W/R/T']"
+sleeper,4018,4018,16420.0,canon:joe mixon::RB,joe-mixon|RB|,Joe Mixon,RB,HOU,rholcomb,rholcomb,"['RB', 'W/R/T']"
+sleeper,4035,4035,16421.0,canon:alvin kamara::RB,alvin-kamara|RB|,Alvin Kamara,RB,NO,rholcomb,rholcomb,"['RB', 'W/R/T']"
+sleeper,4892,4892,17237.0,canon:baker mayfield::QB,baker-mayfield|QB|,Baker Mayfield,QB,TB,rholcomb,rholcomb,['QB']
+sleeper,4981,4981,17258.0,canon:calvin ridley::WR,calvin-ridley|WR|,Calvin Ridley,WR,TEN,rholcomb,rholcomb,"['WR', 'W/R/T']"
+sleeper,5095,5095,,,,Daniel Carlson,K,LV,rholcomb,rholcomb,['K']
+sleeper,5872,5872,18244.0,canon:deebo samuel::WR,deebo-samuel|WR|,Deebo Samuel,WR,WAS,rholcomb,rholcomb,"['WR', 'W/R/T']"
+sleeper,6797,6797,18635.0,canon:justin herbert::QB,justin-herbert|QB|,Justin Herbert,QB,LAC,rholcomb,rholcomb,['QB']
+sleeper,6801,6801,19211.0,canon:tee higgins::WR,tee-higgins|WR|,Tee Higgins,WR,CIN,rholcomb,rholcomb,"['WR', 'W/R/T']"
+sleeper,7543,7543,19231.0,canon:travis etienne::RB,travis-etienne|RB|,Travis Etienne,RB,JAX,rholcomb,rholcomb,"['RB', 'W/R/T']"
+sleeper,7553,7553,20164.0,canon:kyle pitts::TE,kyle-pitts|TE|,Kyle Pitts,TE,ATL,rholcomb,rholcomb,"['TE', 'W/R/T']"
+sleeper,8130,8130,22936.0,canon:trey mcbride::TE,trey-mcbride|TE|,Trey McBride,TE,ARI,rholcomb,rholcomb,"['TE', 'W/R/T']"
+sleeper,8143,8143,22921.0,canon:jerome ford::RB,jerome-ford|RB|fa,Jerome Ford,RB,CLE,rholcomb,rholcomb,"['RB', 'W/R/T']"
+sleeper,BAL,BAL,8020.0,canon:baltimore ravens::DST,baltimore-ravens|DST|,Baltimore Ravens,DEF,BAL,rholcomb,rholcomb,['DEF']

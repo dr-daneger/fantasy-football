@@ -3,15 +3,19 @@
 # Purpose:
 #   Pull FantasyPros weekly projections (points + uncertainty) and weekly ECR dispersion,
 #   and rest-of-season (ROS) rankings (with best/worst/avg/sd when available).
+#
 # Outputs:
 #   - data/staging/fp_weekly.parquet  (one row per player-week-position with:
 #       weekly_avg (points), weekly_sd/floor/ceiling, weekly_points_overall_rank,
 #       weekly_points_pos_rank, ECR rank/dispersion, plus stats columns)
 #   - data/staging/fp_ros.parquet     (one row per player-position with:
 #       ros_rank(+pos_rank), best/worst/avg/sd where available)
+#
 # Notes:
-#   - Key column for joins: fp_key = "<slug>|<POS>|<team_lower>"
-#   - Slug strips suffixes (Jr, III, etc). Team is blank-safe and lowercased.
+#   - Canonical join key: fp_key = "<slug>|<POS>|<team_lower>"
+#   - This version:
+#       * Drops raw ID columns (e.g., fantasypros_id, player_id) right after we create fp_player_id
+#       * Uses an FA team policy in keys (missing/blank team → "fa") to stabilize joins
 
 # ---------- bootstrap ----------
 pkgs <- c("ffpros", "dplyr", "tidyr", "stringr", "arrow")
@@ -30,10 +34,11 @@ suppressPackageStartupMessages({
 })
 
 # ---------- config ----------
-YEAR    <- as.integer(Sys.getenv("FP_YEAR", "2025"))
-WEEK    <- as.integer(Sys.getenv("FP_WEEK", "1"))
-SCORING <- Sys.getenv("FP_SCORING", "PPR")
-PAGES   <- strsplit(Sys.getenv("FP_POS", "qb,rb,wr,te,k,dst"), "\\s*,\\s*")[[1]] |> tolower() |> unique()
+YEAR      <- as.integer(Sys.getenv("FP_YEAR", "2025"))
+WEEK      <- as.integer(Sys.getenv("FP_WEEK", "1"))
+SCORING   <- Sys.getenv("FP_SCORING", "PPR")
+PAGES     <- strsplit(Sys.getenv("FP_POS", "qb,rb,wr,te,k,dst"), "\\s*,\\s*")[[1]] |> tolower() |> unique()
+DEBUG     <- tolower(Sys.getenv("FP_DEBUG", "false")) %in% c("1","true","t","yes","y")
 
 STAGING_DIR <- "data/staging"
 dir.create(STAGING_DIR, recursive = TRUE, showWarnings = FALSE)
@@ -97,6 +102,13 @@ safe_write_csv <- function(df, path) {
   })
 }
 
+dbg_head <- function(df, label) {
+  if (DEBUG && nrow(df) > 0) {
+    message("[dbg] ", label)
+    print(utils::head(df))
+  }
+}
+
 # ---------- normalize: weekly projections ----------
 norm_weekly_proj <- function(df, pos) {
   if (nrow(df) == 0) return(df)
@@ -139,12 +151,21 @@ norm_weekly_proj <- function(df, pos) {
       weekly_floor = if (!is.null(wk_min_col)) numify(.data[[wk_min_col]]) else NA_real_,
       weekly_ceiling = if (!is.null(wk_max_col)) numify(.data[[wk_max_col]]) else NA_real_,
       fp_player_slug = slugify(.data[[player_col]])
-    ) %>%
+    )
+
+  # --- NEW: prevent raw IDs from leaking downstream ---
+  raw_id_cols <- c(id_col, "player_id", "fantasypros_id")
+  raw_id_cols <- raw_id_cols[!is.null(raw_id_cols)]
+  out <- out %>% select(-any_of(raw_id_cols))
+  # --- END NEW ---
+
+  out <- out %>%
     mutate(
-      fp_key = paste0(
-        fp_player_slug, "|", pos, "|",
-        tolower(dplyr::if_else(is.na(team) | team == "", "", team))
-      ),
+      team_clean = tolower(dplyr::if_else(
+        is.na(team) | team == "" | tolower(team) %in% c("na","none","null","character(0)"),
+        "fa", team
+      )),
+      fp_key = paste0(fp_player_slug, "|", pos, "|", team_clean),
       weekly_avg = dplyr::case_when(
         !is.na(fantasypts) ~ fantasypts,
         is.na(fantasypts) & !is.na(weekly_floor) & !is.na(weekly_ceiling) ~
@@ -153,6 +174,7 @@ norm_weekly_proj <- function(df, pos) {
       )
     )
 
+  dbg_head(out %>% select(fp_key, player, pos, team, fp_player_id, weekly_avg) %>% distinct(), paste0("weekly/", pos))
   out
 }
 
@@ -198,14 +220,24 @@ norm_weekly_rank <- function(df, pos) {
       weekly_ecr_avg_rank   = if (!is.null(avg_col))  suppressWarnings(as.numeric(.data[[avg_col]])) else NA_real_,
       weekly_ecr_sd_rank    = if (!is.null(sd_col))   suppressWarnings(as.numeric(.data[[sd_col]])) else NA_real_,
       fp_player_slug = slugify(.data[[player_col]])
-    ) %>%
-    mutate(
-      fp_key = paste0(
-        fp_player_slug, "|", pos, "|",
-        tolower(dplyr::if_else(is.na(team) | team == "", "", team))
-      )
     )
 
+  # --- NEW: prevent raw IDs from leaking downstream ---
+  raw_id_cols <- c(id_col, "player_id", "fantasypros_id")
+  raw_id_cols <- raw_id_cols[!is.null(raw_id_cols)]
+  out <- out %>% select(-any_of(raw_id_cols))
+  # --- END NEW ---
+
+  out <- out %>%
+    mutate(
+      team_clean = tolower(dplyr::if_else(
+        is.na(team) | team == "" | tolower(team) %in% c("na","none","null","character(0)"),
+        "fa", team
+      )),
+      fp_key = paste0(fp_player_slug, "|", pos, "|", team_clean)
+    )
+
+  dbg_head(out %>% select(fp_key, player, pos, team, fp_player_id, weekly_ecr_rank) %>% distinct(), paste0("weekly_ecr/", pos))
   out
 }
 
@@ -217,12 +249,13 @@ norm_ros <- function(df, pos) {
   player_col <- pick_col_regex(nm, c("^player$", "player_name", "^name$"))
   team_col   <- pick_col_regex(nm, c("^team$", "nfl[_ ]?team", "^tm$"))
   id_col     <- pick_any(nm, "fantasypros_?id", "^fp_?id$", "player_?id$")
-  pts_col    <- pick_col_regex(nm, c("^ros_?points?$", "fpts", "fantasy.?points?", "proj.?total"))
+  pts_col    <- pick_col_regex(nm, c("^ros_?points?$", "proj\\.?.?fpts", "proj.*points", "fpts", "fantasy.?points?", "proj.?total"))
   rank_col   <- pick_col_regex(nm, c("^ros_?rank$", "^rank$", "ecr", "overall.?rank"))
   best_col   <- pick_any(nm, "^best$")
   worst_col  <- pick_any(nm, "^worst$")
   avg_col    <- pick_any(nm, "^avg\\.?$", "average")
   sd_col     <- pick_any(nm, "^sd$", "std\\.?dev")
+  ecr_vs_adp_col <- pick_any(nm, "ecr\\s*vs\\.?\\s*adp", "vs\\.?_?adp", "ecr_?vs_?adp", "ecr.*adp")
 
   if (is.null(player_col)) player_col <- nm[1]
   if (is.null(team_col))   team_col   <- if (length(nm) >= 2) nm[2] else nm[1]
@@ -236,21 +269,32 @@ norm_ros <- function(df, pos) {
       player = as_chr_safe(.data[[player_col]]),
       team   = as_chr_safe(.data[[team_col]]),
       fp_player_id = if (!is.null(id_col)) suppressWarnings(as.integer(.data[[id_col]])) else NA_integer_,
-      ros_points    = if (!is.null(pts_col))  numify(.data[[pts_col]]) else NA_real_,
+      ros_points    = if (!is.null(pts_col)) numify(.data[[pts_col]]) else NA_real_,
       ros_rank      = if (!is.null(rank_col)) suppressWarnings(as.integer(.data[[rank_col]])) else NA_integer_,
       ros_best_rank = if (!is.null(best_col)) suppressWarnings(as.integer(.data[[best_col]])) else NA_integer_,
       ros_worst_rank= if (!is.null(worst_col)) suppressWarnings(as.integer(.data[[worst_col]])) else NA_integer_,
       ros_avg_rank  = if (!is.null(avg_col))  suppressWarnings(as.numeric(.data[[avg_col]])) else NA_real_,
       ros_sd_rank   = if (!is.null(sd_col))   suppressWarnings(as.numeric(.data[[sd_col]])) else NA_real_,
+      ros_ecr_vs_adp= if (!is.null(ecr_vs_adp_col)) suppressWarnings(as.numeric(as_chr_safe(.data[[ecr_vs_adp_col]]))) else NA_real_,
       fp_player_slug = slugify(.data[[player_col]])
-    ) %>%
-    mutate(
-      fp_key = paste0(
-        fp_player_slug, "|", pos, "|",
-        tolower(dplyr::if_else(is.na(team) | team == "", "", team))
-      )
     )
 
+  # --- NEW: prevent raw IDs from leaking downstream ---
+  raw_id_cols <- c(id_col, "player_id", "fantasypros_id")
+  raw_id_cols <- raw_id_cols[!is.null(raw_id_cols)]
+  out <- out %>% select(-any_of(raw_id_cols))
+  # --- END NEW ---
+
+  out <- out %>%
+    mutate(
+      team_clean = tolower(dplyr::if_else(
+        is.na(team) | team == "" | tolower(team) %in% c("na","none","null","character(0)"),
+        "fa", team
+      )),
+      fp_key = paste0(fp_player_slug, "|", pos, "|", team_clean)
+    )
+
+  dbg_head(out %>% select(fp_key, player, pos, team, fp_player_id, ros_rank, ros_points, ros_ecr_vs_adp) %>% distinct(), paste0("ros/", pos))
   out
 }
 
@@ -283,15 +327,12 @@ pull_weekly_for_pos <- function(pg) {
 }
 
 pull_ros_for_pos <- function(pg) {
-  message(sprintf("[ffpros] ROS: %s (year=%d scoring=%s)", toupper(pg), YEAR, SCORING))
+  message(sprintf("[ffpros] ROS: %s (year=%d scoring=%s) — rankings only", toupper(pg), YEAR, SCORING))
   df <- tryCatch(
-    fp_projections(page = paste0("ros-", pg), year = YEAR, scoring = SCORING),
+    fp_rankings(page = paste0("ros-", pg), year = YEAR),
     error = function(e) {
-      message(sprintf("  projections ros-%s not available; trying rankings ...", pg))
-      tryCatch(
-        fp_rankings(page = paste0("ros-", pg), year = YEAR),
-        error = function(e2) { warning(sprintf("ROS pull failed for %s: %s", pg, e2$message)); tibble() }
-      )
+      warning(sprintf("ROS rankings pull failed for %s: %s", pg, e$message))
+      tibble()
     }
   )
   norm_ros(df, pg)
@@ -326,8 +367,12 @@ if (nrow(ros) > 0 && "ros_rank" %in% names(ros)) {
 message(sprintf("[ffpros] Weekly rows: %d | ROS rows: %d", nrow(weekly), nrow(ros)))
 
 # ---------- write ----------
-arrow::write_parquet(weekly, file.path(STAGING_DIR, "fp_weekly.parquet"))
-arrow::write_parquet(ros,    file.path(STAGING_DIR, "fp_ros.parquet"))
-safe_write_csv(weekly, file.path(STAGING_DIR, "fp_weekly.csv"))
-safe_write_csv(ros,    file.path(STAGING_DIR, "fp_ros.csv"))
+if (nrow(weekly) > 0) {
+  arrow::write_parquet(weekly, file.path(STAGING_DIR, "fp_weekly.parquet"))
+  safe_write_csv(weekly, file.path(STAGING_DIR, "fp_weekly.csv"))
+} else {
+  message("[ffpros][warn] Weekly projections are empty; preserving existing fp_weekly files (if any).")
+}
+arrow::write_parquet(ros, file.path(STAGING_DIR, "fp_ros.parquet"))
+safe_write_csv(ros, file.path(STAGING_DIR, "fp_ros.csv"))
 message("[ffpros] Wrote data/staging/fp_weekly.parquet and data/staging/fp_ros.parquet")

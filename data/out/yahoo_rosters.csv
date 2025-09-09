@@ -1,0 +1,173 @@
+﻿platform,player_id,player_key,fp_player_id,canonical_player_id,fp_key,player,position,nfl_team,team_name,owner,eligible_positions
+yahoo,30123,,16413.0,canon:patrick mahomes::QB,patrick-mahomes|QB|,Patrick Mahomes,QB,,Chubba My's Huevo,,['QB']
+yahoo,29399,,15802.0,canon:tyreek hill::WR,tyreek-hill|WR|,Tyreek Hill,WR,,Chubba My's Huevo,,"['WR', 'W/R/T']"
+yahoo,40039,,22916.0,canon:zay flowers::WR,zay-flowers|WR|,Zay Flowers,WR,,Chubba My's Huevo,,"['WR', 'W/R/T']"
+yahoo,40993,,25981.0,canon:bucky irving::RB,bucky-irving|RB|,Bucky Irving,RB,,Chubba My's Huevo,,"['RB', 'W/R/T']"
+yahoo,33514,,19792.0,canon:chuba hubbard::RB,chuba-hubbard|RB|,Chuba Hubbard,RB,,Chubba My's Huevo,,"['RB', 'W/R/T']"
+yahoo,30142,,16399.0,canon:david njoku::TE,david-njoku|TE|,David Njoku,TE,,Chubba My's Huevo,,"['TE', 'W/R/T']"
+yahoo,31856,,18269.0,canon:josh jacobs::RB,josh-jacobs|RB|,Josh Jacobs,RB,,Chubba My's Huevo,,"['RB', 'W/R/T']"
+yahoo,99001,,26034.0,canon:travis hunter::WR,travis-hunter|WR|,Travis Hunter,WR,,Chubba My's Huevo,,"['WR', 'W/R/T']"
+yahoo,30182,,16433.0,canon:cooper kupp::WR,cooper-kupp|WR|,Cooper Kupp,WR,,Chubba My's Huevo,,"['WR', 'W/R/T']"
+yahoo,42010,,27316.0,canon:jacory croskey-merritt::RB,jacory-croskey-merritt|RB|,Jacory Croskey-Merritt,RB,,Chubba My's Huevo,,"['RB', 'W/R/T']"
+yahoo,40911,,26019.0,canon:keon coleman::WR,keon-coleman|WR|,Keon Coleman,WR,,Chubba My's Huevo,,"['WR', 'W/R/T']"
+yahoo,40958,,25388.0,canon:trey benson::RB,trey-benson|RB|,Trey Benson,RB,,Chubba My's Huevo,,"['RB', 'W/R/T']"
+yahoo,40835,,,,,Jake Bates,K,,Chubba My's Huevo,,['K']
+yahoo,100002,,8030.0,canon:buffalo bills::DST,buffalo-bills|DST|,Buffalo,DEF,,Chubba My's Huevo,,['DEF']
+yahoo,33989,,23886.0,canon:christian watson::WR,christian-watson|WR|fa,Christian Watson,WR,,Chubba My's Huevo,,"['WR', 'W/R/T', 'IR']"
+yahoo,34218,,19797.0,canon:brock purdy::QB,brock-purdy|QB|,Brock Purdy,QB,,Smooth Route Gavin,,['QB']
+yahoo,31883,,18218.0,canon:aj brown::WR,a-j-brown|WR|,A.J. Brown,WR,,Smooth Route Gavin,,"['WR', 'W/R/T']"
+yahoo,40908,,26122.0,canon:ladd mcconkey::WR,ladd-mcconkey|WR|,Ladd McConkey,WR,,Smooth Route Gavin,,"['WR', 'W/R/T']"
+yahoo,30972,,17240.0,canon:saquon barkley::RB,saquon-barkley|RB|,Saquon Barkley,RB,,Smooth Route Gavin,,"['RB', 'W/R/T']"
+yahoo,30218,,16447.0,canon:james conner::RB,james-conner|RB|,James Conner,RB,,Smooth Route Gavin,,"['RB', 'W/R/T']"
+yahoo,31056,,17269.0,canon:mark andrews::TE,mark-andrews|TE|,Mark Andrews,TE,,Smooth Route Gavin,,"['TE', 'W/R/T']"
+yahoo,33398,,19222.0,canon:devonta smith::WR,devonta-smith|WR|,DeVonta Smith,WR,,Smooth Route Gavin,,"['WR', 'W/R/T']"
+yahoo,40042,,,,,Jordan Addison,WR,,Smooth Route Gavin,,"['WR', 'W/R/T']"
+yahoo,32887,,19590.0,canon:jauan jennings::WR,jauan-jennings|WR|,Jauan Jennings,WR,,Smooth Route Gavin,,"['WR', 'W/R/T']"
+yahoo,32676,,18635.0,canon:justin herbert::QB,justin-herbert|QB|,Justin Herbert,QB,,Smooth Route Gavin,,['QB']
+yahoo,33423,,22739.0,canon:javonte williams::RB,javonte-williams|RB|,Javonte Williams,RB,,Smooth Route Gavin,,"['RB', 'W/R/T']"
+yahoo,29269,,15561.0,canon:hunter henry::TE,hunter-henry|TE|,Hunter Henry,TE,,Smooth Route Gavin,,"['TE', 'W/R/T']"
+yahoo,33537,,,,,Evan McPherson,K,,Smooth Route Gavin,,['K']
+yahoo,100016,,8170.0,canon:minnesota vikings::DST,minnesota-vikings|DST|,Minnesota,DEF,,Smooth Route Gavin,,['DEF']
+yahoo,32723,,19275.0,canon:jalen hurts::QB,jalen-hurts|QB|,Jalen Hurts,QB,,Soft Hands David,,['QB']
+yahoo,33500,,19799.0,canon:amon-ra st brown::WR,amon-ra-st-brown|WR|,Amon-Ra St. Brown,WR,,Soft Hands David,,"['WR', 'W/R/T']"
+yahoo,33965,,23072.0,canon:garrett wilson::WR,garrett-wilson|WR|,Garrett Wilson,WR,,Soft Hands David,,"['WR', 'W/R/T']"
+yahoo,40118,,23136.0,canon:devon achane::RB,de-von-achane|RB|,De'Von Achane,RB,,Soft Hands David,,"['RB', 'W/R/T']"
+yahoo,30295,,16673.0,canon:aaron jones::RB,aaron-jones|RB|,Aaron Jones Sr.,RB,,Soft Hands David,,"['RB', 'W/R/T']"
+yahoo,30136,,16411.0,canon:evan engram::TE,evan-engram|TE|,Evan Engram,TE,,Soft Hands David,,"['TE', 'W/R/T']"
+yahoo,41793,,25417.0,canon:tetairoa mcmillan::WR,tetairoa-mcmillan|WR|,Tetairoa McMillan,WR,,Soft Hands David,,"['WR', 'W/R/T']"
+yahoo,32685,,19201.0,canon:jerry jeudy::WR,jerry-jeudy|WR|,Jerry Jeudy,WR,,Soft Hands David,,"['WR', 'W/R/T']"
+yahoo,34659,,24687.0,canon:rashid shaheed::WR,rashid-shaheed|WR|,Rashid Shaheed,WR,,Soft Hands David,,"['WR', 'W/R/T']"
+yahoo,33392,,20164.0,canon:kyle pitts::TE,kyle-pitts|TE|,Kyle Pitts Sr.,TE,,Soft Hands David,,"['TE', 'W/R/T']"
+yahoo,31857,,,,,Hollywood Brown,WR,,Soft Hands David,,"['WR', 'W/R/T']"
+yahoo,40881,,23046.0,canon:drake maye::QB,drake-maye|QB|fa,Drake Maye,QB,,Soft Hands David,,['QB']
+yahoo,41062,,,,,Cam Little,K,,Soft Hands David,,['K']
+yahoo,100009,,8110.0,canon:green bay packers::DST,green-bay-packers|DST|,Green Bay,DEF,,Soft Hands David,,['DEF']
+yahoo,30161,,16420.0,canon:joe mixon::RB,joe-mixon|RB|,Joe Mixon,RB,,Soft Hands David,,"['RB', 'W/R/T', 'IR']"
+yahoo,40900,,23084.0,canon:caleb williams::QB,caleb-williams|QB|,Caleb Williams,QB,,Block Party Dane,,['QB']
+yahoo,32687,,19202.0,canon:ceedee lamb::WR,ceedee-lamb|WR|,CeeDee Lamb,WR,,Block Party Dane,,"['WR', 'W/R/T']"
+yahoo,33963,,23163.0,canon:drake london::WR,drake-london|WR|,Drake London,WR,,Block Party Dane,,"['WR', 'W/R/T']"
+yahoo,31905,,18239.0,canon:david montgomery::RB,david-montgomery|RB|,David Montgomery,RB,,Block Party Dane,,"['RB', 'W/R/T']"
+yahoo,41048,,22980.0,canon:tyrone tracy::RB,tyrone-tracy|RB|,Tyrone Tracy Jr.,RB,,Block Party Dane,,"['RB', 'W/R/T']"
+yahoo,30259,,16499.0,canon:george kittle::TE,george-kittle|TE|,George Kittle,TE,,Block Party Dane,,"['TE', 'W/R/T', 'IR']"
+yahoo,31908,,18466.0,canon:terry mclaurin::WR,terry-mclaurin|WR|,Terry McLaurin,WR,,Block Party Dane,,"['WR', 'W/R/T']"
+yahoo,33399,,19781.0,canon:justin fields::QB,justin-fields|QB|,Justin Fields,QB,,Block Party Dane,,['QB']
+yahoo,40892,,26214.0,canon:ricky pearsall::WR,ricky-pearsall|WR|,Ricky Pearsall,WR,,Block Party Dane,,"['WR', 'W/R/T']"
+yahoo,40095,,22908.0,canon:tank bigsby::RB,tank-bigsby|RB|,Tank Bigsby,RB,,Block Party Dane,,"['RB', 'W/R/T']"
+yahoo,40048,,25247.0,canon:dalton kincaid::TE,dalton-kincaid|TE|,Dalton Kincaid,TE,,Block Party Dane,,"['TE', 'W/R/T']"
+yahoo,33415,,19794.0,canon:rashod bateman::WR,rashod-bateman|WR|,Rashod Bateman,WR,,Block Party Dane,,"['WR', 'W/R/T']"
+yahoo,29754,,,,,Wil Lutz,K,,Block Party Dane,,['K']
+yahoo,100008,,8100.0,canon:detroit lions::DST,detroit-lions|DST|,Detroit,DEF,,Block Party Dane,,['DEF']
+yahoo,40896,,22902.0,canon:jayden daniels::QB,jayden-daniels|QB|,Jayden Daniels,QB,,Orbital Tits,,['QB']
+yahoo,33393,,19788.0,canon:jamarr chase::WR,ja-marr-chase|WR|,Ja'Marr Chase,WR,,Orbital Tits,,"['WR', 'W/R/T']"
+yahoo,31868,,18244.0,canon:deebo samuel::WR,deebo-samuel|WR|,Deebo Samuel,WR,,Orbital Tits,,"['WR', 'W/R/T']"
+yahoo,41823,,23065.0,canon:treveyon henderson::RB,treveyon-henderson|RB|,TreVeyon Henderson,RB,,Orbital Tits,,"['RB', 'W/R/T']"
+yahoo,41845,,27142.0,canon:rj harvey::RB,rj-harvey|RB|,RJ Harvey,RB,,Orbital Tits,,"['RB', 'W/R/T']"
+yahoo,40878,,22955.0,canon:brock bowers::TE,brock-bowers|TE|,Brock Bowers,TE,,Orbital Tits,,"['TE', 'W/R/T']"
+yahoo,34447,,24209.0,canon:jaylen warren::RB,jaylen-warren|RB|,Jaylen Warren,RB,,Orbital Tits,,"['RB', 'W/R/T']"
+yahoo,40126,,24706.0,canon:josh downs::WR,josh-downs|WR|,Josh Downs,WR,,Orbital Tits,,"['WR', 'W/R/T']"
+yahoo,41900,,27297.0,canon:bhayshul tuten::RB,bhayshul-tuten|RB|,Bhayshul Tuten,RB,,Orbital Tits,,"['RB', 'W/R/T']"
+yahoo,40905,,23018.0,canon:jj mccarthy::QB,j-j-mccarthy|QB|,J.J. McCarthy,QB,,Orbital Tits,,['QB']
+yahoo,41819,,27077.0,canon:jayden higgins::WR,jayden-higgins|WR|,Jayden Higgins,WR,,Orbital Tits,,"['WR', 'W/R/T']"
+yahoo,30213,,16460.0,canon:jonnu smith::TE,jonnu-smith|TE|,Jonnu Smith,TE,,Orbital Tits,,"['TE', 'W/R/T']"
+yahoo,40819,,,,,Brandon Aubrey,K,,Orbital Tits,,['K']
+yahoo,100021,,8230.0,canon:philadelphia eagles::DST,philadelphia-eagles|DST|,Philadelphia,DEF,,Orbital Tits,,['DEF']
+yahoo,30971,,17237.0,canon:baker mayfield::QB,baker-mayfield|QB|,Baker Mayfield,QB,,G baby oil,,['QB']
+yahoo,33477,,20130.0,canon:nico collins::WR,nico-collins|WR|,Nico Collins,WR,,G baby oil,,"['WR', 'W/R/T']"
+yahoo,40168,,23180.0,canon:puka nacua::WR,puka-nacua|WR|,Puka Nacua,WR,,G baby oil,,"['WR', 'W/R/T']"
+yahoo,33996,,23021.0,canon:kenneth walker::RB,kenneth-walker|RB|,Kenneth Walker III,RB,,G baby oil,,"['RB', 'W/R/T']"
+yahoo,33991,,22982.0,canon:breece hall::RB,breece-hall|RB|,Breece Hall,RB,,G baby oil,,"['RB', 'W/R/T']"
+yahoo,40102,,25298.0,canon:tucker kraft::TE,tucker-kraft|TE|,Tucker Kraft,TE,,G baby oil,,"['TE', 'W/R/T']"
+yahoo,31010,,17253.0,canon:courtland sutton::WR,courtland-sutton|WR|,Courtland Sutton,WR,,G baby oil,,"['WR', 'W/R/T']"
+yahoo,32705,,19210.0,canon:dandre swift::RB,d-andre-swift|RB|,D'Andre Swift,RB,,G baby oil,,"['RB', 'W/R/T']"
+yahoo,33413,,19231.0,canon:travis etienne::RB,travis-etienne|RB|,Travis Etienne Jr.,RB,,G baby oil,,"['RB', 'W/R/T']"
+yahoo,41824,,27016.0,canon:luther burden::WR,luther-burden|WR|,Luther Burden III,WR,,G baby oil,,"['WR', 'W/R/T']"
+yahoo,40889,,22973.0,canon:michael penix::QB,michael-penix|QB|,Michael Penix Jr.,QB,,G baby oil,,['QB']
+yahoo,40962,,23013.0,canon:blake corum::RB,blake-corum|RB|fa,Blake Corum,RB,,G baby oil,,"['RB', 'W/R/T']"
+yahoo,30346,,,,,Harrison Butker,K,,G baby oil,,['K']
+yahoo,100007,,8090.0,canon:denver broncos::DST,denver-broncos|DST|,Denver,DEF,,G baby oil,,['DEF']
+yahoo,41821,,25391.0,canon:quinshon judkins::RB,quinshon-judkins|RB|,Quinshon Judkins,RB,,G baby oil,,"['RB', 'W/R/T', 'IR']"
+yahoo,30977,,17298.0,canon:josh allen::QB,josh-allen|QB|,Josh Allen,QB,,Hard Count john,,['QB']
+yahoo,32692,,19236.0,canon:justin jefferson::WR,justin-jefferson|WR|,Justin Jefferson,WR,,Hard Count john,,"['WR', 'W/R/T']"
+yahoo,31896,,18219.0,canon:dk metcalf::WR,dk-metcalf|WR|,DK Metcalf,WR,,Hard Count john,,"['WR', 'W/R/T']"
+yahoo,40196,,25324.0,canon:chase brown::RB,chase-brown|RB|,Chase Brown,RB,,Hard Count john,,"['RB', 'W/R/T']"
+yahoo,30180,,16421.0,canon:alvin kamara::RB,alvin-kamara|RB|,Alvin Kamara,RB,,Hard Count john,,"['RB', 'W/R/T']"
+yahoo,26686,,11594.0,canon:travis kelce::TE,travis-kelce|TE|,Travis Kelce,TE,,Hard Count john,,"['TE', 'W/R/T']"
+yahoo,30996,,17258.0,canon:calvin ridley::WR,calvin-ridley|WR|,Calvin Ridley,WR,,Hard Count john,,"['WR', 'W/R/T']"
+yahoo,40075,,23152.0,canon:zach charbonnet::RB,zach-charbonnet|RB|,Zach Charbonnet,RB,,Hard Count john,,"['RB', 'W/R/T']"
+yahoo,33412,,19302.0,canon:najee harris::RB,najee-harris|RB|,Najee Harris,RB,,Hard Count john,,"['RB', 'W/R/T']"
+yahoo,27277,,13429.0,canon:adam thielen::WR,adam-thielen|WR|,Adam Thielen,WR,,Hard Count john,,"['WR', 'W/R/T']"
+yahoo,30426,,,,,Younghoe Koo,K,,Hard Count john,,['K']
+yahoo,100026,,8260.0,canon:seattle seahawks::DST,seattle-seahawks|DST|,Seattle,DEF,,Hard Count john,,['DEF']
+yahoo,100033,,8020.0,canon:baltimore ravens::DST,baltimore-ravens|DST|,Baltimore,DEF,,Hard Count john,,['DEF']
+yahoo,30197,,16406.0,canon:chris godwin::WR,chris-godwin|WR|,Chris Godwin Jr.,WR,,Hard Count john,,"['WR', 'W/R/T', 'IR']"
+yahoo,32671,,19196.0,canon:joe burrow::QB,joe-burrow|QB|,Joe Burrow,QB,,Matthew’s Golden Shower,,['QB']
+yahoo,40899,,25409.0,canon:malik nabers::WR,malik-nabers|WR|,Malik Nabers,WR,,Matthew’s Golden Shower,,"['WR', 'W/R/T']"
+yahoo,34007,,22963.0,canon:george pickens::WR,george-pickens|WR|,George Pickens,WR,,Matthew’s Golden Shower,,"['WR', 'W/R/T']"
+yahoo,41791,,25989.0,canon:ashton jeanty::RB,ashton-jeanty|RB|,Ashton Jeanty,RB,,Matthew’s Golden Shower,,"['RB', 'W/R/T']"
+yahoo,41807,,25395.0,canon:omarion hampton::RB,omarion-hampton|RB|,Omarion Hampton,RB,,Matthew’s Golden Shower,,"['RB', 'W/R/T']"
+yahoo,41799,,26434.0,canon:tyler warren::TE,tyler-warren|TE|,Tyler Warren,TE,,Matthew’s Golden Shower,,"['TE', 'W/R/T']"
+yahoo,33967,,23677.0,canon:jameson williams::WR,jameson-williams|WR|,Jameson Williams,WR,,Matthew’s Golden Shower,,"['WR', 'W/R/T']"
+yahoo,41808,,26024.0,canon:matthew golden::WR,matthew-golden|WR|,Matthew Golden,WR,,Matthew’s Golden Shower,,"['WR', 'W/R/T']"
+yahoo,41804,,23062.0,canon:emeka egbuka::WR,emeka-egbuka|WR|,Emeka Egbuka,WR,,Matthew’s Golden Shower,,"['WR', 'W/R/T']"
+yahoo,34320,,22969.0,canon:jordan mason::RB,jordan-mason|RB|,Jordan Mason,RB,,Matthew’s Golden Shower,,"['RB', 'W/R/T']"
+yahoo,41922,,27166.0,canon:cam skattebo::RB,cam-skattebo|RB|,Cam Skattebo,RB,,Matthew’s Golden Shower,,"['RB', 'W/R/T']"
+yahoo,40981,,24346.0,canon:braelon allen::RB,braelon-allen|RB|,Braelon Allen,RB,,Matthew’s Golden Shower,,"['RB', 'W/R/T']"
+yahoo,41988,,,,,Tyler Loop,K,,Matthew’s Golden Shower,,['K']
+yahoo,100014,,,,,Los Angeles,DEF,,Matthew’s Golden Shower,,['DEF']
+yahoo,32695,,19252.0,canon:brandon aiyuk::WR,brandon-aiyuk|WR|,Brandon Aiyuk,WR,,Matthew’s Golden Shower,,"['WR', 'W/R/T', 'IR']"
+yahoo,29369,,15600.0,canon:dak prescott::QB,dak-prescott|QB|,Dak Prescott,QB,,Taylor Gang,,['QB']
+yahoo,27535,,12119.0,canon:mike evans::WR,mike-evans|WR|,Mike Evans,WR,,Taylor Gang,,"['WR', 'W/R/T']"
+yahoo,30994,,17265.0,canon:dj moore::WR,dj-moore|WR|,DJ Moore,WR,,Taylor Gang,,"['WR', 'W/R/T']"
+yahoo,29279,,15514.0,canon:derrick henry::RB,derrick-henry|RB|,Derrick Henry,RB,,Taylor Gang,,"['RB', 'W/R/T']"
+yahoo,32711,,19217.0,canon:jonathan taylor::RB,jonathan-taylor|RB|,Jonathan Taylor,RB,,Taylor Gang,,"['RB', 'W/R/T']"
+yahoo,41795,,26006.0,canon:colston loveland::TE,colston-loveland|TE|,Colston Loveland,TE,,Taylor Gang,,"['TE', 'W/R/T']"
+yahoo,34019,,22958.0,canon:james cook::RB,james-cook|RB|,James Cook,RB,,Taylor Gang,,"['RB', 'W/R/T']"
+yahoo,29235,,15501.0,canon:jared goff::QB,jared-goff|QB|,Jared Goff,QB,,Taylor Gang,,['QB']
+yahoo,41881,,27165.0,canon:kaleb johnson::RB,kaleb-johnson|RB|,Kaleb Johnson,RB,,Taylor Gang,,"['RB', 'W/R/T']"
+yahoo,33394,,19790.0,canon:jaylen waddle::WR,jaylen-waddle|WR|,Jaylen Waddle,WR,,Taylor Gang,,"['WR', 'W/R/T']"
+yahoo,32704,,19278.0,canon:michael pittman::WR,michael-pittman|WR|,Michael Pittman Jr.,WR,,Taylor Gang,,"['WR', 'W/R/T']"
+yahoo,30423,,16483.0,canon:austin ekeler::RB,austin-ekeler|RB|,Austin Ekeler,RB,,Taylor Gang,,"['RB', 'W/R/T']"
+yahoo,29792,,,,,Ka'imi Fairbairn,K,,Taylor Gang,,['K']
+yahoo,100023,,8240.0,canon:pittsburgh steelers::DST,pittsburgh-steelers|DST|,Pittsburgh,DEF,,Taylor Gang,,['DEF']
+yahoo,40875,,22910.0,canon:bo nix::QB,bo-nix|QB|,Bo Nix,QB,,Laser Arm Torrey,,['QB']
+yahoo,40883,,23000.0,canon:brian thomas::WR,brian-thomas|WR|,Brian Thomas Jr.,WR,,Laser Arm Torrey,,"['WR', 'W/R/T']"
+yahoo,32703,,19211.0,canon:tee higgins::WR,tee-higgins|WR|,Tee Higgins,WR,,Laser Arm Torrey,,"['WR', 'W/R/T']"
+yahoo,30121,,16393.0,canon:christian mccaffrey::RB,christian-mccaffrey|RB|,Christian McCaffrey,RB,,Laser Arm Torrey,,"['RB', 'W/R/T']"
+yahoo,34207,,24333.0,canon:isiah pacheco::RB,isiah-pacheco|RB|,Isiah Pacheco,RB,,Laser Arm Torrey,,"['RB', 'W/R/T']"
+yahoo,31840,,18290.0,canon:tj hockenson::TE,t-j-hockenson|TE|,T.J. Hockenson,TE,,Laser Arm Torrey,,"['TE', 'W/R/T']"
+yahoo,40893,,23064.0,canon:marvin harrison::WR,marvin-harrison|WR|,Marvin Harrison Jr.,WR,,Laser Arm Torrey,,"['WR', 'W/R/T']"
+yahoo,40084,,,,,Rashee Rice,WR,,Laser Arm Torrey,,"['WR', 'W/R/T']"
+yahoo,33508,,22726.0,canon:rhamondre stevenson::RB,rhamondre-stevenson|RB|,Rhamondre Stevenson,RB,,Laser Arm Torrey,,"['RB', 'W/R/T']"
+yahoo,31019,,17270.0,canon:dallas goedert::TE,dallas-goedert|TE|,Dallas Goedert,TE,,Laser Arm Torrey,,"['TE', 'W/R/T']"
+yahoo,32843,,19810.0,canon:darnell mooney::WR,darnell-mooney|WR|,Darnell Mooney,WR,,Laser Arm Torrey,,"['WR', 'W/R/T']"
+yahoo,32675,,19198.0,canon:tua tagovailoa::QB,tua-tagovailoa|QB|,Tua Tagovailoa,QB,,Laser Arm Torrey,,['QB']
+yahoo,28188,,,,,Chris Boswell,K,,Laser Arm Torrey,,['K']
+yahoo,100024,,,,,Los Angeles,DEF,,Laser Arm Torrey,,['DEF']
+yahoo,31833,,18600.0,canon:kyler murray::QB,kyler-murray|QB|,Kyler Murray,QB,,Birds of War,,['QB']
+yahoo,40041,,23070.0,canon:jaxon smith-njigba::WR,jaxon-smith-njigba|WR|,Jaxon Smith-Njigba,WR,,Birds of War,,"['WR', 'W/R/T']"
+yahoo,40877,,23019.0,canon:xavier worthy::WR,xavier-worthy|WR|,Xavier Worthy,WR,,Birds of War,,"['WR', 'W/R/T']"
+yahoo,40055,,23133.0,canon:bijan robinson::RB,bijan-robinson|RB|,Bijan Robinson,RB,,Birds of War,,"['RB', 'W/R/T']"
+yahoo,31960,,18705.0,canon:tony pollard::RB,tony-pollard|RB|,Tony Pollard,RB,,Birds of War,,"['RB', 'W/R/T']"
+yahoo,34010,,22936.0,canon:trey mcbride::TE,trey-mcbride|TE|,Trey McBride,TE,,Birds of War,,"['TE', 'W/R/T']"
+yahoo,40901,,25411.0,canon:rome odunze::WR,rome-odunze|WR|,Rome Odunze,WR,,Birds of War,,"['WR', 'W/R/T']"
+yahoo,34054,,20094.0,canon:brian robinson::RB,brian-robinson|RB|,Brian Robinson Jr.,RB,,Birds of War,,"['RB', 'W/R/T']"
+yahoo,28534,,13981.0,canon:stefon diggs::WR,stefon-diggs|WR|,Stefon Diggs,WR,,Birds of War,,"['WR', 'W/R/T']"
+yahoo,32696,,19246.0,canon:jordan love::QB,jordan-love|QB|,Jordan Love,QB,,Birds of War,,['QB']
+yahoo,34085,,22718.0,canon:jake ferguson::TE,jake-ferguson|TE|,Jake Ferguson,TE,,Birds of War,,"['TE', 'W/R/T']"
+yahoo,34047,,23891.0,canon:rachaad white::RB,rachaad-white|RB|,Rachaad White,RB,,Birds of War,,"['RB', 'W/R/T']"
+yahoo,32417,,,,,Chase McLaughlin,K,,Birds of War,,['K']
+yahoo,100012,,8150.0,canon:kansas city chiefs::DST,kansas-city-chiefs|DST|,Kansas City,DEF,,Birds of War,,['DEF']
+yahoo,31002,,17233.0,canon:lamar jackson::QB,lamar-jackson|QB|,Lamar Jackson,QB,,MVP Kenny,,['QB']
+yahoo,27581,,12123.0,canon:davante adams::WR,davante-adams|WR|,Davante Adams,WR,,MVP Kenny,,"['WR', 'W/R/T']"
+yahoo,33966,,20111.0,canon:chris olave::WR,chris-olave|WR|,Chris Olave,WR,,MVP Kenny,,"['WR', 'W/R/T']"
+yahoo,40059,,22968.0,canon:jahmyr gibbs::RB,jahmyr-gibbs|RB|,Jahmyr Gibbs,RB,,MVP Kenny,,"['RB', 'W/R/T']"
+yahoo,34120,,23059.0,canon:kyren williams::RB,kyren-williams|RB|,Kyren Williams,RB,,MVP Kenny,,"['RB', 'W/R/T']"
+yahoo,40064,,22978.0,canon:sam laporta::TE,sam-laporta|TE|,Sam LaPorta,TE,,MVP Kenny,,"['TE', 'W/R/T']"
+yahoo,32725,,19245.0,canon:jk dobbins::RB,j-k-dobbins|RB|,J.K. Dobbins,RB,,MVP Kenny,,"['RB', 'W/R/T']"
+yahoo,32231,,18598.0,canon:jakobi meyers::WR,jakobi-meyers|WR|,Jakobi Meyers,WR,,MVP Kenny,,"['WR', 'W/R/T']"
+yahoo,34104,,23748.0,canon:khalil shakir::WR,khalil-shakir|WR|,Khalil Shakir,WR,,MVP Kenny,,"['WR', 'W/R/T']"
+yahoo,40063,,23020.0,canon:jayden reed::WR,jayden-reed|WR|,Jayden Reed,WR,,MVP Kenny,,"['WR', 'W/R/T']"
+yahoo,31005,,17246.0,canon:nick chubb::RB,nick-chubb|RB|,Nick Chubb,RB,,MVP Kenny,,"['RB', 'W/R/T']"
+yahoo,34107,,24172.0,canon:tyler allgeier::RB,tyler-allgeier|RB|,Tyler Allgeier,RB,,MVP Kenny,,"['RB', 'W/R/T']"
+yahoo,34344,,,,,Cameron Dicker,K,,MVP Kenny,,['K']
+yahoo,100034,,8120.0,canon:houston texans::DST,houston-texans|DST|,Houston,DEF,,MVP Kenny,,['DEF']
