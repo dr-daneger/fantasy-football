@@ -1,0 +1,501 @@
+{
+  "recommendations": [
+    {
+      "league": "yahoo",
+      "teams": [
+        "Laser Arm Torrey",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Dallas Goedert"
+      ],
+      "sendB": [
+        "Dak Prescott",
+        "James Cook"
+      ],
+      "delta_next": {
+        "A": 1.7,
+        "B": 2.4
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Laser Arm Torrey",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Dallas Goedert"
+      ],
+      "sendB": [
+        "Jared Goff",
+        "James Cook"
+      ],
+      "delta_next": {
+        "A": 1.7,
+        "B": 2.4
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Laser Arm Torrey",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Dallas Goedert"
+      ],
+      "sendB": [
+        "James Cook",
+        "Michael Pittman Jr."
+      ],
+      "delta_next": {
+        "A": 1.7,
+        "B": 2.4
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Laser Arm Torrey",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Dallas Goedert"
+      ],
+      "sendB": [
+        "James Cook",
+        "Austin Ekeler"
+      ],
+      "delta_next": {
+        "A": 1.7,
+        "B": 2.4
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Laser Arm Torrey",
+        "Taylor Gang"
+      ],
+      "shape": "1v1",
+      "sendA": [
+        "Dallas Goedert"
+      ],
+      "sendB": [
+        "James Cook"
+      ],
+      "delta_next": {
+        "A": 1.7,
+        "B": 1.6
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Birds of War",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jake Ferguson"
+      ],
+      "sendB": [
+        "Dak Prescott",
+        "James Cook"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 2.3
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Birds of War",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jake Ferguson"
+      ],
+      "sendB": [
+        "Jared Goff",
+        "James Cook"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 2.3
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Birds of War",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jake Ferguson"
+      ],
+      "sendB": [
+        "James Cook",
+        "Michael Pittman Jr."
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 2.3
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Birds of War",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jake Ferguson"
+      ],
+      "sendB": [
+        "James Cook",
+        "Austin Ekeler"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 2.3
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Taylor Gang"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "CeeDee Lamb"
+      ],
+      "sendB": [
+        "Mike Evans",
+        "James Cook"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.7
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Birds of War",
+        "Taylor Gang"
+      ],
+      "shape": "1v1",
+      "sendA": [
+        "Jake Ferguson"
+      ],
+      "sendB": [
+        "James Cook"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.5
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Taylor Gang"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "CeeDee Lamb",
+        "Justin Fields"
+      ],
+      "sendB": [
+        "Jonathan Taylor"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.5
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Taylor Gang"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "CeeDee Lamb",
+        "Caleb Williams"
+      ],
+      "sendB": [
+        "Jonathan Taylor"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.5
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Taylor Gang"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "CeeDee Lamb",
+        "David Montgomery"
+      ],
+      "sendB": [
+        "Jonathan Taylor"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.5
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Taylor Gang"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "CeeDee Lamb",
+        "Rashod Bateman"
+      ],
+      "sendB": [
+        "Jonathan Taylor"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.5
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Orbital Tits",
+        "Taylor Gang"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Jayden Daniels",
+        "J.J. McCarthy"
+      ],
+      "sendB": [
+        "Jonathan Taylor"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.4
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Orbital Tits",
+        "Taylor Gang"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Jayden Daniels",
+        "RJ Harvey"
+      ],
+      "sendB": [
+        "Jonathan Taylor"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.4
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Orbital Tits",
+        "Taylor Gang"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Jayden Daniels",
+        "Josh Downs"
+      ],
+      "sendB": [
+        "Jonathan Taylor"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.4
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Orbital Tits",
+        "Taylor Gang"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Jayden Daniels",
+        "Jayden Higgins"
+      ],
+      "sendB": [
+        "Jonathan Taylor"
+      ],
+      "delta_next": {
+        "A": 1.4,
+        "B": 1.4
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Chubba My's Huevo"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Justin Fields",
+        "Drake London"
+      ],
+      "sendB": [
+        "Chuba Hubbard"
+      ],
+      "delta_next": {
+        "A": 1.3,
+        "B": 1.6
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Chubba My's Huevo"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Drake London",
+        "Caleb Williams"
+      ],
+      "sendB": [
+        "Chuba Hubbard"
+      ],
+      "delta_next": {
+        "A": 1.3,
+        "B": 1.6
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Chubba My's Huevo"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Drake London",
+        "David Montgomery"
+      ],
+      "sendB": [
+        "Chuba Hubbard"
+      ],
+      "delta_next": {
+        "A": 1.3,
+        "B": 1.6
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Chubba My's Huevo"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Drake London",
+        "Rashod Bateman"
+      ],
+      "sendB": [
+        "Chuba Hubbard"
+      ],
+      "delta_next": {
+        "A": 1.3,
+        "B": 1.6
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Chubba My's Huevo"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Drake London",
+        "Tank Bigsby"
+      ],
+      "sendB": [
+        "Chuba Hubbard"
+      ],
+      "delta_next": {
+        "A": 1.3,
+        "B": 1.6
+      }
+    },
+    {
+      "league": "yahoo",
+      "teams": [
+        "Block Party Dane",
+        "Orbital Tits"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Justin Fields",
+        "Ricky Pearsall"
+      ],
+      "sendB": [
+        "RJ Harvey"
+      ],
+      "delta_next": {
+        "A": 1.3,
+        "B": 1.6
+      }
+    }
+  ],
+  "metadata": {
+    "league": "yahoo",
+    "league_id": "yahoo",
+    "epsilon": 1.0,
+    "top1": 30,
+    "top2": 10,
+    "shapes": [
+      "1v1",
+      "2v1",
+      "1v2"
+    ],
+    "exclude_kdef_packs": true,
+    "input_path": "C:\\Users\\Dane\\Documents\\Local Repo\\fantasy-football\\data\\out\\projections.json",
+    "input_sha256": "ed347ee35621f22c97624e48d962d32c29bedc4fb964e773590cf3c6e628f614",
+    "pr_next": {
+      "QB": 17.5,
+      "RB": 12.8,
+      "WR": 10.0,
+      "TE": 9.2,
+      "K": 9.1,
+      "DEF": 8.3
+    },
+    "fr_next": 12.8
+  }
+}

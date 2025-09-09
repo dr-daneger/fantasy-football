@@ -1,0 +1,51 @@
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Christian McCaffrey"], "sendB": ["Bucky Irving", "Jaylen Warren"], "delta_next": {"A": 0.8, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Jaxon Smith-Njigba"], "sendB": ["DeVonta Smith", "Breece Hall"], "delta_next": {"A": 0.9, "B": 0.8}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Davante Adams"], "sendB": ["Jaylen Warren", "Breece Hall"], "delta_next": {"A": 0.9, "B": 0.8}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Bucky Irving", "George Pickens"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Bucky Irving", "Buffalo Bills"], "delta_next": {"A": 0.8, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v1", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Bucky Irving"], "delta_next": {"A": 0.7, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "2v1", "sendA": ["Amon-Ra St. Brown", "C.J. Stroud"], "sendB": ["Bucky Irving"], "delta_next": {"A": 0.7, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "2v1", "sendA": ["Amon-Ra St. Brown", "David Montgomery"], "sendB": ["Bucky Irving"], "delta_next": {"A": 0.7, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "2v1", "sendA": ["Amon-Ra St. Brown", "Quinshon Judkins"], "sendB": ["Bucky Irving"], "delta_next": {"A": 0.7, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "2v1", "sendA": ["Amon-Ra St. Brown", "Isaac Guerendo"], "sendB": ["Bucky Irving"], "delta_next": {"A": 0.7, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Bucky Irving", "Jared Goff"], "delta_next": {"A": 0.7, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Bucky Irving", "Chris Olave"], "delta_next": {"A": 0.7, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Bucky Irving", "Nick Chubb"], "delta_next": {"A": 0.7, "B": 0.7}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Drake London", "Breece Hall"], "delta_next": {"A": 1.1, "B": 0.6}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Derrick Henry", "Tyrone Tracy Jr."], "delta_next": {"A": 0.6, "B": 0.8}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Christian McCaffrey"], "sendB": ["Bucky Irving", "Breece Hall"], "delta_next": {"A": 0.5, "B": 1.2}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Jaxon Smith-Njigba"], "sendB": ["DeVonta Smith", "Jaylen Warren"], "delta_next": {"A": 1.2, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "ThunderDuck5"], "shape": "1v2", "sendA": ["Davante Adams"], "sendB": ["Jaylen Warren", "George Pickens"], "delta_next": {"A": 0.5, "B": 1.2}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v1", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Derrick Henry"], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v1", "sendA": ["Jakobi Meyers"], "sendB": ["Tyrone Tracy Jr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "2v1", "sendA": ["Amon-Ra St. Brown", "C.J. Stroud"], "sendB": ["Derrick Henry"], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "2v1", "sendA": ["Amon-Ra St. Brown", "David Montgomery"], "sendB": ["Derrick Henry"], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "2v1", "sendA": ["Amon-Ra St. Brown", "Quinshon Judkins"], "sendB": ["Derrick Henry"], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "2v1", "sendA": ["Amon-Ra St. Brown", "Isaac Guerendo"], "sendB": ["Derrick Henry"], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "2v1", "sendA": ["C.J. Stroud", "Jakobi Meyers"], "sendB": ["Tyrone Tracy Jr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "2v1", "sendA": ["Jakobi Meyers", "David Montgomery"], "sendB": ["Tyrone Tracy Jr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "2v1", "sendA": ["Jakobi Meyers", "Quinshon Judkins"], "sendB": ["Tyrone Tracy Jr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "2v1", "sendA": ["Jakobi Meyers", "Isaac Guerendo"], "sendB": ["Tyrone Tracy Jr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Justin Herbert", "Derrick Henry"], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Derrick Henry", "Deebo Samuel Sr."], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Derrick Henry", "Calvin Ridley"], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Derrick Henry", "Travis Etienne Jr."], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Derrick Henry", "Kyle Pitts Sr."], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Alvin Kamara", "Jerome Ford"], "delta_next": {"A": 0.5, "B": 0.9}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Justin Herbert", "Tyrone Tracy Jr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Tyrone Tracy Jr.", "Deebo Samuel Sr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Tyrone Tracy Jr.", "Calvin Ridley"], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Tyrone Tracy Jr.", "Travis Etienne Jr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "rholcomb"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Tyrone Tracy Jr.", "Kyle Pitts Sr."], "delta_next": {"A": 0.9, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Nico Collins", "Justin Fields"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Nico Collins", "Caleb Williams"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Nico Collins", "Ricky Pearsall"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Nico Collins", "Jacory Croskey-Merritt"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Nico Collins", "Zach Charbonnet"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Amon-Ra St. Brown"], "sendB": ["Nico Collins", "Ollie Gordon II"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Justin Fields", "Garrett Wilson"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Caleb Williams", "Garrett Wilson"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Garrett Wilson", "Ricky Pearsall"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Garrett Wilson", "Jacory Croskey-Merritt"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Garrett Wilson", "Zach Charbonnet"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "sleeper", "teams": ["DBoiii", "💿z nutz"], "shape": "1v2", "sendA": ["Jakobi Meyers"], "sendB": ["Garrett Wilson", "Ollie Gordon II"], "delta_next": {"A": 0.5, "B": 0.5}}

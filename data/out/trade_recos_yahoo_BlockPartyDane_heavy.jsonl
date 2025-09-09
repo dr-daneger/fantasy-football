@@ -1,0 +1,161 @@
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Dalton Kincaid"], "sendB": ["James Cook", "Colston Loveland"], "delta_next": {"A": 1.6, "B": 1.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Mike Evans", "James Cook"], "delta_next": {"A": 1.4, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Justin Fields"], "sendB": ["Jonathan Taylor"], "delta_next": {"A": 1.4, "B": 1.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Caleb Williams"], "sendB": ["Jonathan Taylor"], "delta_next": {"A": 1.4, "B": 1.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "David Montgomery"], "sendB": ["Jonathan Taylor"], "delta_next": {"A": 1.4, "B": 1.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Rashod Bateman"], "sendB": ["Jonathan Taylor"], "delta_next": {"A": 1.4, "B": 1.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Tank Bigsby"], "sendB": ["Jonathan Taylor"], "delta_next": {"A": 1.4, "B": 1.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["Justin Fields", "Terry McLaurin"], "sendB": ["James Cook"], "delta_next": {"A": 1.5, "B": 1.4}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["Caleb Williams", "Terry McLaurin"], "sendB": ["James Cook"], "delta_next": {"A": 1.5, "B": 1.4}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["Terry McLaurin", "David Montgomery"], "sendB": ["James Cook"], "delta_next": {"A": 1.5, "B": 1.4}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["Terry McLaurin", "Rashod Bateman"], "sendB": ["James Cook"], "delta_next": {"A": 1.5, "B": 1.4}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["Terry McLaurin", "Tank Bigsby"], "sendB": ["James Cook"], "delta_next": {"A": 1.5, "B": 1.4}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["Justin Fields", "Drake London"], "sendB": ["Chuba Hubbard"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["Drake London", "Caleb Williams"], "sendB": ["Chuba Hubbard"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["Drake London", "David Montgomery"], "sendB": ["Chuba Hubbard"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["Drake London", "Rashod Bateman"], "sendB": ["Chuba Hubbard"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["Drake London", "Tank Bigsby"], "sendB": ["Chuba Hubbard"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["RJ Harvey"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["RJ Harvey"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "David Montgomery"], "sendB": ["RJ Harvey"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["RJ Harvey"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["RJ Harvey"], "delta_next": {"A": 1.3, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Terry McLaurin"], "sendB": ["James Cook", "DJ Moore"], "delta_next": {"A": 1.2, "B": 1.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Justin Fields"], "sendB": ["Bucky Irving"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Caleb Williams"], "sendB": ["Bucky Irving"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "David Montgomery"], "sendB": ["Bucky Irving"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Rashod Bateman"], "sendB": ["Bucky Irving"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Tank Bigsby"], "sendB": ["Bucky Irving"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Patrick Mahomes II", "Chuba Hubbard"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Terry McLaurin"], "sendB": ["TreVeyon Henderson"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Terry McLaurin"], "sendB": ["TreVeyon Henderson"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Terry McLaurin", "David Montgomery"], "sendB": ["TreVeyon Henderson"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Terry McLaurin", "Rashod Bateman"], "sendB": ["TreVeyon Henderson"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Terry McLaurin", "Tank Bigsby"], "sendB": ["TreVeyon Henderson"], "delta_next": {"A": 1.2, "B": 1.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Jonathan Taylor", "DJ Moore"], "delta_next": {"A": 1.1, "B": 2.0}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Terry McLaurin"], "sendB": ["Jaylen Warren"], "delta_next": {"A": 1.1, "B": 1.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Terry McLaurin"], "sendB": ["Jaylen Warren"], "delta_next": {"A": 1.1, "B": 1.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Terry McLaurin", "David Montgomery"], "sendB": ["Jaylen Warren"], "delta_next": {"A": 1.1, "B": 1.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Terry McLaurin", "Rashod Bateman"], "sendB": ["Jaylen Warren"], "delta_next": {"A": 1.1, "B": 1.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Terry McLaurin", "Tank Bigsby"], "sendB": ["Jaylen Warren"], "delta_next": {"A": 1.1, "B": 1.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Justin Fields"], "sendB": ["Derrick Henry"], "delta_next": {"A": 1.0, "B": 1.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Caleb Williams"], "sendB": ["Derrick Henry"], "delta_next": {"A": 1.0, "B": 1.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "David Montgomery"], "sendB": ["Derrick Henry"], "delta_next": {"A": 1.0, "B": 1.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Rashod Bateman"], "sendB": ["Derrick Henry"], "delta_next": {"A": 1.0, "B": 1.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Tank Bigsby"], "sendB": ["Derrick Henry"], "delta_next": {"A": 1.0, "B": 1.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["J.J. McCarthy"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Josh Downs"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Jayden Higgins"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Jonnu Smith"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Bhayshul Tuten"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["J.J. McCarthy"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Josh Downs"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Jayden Higgins"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Jonnu Smith"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Bhayshul Tuten"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["J.J. McCarthy"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Josh Downs"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Jayden Higgins"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Jonnu Smith"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Bhayshul Tuten"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["J.J. McCarthy"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Josh Downs"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Jayden Higgins"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Jonnu Smith"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Bhayshul Tuten"], "delta_next": {"A": 1.0, "B": 1.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Terry McLaurin"], "sendB": ["James Cook", "Jaylen Waddle"], "delta_next": {"A": 0.9, "B": 2.2}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Jayden Daniels", "RJ Harvey"], "delta_next": {"A": 2.0, "B": 0.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Terry McLaurin"], "sendB": ["Ja'Marr Chase"], "delta_next": {"A": 1.7, "B": 0.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Jayden Daniels", "J.J. McCarthy"], "delta_next": {"A": 1.7, "B": 0.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Jayden Daniels", "Josh Downs"], "delta_next": {"A": 1.7, "B": 0.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Jayden Daniels", "Jayden Higgins"], "delta_next": {"A": 1.7, "B": 0.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Jayden Daniels", "Jonnu Smith"], "delta_next": {"A": 1.7, "B": 0.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Jayden Daniels", "Bhayshul Tuten"], "delta_next": {"A": 1.7, "B": 0.9}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Jonathan Taylor", "Jaylen Waddle"], "delta_next": {"A": 0.8, "B": 2.3}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Jayden Daniels", "Jaylen Warren"], "delta_next": {"A": 2.1, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Drake London", "Tyrone Tracy Jr."], "sendB": ["Alvin Kamara"], "delta_next": {"A": 0.9, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Drake London", "Tyrone Tracy Jr."], "sendB": ["Kyren Williams"], "delta_next": {"A": 0.8, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Derrick Henry", "DJ Moore"], "delta_next": {"A": 0.7, "B": 2.4}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Derrick Henry", "Jaylen Waddle"], "delta_next": {"A": 2.4, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Jayden Daniels", "TreVeyon Henderson"], "delta_next": {"A": 2.2, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Dak Prescott", "Derrick Henry"], "delta_next": {"A": 2.2, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Terry McLaurin"], "sendB": ["Dak Prescott", "James Cook"], "delta_next": {"A": 0.7, "B": 2.2}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Derrick Henry", "Jared Goff"], "delta_next": {"A": 2.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Derrick Henry", "Michael Pittman Jr."], "delta_next": {"A": 2.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Derrick Henry", "Austin Ekeler"], "delta_next": {"A": 2.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Drake London"], "sendB": ["Derrick Henry", "Kaleb Johnson"], "delta_next": {"A": 2.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tyrone Tracy Jr."], "sendB": ["Jaylen Warren"], "delta_next": {"A": 1.9, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["CeeDee Lamb", "David Montgomery"], "sendB": ["Chase Brown"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Calvin Ridley"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Zach Charbonnet"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Adam Thielen"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Najee Harris"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Calvin Ridley"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Zach Charbonnet"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Adam Thielen"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Najee Harris"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Calvin Ridley"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Zach Charbonnet"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Adam Thielen"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Najee Harris"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Calvin Ridley"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Zach Charbonnet"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Adam Thielen"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Hard Count john"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Najee Harris"], "delta_next": {"A": 1.0, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Justin Fields"], "sendB": ["Josh Jacobs"], "delta_next": {"A": 0.6, "B": 2.3}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Caleb Williams"], "sendB": ["Josh Jacobs"], "delta_next": {"A": 0.6, "B": 2.3}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "David Montgomery"], "sendB": ["Josh Jacobs"], "delta_next": {"A": 0.6, "B": 2.3}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Rashod Bateman"], "sendB": ["Josh Jacobs"], "delta_next": {"A": 0.6, "B": 2.3}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Chubba My's Huevo"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Tank Bigsby"], "sendB": ["Josh Jacobs"], "delta_next": {"A": 0.6, "B": 2.3}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Jonathan Taylor", "Dak Prescott"], "delta_next": {"A": 0.6, "B": 2.3}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tyrone Tracy Jr."], "sendB": ["TreVeyon Henderson"], "delta_next": {"A": 2.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Chris Olave"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Khalil Shakir"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["J.K. Dobbins"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Jayden Reed"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Nick Chubb"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Tyler Allgeier"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Chris Olave"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Khalil Shakir"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["J.K. Dobbins"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Jayden Reed"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Nick Chubb"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Tyler Allgeier"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Chris Olave"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Khalil Shakir"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["J.K. Dobbins"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Jayden Reed"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Nick Chubb"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Tyler Allgeier"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Chris Olave"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Khalil Shakir"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["J.K. Dobbins"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Jayden Reed"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Nick Chubb"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Tyler Allgeier"], "delta_next": {"A": 1.0, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Justin Fields"], "sendB": ["Dak Prescott", "Austin Ekeler"], "delta_next": {"A": 0.6, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Caleb Williams"], "sendB": ["Dak Prescott", "Austin Ekeler"], "delta_next": {"A": 0.6, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Ricky Pearsall"], "sendB": ["Dak Prescott", "Austin Ekeler"], "delta_next": {"A": 0.6, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["David Montgomery"], "sendB": ["Dak Prescott", "Austin Ekeler"], "delta_next": {"A": 0.6, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Rashod Bateman"], "sendB": ["Dak Prescott", "Austin Ekeler"], "delta_next": {"A": 0.6, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Tank Bigsby"], "sendB": ["Dak Prescott", "Austin Ekeler"], "delta_next": {"A": 0.6, "B": 0.8}}
+{"league": "yahoo", "teams": ["Block Party Dane", "G baby oil"], "shape": "1v2", "sendA": ["Terry McLaurin"], "sendB": ["Courtland Sutton", "D'Andre Swift"], "delta_next": {"A": 0.6, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Ricky Pearsall", "David Montgomery"], "sendB": ["J.K. Dobbins"], "delta_next": {"A": 0.7, "B": 0.6}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Terry McLaurin"], "sendB": ["Jared Goff", "James Cook"], "delta_next": {"A": 0.5, "B": 2.2}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Terry McLaurin"], "sendB": ["James Cook", "Michael Pittman Jr."], "delta_next": {"A": 0.5, "B": 2.2}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Terry McLaurin"], "sendB": ["James Cook", "Austin Ekeler"], "delta_next": {"A": 0.5, "B": 2.2}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v2", "sendA": ["Terry McLaurin"], "sendB": ["James Cook", "Kaleb Johnson"], "delta_next": {"A": 0.5, "B": 2.2}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Taylor Gang"], "shape": "1v1", "sendA": ["Terry McLaurin"], "sendB": ["James Cook"], "delta_next": {"A": 0.5, "B": 1.4}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Tyrone Tracy Jr."], "sendB": ["Jahmyr Gibbs"], "delta_next": {"A": 1.1, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "MVP Kenny"], "shape": "2v1", "sendA": ["Terry McLaurin", "Dalton Kincaid"], "sendB": ["Sam LaPorta"], "delta_next": {"A": 1.1, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Justin Fields", "Ricky Pearsall"], "sendB": ["Deebo Samuel Sr."], "delta_next": {"A": 1.0, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Caleb Williams", "Ricky Pearsall"], "sendB": ["Deebo Samuel Sr."], "delta_next": {"A": 1.0, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Rashod Bateman"], "sendB": ["Deebo Samuel Sr."], "delta_next": {"A": 1.0, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Orbital Tits"], "shape": "2v1", "sendA": ["Ricky Pearsall", "Tank Bigsby"], "sendB": ["Deebo Samuel Sr."], "delta_next": {"A": 1.0, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "G baby oil"], "shape": "1v2", "sendA": ["CeeDee Lamb"], "sendB": ["Nico Collins", "D'Andre Swift"], "delta_next": {"A": 0.8, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "Matthew’s Golden Shower"], "shape": "2v1", "sendA": ["Drake London", "Terry McLaurin"], "sendB": ["Malik Nabers"], "delta_next": {"A": 0.5, "B": 0.7}}
+{"league": "yahoo", "teams": ["Block Party Dane", "G baby oil"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Justin Fields"], "sendB": ["Nico Collins"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "G baby oil"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Caleb Williams"], "sendB": ["Nico Collins"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "G baby oil"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Ricky Pearsall"], "sendB": ["Nico Collins"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "G baby oil"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Rashod Bateman"], "sendB": ["Nico Collins"], "delta_next": {"A": 0.5, "B": 0.5}}
+{"league": "yahoo", "teams": ["Block Party Dane", "G baby oil"], "shape": "2v1", "sendA": ["CeeDee Lamb", "Tank Bigsby"], "sendB": ["Nico Collins"], "delta_next": {"A": 0.5, "B": 0.5}}
