@@ -1,0 +1,599 @@
+{
+  "recommendations": [
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "ThunderDuck5"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jakobi Meyers"
+      ],
+      "sendB": [
+        "Bucky Irving",
+        "George Pickens"
+      ],
+      "delta_next": {
+        "A": 5.5,
+        "B": 5.3
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "ThunderDuck5"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jakobi Meyers"
+      ],
+      "sendB": [
+        "Drake London",
+        "Breece Hall"
+      ],
+      "delta_next": {
+        "A": 5.6,
+        "B": 5.2
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "ThunderDuck5"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jakobi Meyers"
+      ],
+      "sendB": [
+        "Bucky Irving",
+        "Jared Goff"
+      ],
+      "delta_next": {
+        "A": 5.2,
+        "B": 5.3
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "ThunderDuck5"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jakobi Meyers"
+      ],
+      "sendB": [
+        "Bucky Irving",
+        "Chris Olave"
+      ],
+      "delta_next": {
+        "A": 5.2,
+        "B": 5.3
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "rholcomb"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Amon-Ra St. Brown"
+      ],
+      "sendB": [
+        "Brian Thomas Jr.",
+        "Derrick Henry"
+      ],
+      "delta_next": {
+        "A": 5.3,
+        "B": 5.2
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "ThunderDuck5"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Davante Adams"
+      ],
+      "sendB": [
+        "Bucky Irving",
+        "DeVonta Smith"
+      ],
+      "delta_next": {
+        "A": 5.1,
+        "B": 5.7
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "rholcomb"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jaxon Smith-Njigba"
+      ],
+      "sendB": [
+        "Alvin Kamara",
+        "Tee Higgins"
+      ],
+      "delta_next": {
+        "A": 5.4,
+        "B": 5.1
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "rholcomb"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jakobi Meyers"
+      ],
+      "sendB": [
+        "Derrick Henry",
+        "Tyrone Tracy Jr."
+      ],
+      "delta_next": {
+        "A": 5.1,
+        "B": 5.4
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Str8 Outta Mar-a-Lago"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jaxon Smith-Njigba"
+      ],
+      "sendB": [
+        "A.J. Brown",
+        "Chuba Hubbard"
+      ],
+      "delta_next": {
+        "A": 5.2,
+        "B": 5.1
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Str8 Outta Mar-a-Lago"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Davante Adams"
+      ],
+      "sendB": [
+        "De'Von Achane",
+        "Cooper Kupp"
+      ],
+      "delta_next": {
+        "A": 5.0,
+        "B": 5.5
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Str8 Outta Mar-a-Lago"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Davante Adams"
+      ],
+      "sendB": [
+        "De'Von Achane",
+        "Travis Hunter"
+      ],
+      "delta_next": {
+        "A": 5.0,
+        "B": 5.5
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Str8 Outta Mar-a-Lago"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Davante Adams"
+      ],
+      "sendB": [
+        "Jahmyr Gibbs",
+        "Cooper Kupp"
+      ],
+      "delta_next": {
+        "A": 5.0,
+        "B": 5.5
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Str8 Outta Mar-a-Lago"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Davante Adams"
+      ],
+      "sendB": [
+        "Jahmyr Gibbs",
+        "Travis Hunter"
+      ],
+      "delta_next": {
+        "A": 5.0,
+        "B": 5.5
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "rholcomb"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Amon-Ra St. Brown",
+        "C.J. Stroud"
+      ],
+      "sendB": [
+        "Tyrone Tracy Jr."
+      ],
+      "delta_next": {
+        "A": 5.5,
+        "B": 5.0
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "rholcomb"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Amon-Ra St. Brown",
+        "David Montgomery"
+      ],
+      "sendB": [
+        "Tyrone Tracy Jr."
+      ],
+      "delta_next": {
+        "A": 5.5,
+        "B": 5.0
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Lottsofwins"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jaxon Smith-Njigba"
+      ],
+      "sendB": [
+        "Chase Brown",
+        "DK Metcalf"
+      ],
+      "delta_next": {
+        "A": 4.6,
+        "B": 4.9
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Lottsofwins"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jaxon Smith-Njigba"
+      ],
+      "sendB": [
+        "Chase Brown",
+        "Courtland Sutton"
+      ],
+      "delta_next": {
+        "A": 5.0,
+        "B": 4.5
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Lottsofwins"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Davante Adams"
+      ],
+      "sendB": [
+        "Chase Brown",
+        "Emeka Egbuka"
+      ],
+      "delta_next": {
+        "A": 4.5,
+        "B": 5.0
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Lottsofwins"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Davante Adams"
+      ],
+      "sendB": [
+        "Chase Brown",
+        "DK Metcalf"
+      ],
+      "delta_next": {
+        "A": 5.1,
+        "B": 4.4
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "💿z nutz"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Davante Adams"
+      ],
+      "sendB": [
+        "CeeDee Lamb",
+        "Garrett Wilson"
+      ],
+      "delta_next": {
+        "A": 4.4,
+        "B": 4.6
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "Lottsofwins"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Amon-Ra St. Brown"
+      ],
+      "sendB": [
+        "Saquon Barkley",
+        "Tetairoa McMillan"
+      ],
+      "delta_next": {
+        "A": 5.2,
+        "B": 4.3
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "💿z nutz"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Jayden Daniels",
+        "Amon-Ra St. Brown"
+      ],
+      "sendB": [
+        "CeeDee Lamb"
+      ],
+      "delta_next": {
+        "A": 4.3,
+        "B": 4.3
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "NabersThinkI'mSellinDope"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "David Montgomery"
+      ],
+      "sendB": [
+        "Brock Purdy",
+        "Kyren Williams"
+      ],
+      "delta_next": {
+        "A": 4.9,
+        "B": 4.2
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "NabersThinkI'mSellinDope"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "David Montgomery"
+      ],
+      "sendB": [
+        "Brock Purdy",
+        "Ashton Jeanty"
+      ],
+      "delta_next": {
+        "A": 4.9,
+        "B": 4.2
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "NabersThinkI'mSellinDope"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "David Montgomery"
+      ],
+      "sendB": [
+        "Kyren Williams",
+        "Matthew Golden"
+      ],
+      "delta_next": {
+        "A": 4.9,
+        "B": 4.2
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "NabersThinkI'mSellinDope"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "David Montgomery"
+      ],
+      "sendB": [
+        "Ashton Jeanty",
+        "Matthew Golden"
+      ],
+      "delta_next": {
+        "A": 4.9,
+        "B": 4.2
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "💿z nutz"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Christian McCaffrey",
+        "C.J. Stroud"
+      ],
+      "sendB": [
+        "TreVeyon Henderson"
+      ],
+      "delta_next": {
+        "A": 4.2,
+        "B": 4.9
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "💿z nutz"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Christian McCaffrey",
+        "Stefon Diggs"
+      ],
+      "sendB": [
+        "TreVeyon Henderson"
+      ],
+      "delta_next": {
+        "A": 4.2,
+        "B": 4.9
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "💿z nutz"
+      ],
+      "shape": "2v1",
+      "sendA": [
+        "Amon-Ra St. Brown",
+        "C.J. Stroud"
+      ],
+      "sendB": [
+        "Jaylen Waddle"
+      ],
+      "delta_next": {
+        "A": 4.9,
+        "B": 4.2
+      }
+    },
+    {
+      "league": "sleeper",
+      "teams": [
+        "DBoiii",
+        "NabersThinkI'mSellinDope"
+      ],
+      "shape": "1v2",
+      "sendA": [
+        "Jakobi Meyers"
+      ],
+      "sendB": [
+        "Malik Nabers",
+        "Brock Purdy"
+      ],
+      "delta_next": {
+        "A": 5.3,
+        "B": 3.8
+      }
+    }
+  ],
+  "metadata": {
+    "league": "sleeper",
+    "league_id": "sleeper",
+    "epsilon": 1.5,
+    "top1": 30,
+    "top2": 10,
+    "shapes": [
+      "1v1",
+      "2v1",
+      "1v2"
+    ],
+    "exclude_kdef_packs": true,
+    "strategy": "all",
+    "input_path": "C:\\Users\\Dane\\Documents\\Local Repo\\fantasy-football\\data\\out\\projections.json",
+    "input_sha256": "ed347ee35621f22c97624e48d962d32c29bedc4fb964e773590cf3c6e628f614",
+    "pr_next": {
+      "QB": 17.5,
+      "RB": 8.9,
+      "WR": 12.1,
+      "TE": 9.2,
+      "K": 9.1,
+      "DEF": 7.2
+    },
+    "fr_next": 12.1
+  }
+}

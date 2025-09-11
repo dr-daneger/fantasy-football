@@ -1,0 +1,28 @@
+{
+  "recommendations": [],
+  "metadata": {
+    "league": "sleeper",
+    "league_id": "sleeper",
+    "epsilon": 0.8,
+    "top1": 30,
+    "top2": 10,
+    "shapes": [
+      "1v1",
+      "2v1",
+      "1v2"
+    ],
+    "exclude_kdef_packs": true,
+    "strategy": "pos-need",
+    "input_path": "C:\\Users\\Dane\\Documents\\Local Repo\\fantasy-football\\data\\out\\projections.json",
+    "input_sha256": "ed347ee35621f22c97624e48d962d32c29bedc4fb964e773590cf3c6e628f614",
+    "pr_next": {
+      "QB": 17.5,
+      "RB": 8.9,
+      "WR": 12.1,
+      "TE": 9.2,
+      "K": 9.1,
+      "DEF": 7.2
+    },
+    "fr_next": 12.1
+  }
+}
