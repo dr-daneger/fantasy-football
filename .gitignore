@@ -1,0 +1,11 @@
+# Secrets
+oauth2.json
+
+# Cached data (large)
+players_nfl.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
